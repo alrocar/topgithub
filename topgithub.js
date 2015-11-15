@@ -55,7 +55,7 @@ topgithub.prototype.request = function(url) {
 
                 var coords = self.getLonLat(city);
 
-                if (username) {
+                if (username && coords) {
                     features.push({
                         'type': 'Feature',
                         'geometry' : {

@@ -61,21 +61,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 4",
-                "username": "Bernardo-MG",
-                "commits": "4605",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/7045900?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -190,21 +175,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 11",
-                "username": "Maks3w",
-                "commits": "2939",
-                "stars": "155",
-                "languages": "PHP",
-                "city": "España (Spain)",
-                "avatar": "https://avatars1.githubusercontent.com/u/1301698?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -219,21 +189,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid - Valladolid",
                 "avatar": "https://avatars1.githubusercontent.com/u/932968?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 13",
-                "username": "mbarrenechea",
-                "commits": "2756",
-                "stars": "0",
-                "languages": "Ruby",
-                "city": "España",
-                "avatar": "https://avatars2.githubusercontent.com/u/8928965?v=3&s=64"
             }
         },
         {
@@ -386,21 +341,6 @@
                 "languages": "Python",
                 "city": "Pamplona, Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/642210?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 22",
-                "username": "pedrobaeza",
-                "commits": "2345",
-                "stars": "4",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/7165771?v=3&s=64"
             }
         },
         {
@@ -596,21 +536,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 33",
-                "username": "oscarotero",
-                "commits": "1979",
-                "stars": "913",
-                "languages": "PHP",
-                "city": "Galicia",
-                "avatar": "https://avatars1.githubusercontent.com/u/377873?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-1.140374",
@@ -725,21 +650,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 40",
-                "username": "kzangeli",
-                "commits": "1833",
-                "stars": "0",
-                "languages": "",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/5338380?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.7326773",
@@ -816,21 +726,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 45",
-                "username": "davidromani",
-                "commits": "1745",
-                "stars": "0",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/698779?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -850,21 +745,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 47",
-                "username": "mdtrooper",
-                "commits": "1705",
-                "stars": "10",
-                "languages": "Python",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/1285451?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -879,21 +759,6 @@
                 "languages": "Shell",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/1534240?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 49",
-                "username": "manvalls",
-                "commits": "1662",
-                "stars": "3",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/6196916?v=3&s=64"
             }
         },
         {
@@ -994,21 +859,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 55",
-                "username": "rchavarria",
-                "commits": "1530",
-                "stars": "17",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/612688?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -1061,21 +911,6 @@
                 "languages": "Python",
                 "city": "Madrid, Jaén, Spain, España",
                 "avatar": "https://avatars2.githubusercontent.com/u/877218?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 59",
-                "username": "idelvall",
-                "commits": "1514",
-                "stars": "0",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/5653455?v=3&s=64"
             }
         },
         {
@@ -1404,21 +1239,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 77",
-                "username": "DaniGuardiola",
-                "commits": "1317",
-                "stars": "46",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/8862967?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -1452,36 +1272,6 @@
                 "languages": "HTML",
                 "city": "Barcelona",
                 "avatar": "https://avatars1.githubusercontent.com/u/886033?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 80",
-                "username": "leliel12",
-                "commits": "1289",
-                "stars": "2",
-                "languages": "Python",
-                "city": "Cordoba",
-                "avatar": "https://avatars1.githubusercontent.com/u/299010?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 81",
-                "username": "zyga",
-                "commits": "1283",
-                "stars": "200",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/784262?v=3&s=64"
             }
         },
         {
@@ -1677,21 +1467,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 92",
-                "username": "aguslr",
-                "commits": "1232",
-                "stars": "6",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/421687?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-8.7124471",
@@ -1782,21 +1557,6 @@
                 "languages": "JavaScript",
                 "city": "London & Barcelona",
                 "avatar": "https://avatars2.githubusercontent.com/u/723386?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 98",
-                "username": "danielfernandez",
-                "commits": "1184",
-                "stars": "3",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1492299?v=3&s=64"
             }
         },
         {
@@ -1916,21 +1676,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 105",
-                "username": "jleyva",
-                "commits": "1123",
-                "stars": "142",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/615556?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-16.2548558",
@@ -1964,21 +1709,6 @@
                 "languages": "JavaScript",
                 "city": "Canary Islands, Tenerife, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/249454?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 108",
-                "username": "AlbertoFuente",
-                "commits": "1122",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/6747489?v=3&s=64"
             }
         },
         {
@@ -2288,21 +2018,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 125",
-                "username": "turran",
-                "commits": "1044",
-                "stars": "14",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/24329?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-2.9234409",
@@ -2393,36 +2108,6 @@
                 "languages": "Python",
                 "city": "Azkoitia, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/2323616?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 131",
-                "username": "Ecuacion",
-                "commits": "1021",
-                "stars": "22",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/8343451?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 132",
-                "username": "adrianmo",
-                "commits": "1008",
-                "stars": "10",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/3786750?v=3&s=64"
             }
         },
         {
@@ -2523,21 +2208,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 138",
-                "username": "josepramon",
-                "commits": "973",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Catalunya",
-                "avatar": "https://avatars2.githubusercontent.com/u/870039?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-4.9624159",
@@ -2614,21 +2284,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 143",
-                "username": "voodoorai2000",
-                "commits": "960",
-                "stars": "46",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/4169?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -2662,36 +2317,6 @@
                 "languages": "JavaScript",
                 "city": "Barcelona, Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/1260830?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 146",
-                "username": "OpenSPA",
-                "commits": "946",
-                "stars": "5",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/2924560?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 147",
-                "username": "gradha",
-                "commits": "946",
-                "stars": "195",
-                "languages": "Objective-C",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/101927?v=3&s=64"
             }
         },
         {
@@ -3115,21 +2740,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 170",
-                "username": "AD7six",
-                "commits": "879",
-                "stars": "139",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/33387?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -3282,21 +2892,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 179",
-                "username": "jlblancoc",
-                "commits": "857",
-                "stars": "142",
-                "languages": "CMake",
-                "city": "Almeria (Spain)",
-                "avatar": "https://avatars0.githubusercontent.com/u/5497818?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -3316,21 +2911,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 181",
-                "username": "alex94puchades",
-                "commits": "856",
-                "stars": "21",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/6496212?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -3345,36 +2925,6 @@
                 "languages": "Go",
                 "city": "Barcelona",
                 "avatar": "https://avatars1.githubusercontent.com/u/1754343?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 183",
-                "username": "erikras",
-                "commits": "851",
-                "stars": "878",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/4396759?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 184",
-                "username": "ljmanso",
-                "commits": "839",
-                "stars": "2",
-                "languages": "Python",
-                "city": "Extremadura",
-                "avatar": "https://avatars0.githubusercontent.com/u/1719846?v=3&s=64"
             }
         },
         {
@@ -3532,21 +3082,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 193",
-                "username": "frbattid",
-                "commits": "810",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/3865056?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9883887",
@@ -3585,21 +3120,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 196",
-                "username": "francisbrosnan",
-                "commits": "792",
-                "stars": "0",
-                "languages": "",
-                "city": "España",
-                "avatar": "https://avatars2.githubusercontent.com/u/15239600?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.7003454",
@@ -3633,36 +3153,6 @@
                 "languages": "CSS",
                 "city": "Barcelona",
                 "avatar": "https://avatars0.githubusercontent.com/u/832627?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 199",
-                "username": "pepone",
-                "commits": "780",
-                "stars": "2",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/254604?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 200",
-                "username": "airenzp",
-                "commits": "776",
-                "stars": "0",
-                "languages": "",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/12271391?v=3&s=64"
             }
         },
         {
@@ -3763,21 +3253,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 206",
-                "username": "sonnyp",
-                "commits": "762",
-                "stars": "49",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/19673?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -3849,21 +3324,6 @@
                 "languages": "JavaScript",
                 "city": "Barcelona",
                 "avatar": "https://avatars1.githubusercontent.com/u/4909094?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 211",
-                "username": "SferaDev",
-                "commits": "759",
-                "stars": "9",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2181866?v=3&s=64"
             }
         },
         {
@@ -4040,21 +3500,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 221",
-                "username": "wschoenell",
-                "commits": "736",
-                "stars": "3",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1873811?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -4169,21 +3614,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 228",
-                "username": "096acc",
-                "commits": "723",
-                "stars": "5",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/7248474?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -4236,66 +3666,6 @@
                 "languages": "Java",
                 "city": "Madrid",
                 "avatar": "https://avatars1.githubusercontent.com/u/4643024?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 232",
-                "username": "vmayoral",
-                "commits": "711",
-                "stars": "51",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1375246?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 233",
-                "username": "jmarcet",
-                "commits": "704",
-                "stars": "4",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/959055?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 234",
-                "username": "crdlc",
-                "commits": "699",
-                "stars": "9",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1722741?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 235",
-                "username": "skarbat",
-                "commits": "695",
-                "stars": "2",
-                "languages": "Python",
-                "city": "Malaga, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/499442?v=3&s=64"
             }
         },
         {
@@ -4377,21 +3747,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 240",
-                "username": "Sergio-Mira",
-                "commits": "686",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2519238?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -4430,51 +3785,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 243",
-                "username": "TurBoss",
-                "commits": "680",
-                "stars": "1",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/184088?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 244",
-                "username": "hhkaos",
-                "commits": "678",
-                "stars": "15",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/826965?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 245",
-                "username": "carpasse",
-                "commits": "677",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1588321?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -4508,21 +3818,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/1241721?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 248",
-                "username": "gpascualg",
-                "commits": "672",
-                "stars": "14",
-                "languages": "C++",
-                "city": "España",
-                "avatar": "https://avatars2.githubusercontent.com/u/1239061?v=3&s=64"
             }
         },
         {
@@ -4865,21 +4160,6 @@
                 "languages": "C#",
                 "city": "Barcelona",
                 "avatar": "https://avatars0.githubusercontent.com/u/1319515?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 267",
-                "username": "carlossg",
-                "commits": "635",
-                "stars": "210",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/23651?v=3&s=64"
             }
         },
         {
@@ -5303,21 +4583,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 290",
-                "username": "mgp25",
-                "commits": "600",
-                "stars": "347",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/5390120?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -5337,21 +4602,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 292",
-                "username": "unho",
-                "commits": "598",
-                "stars": "24",
-                "languages": "Python",
-                "city": "Galicia",
-                "avatar": "https://avatars2.githubusercontent.com/u/939880?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -5366,21 +4616,6 @@
                 "languages": "Python",
                 "city": "Madrid",
                 "avatar": "https://avatars3.githubusercontent.com/u/5514990?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 294",
-                "username": "Piker-Alpha",
-                "commits": "595",
-                "stars": "317",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/2561500?v=3&s=64"
             }
         },
         {
@@ -5457,21 +4692,6 @@
                 "languages": "C",
                 "city": "Barcelona",
                 "avatar": "https://avatars2.githubusercontent.com/u/7936095?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 299",
-                "username": "jiep",
-                "commits": "590",
-                "stars": "10",
-                "languages": "TeX",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/414463?v=3&s=64"
             }
         },
         {
@@ -5643,21 +4863,6 @@
                 "languages": "Python",
                 "city": "Vigo, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/1834051?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 309",
-                "username": "pronebird",
-                "commits": "576",
-                "stars": "175",
-                "languages": "Objective-C",
-                "city": "Canary Islands",
-                "avatar": "https://avatars1.githubusercontent.com/u/704044?v=3&s=64"
             }
         },
         {
@@ -5986,21 +5191,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 327",
-                "username": "manuelcalerosolis",
-                "commits": "554",
-                "stars": "5",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/3088246?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -6091,36 +5281,6 @@
                 "languages": "Java",
                 "city": "Madrid",
                 "avatar": "https://avatars2.githubusercontent.com/u/8297897?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 333",
-                "username": "jaimeMF",
-                "commits": "540",
-                "stars": "115",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1239727?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 334",
-                "username": "Zardoz89",
-                "commits": "539",
-                "stars": "16",
-                "languages": "C++",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/888483?v=3&s=64"
             }
         },
         {
@@ -6221,36 +5381,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 340",
-                "username": "tangrammer",
-                "commits": "533",
-                "stars": "17",
-                "languages": "Clojure",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/731829?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 341",
-                "username": "xerpi",
-                "commits": "533",
-                "stars": "161",
-                "languages": "C",
-                "city": "Catalonia (Spain)",
-                "avatar": "https://avatars3.githubusercontent.com/u/560596?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9883887",
@@ -6284,36 +5414,6 @@
                 "languages": "Objective-C",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/2384152?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 344",
-                "username": "olumby",
-                "commits": "531",
-                "stars": "13",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5549119?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 345",
-                "username": "parmegv",
-                "commits": "531",
-                "stars": "2",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/818240?v=3&s=64"
             }
         },
         {
@@ -6371,21 +5471,6 @@
                 "languages": "C#",
                 "city": "Madrid (Spain)",
                 "avatar": "https://avatars3.githubusercontent.com/u/720953?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 349",
-                "username": "RGuerreroC",
-                "commits": "528",
-                "stars": "0",
-                "languages": "HTML",
-                "city": "España",
-                "avatar": "https://avatars1.githubusercontent.com/u/9040125?v=3&s=64"
             }
         },
         {
@@ -7132,21 +6217,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 389",
-                "username": "xezpeleta",
-                "commits": "493",
-                "stars": "4",
-                "languages": "Shell",
-                "city": "Basque Country",
-                "avatar": "https://avatars3.githubusercontent.com/u/1846038?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -7223,21 +6293,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 394",
-                "username": "davecarter",
-                "commits": "490",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/10925540?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -7252,21 +6307,6 @@
                 "languages": "CSS",
                 "city": "Barcelona",
                 "avatar": "https://avatars2.githubusercontent.com/u/85646?v=3&s=400"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 396",
-                "username": "manuelmorales",
-                "commits": "489",
-                "stars": "56",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/116038?v=3&s=64"
             }
         },
         {
@@ -7310,51 +6350,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 399",
-                "username": "NeoRazorX",
-                "commits": "489",
-                "stars": "54",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/494922?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 400",
-                "username": "cpalaciosc",
-                "commits": "488",
-                "stars": "0",
-                "languages": "Java",
-                "city": "España",
-                "avatar": "https://avatars1.githubusercontent.com/u/8969541?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 401",
-                "username": "makiolo",
-                "commits": "488",
-                "stars": "0",
-                "languages": "C++",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/6398423?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.7646191",
@@ -7388,21 +6383,6 @@
                 "languages": "Python",
                 "city": "Vigo. Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/932124?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 404",
-                "username": "nokutu",
-                "commits": "485",
-                "stars": "0",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/7753959?v=3&s=64"
             }
         },
         {
@@ -7617,21 +6597,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 416",
-                "username": "wikiti",
-                "commits": "474",
-                "stars": "0",
-                "languages": "C",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/2975360?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9883887",
@@ -7703,36 +6668,6 @@
                 "languages": "Ruby",
                 "city": "Madrid",
                 "avatar": "https://avatars2.githubusercontent.com/u/631897?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 421",
-                "username": "emijrp",
-                "commits": "470",
-                "stars": "477",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/422046?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 422",
-                "username": "Kra1o5",
-                "commits": "470",
-                "stars": "16",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2224382?v=3&s=64"
             }
         },
         {
@@ -7871,21 +6806,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 430",
-                "username": "fserena",
-                "commits": "466",
-                "stars": "3",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2788595?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8765379",
@@ -7900,21 +6820,6 @@
                 "languages": "Python",
                 "city": "Zaragoza",
                 "avatar": "https://avatars0.githubusercontent.com/u/440508?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 432",
-                "username": "raulperula",
-                "commits": "465",
-                "stars": "0",
-                "languages": "C++",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/6907809?v=3&s=64"
             }
         },
         {
@@ -8034,21 +6939,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 439",
-                "username": "josemifv",
-                "commits": "457",
-                "stars": "4",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/613560?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -8125,21 +7015,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 444",
-                "username": "ailopera",
-                "commits": "454",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "España",
-                "avatar": "https://avatars2.githubusercontent.com/u/5684336?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9883887",
@@ -8211,21 +7086,6 @@
                 "languages": "Python",
                 "city": "Granada, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/1575425?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 449",
-                "username": "freinn",
-                "commits": "451",
-                "stars": "3",
-                "languages": "HTML",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2404609?v=3&s=64"
             }
         },
         {
@@ -8440,36 +7300,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 461",
-                "username": "merqurio",
-                "commits": "439",
-                "stars": "38",
-                "languages": "JavaScript",
-                "city": "Basque Country",
-                "avatar": "https://avatars2.githubusercontent.com/u/1485056?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 462",
-                "username": "carltongibson",
-                "commits": "438",
-                "stars": "49",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/64686?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-16.2548558",
@@ -8636,36 +7466,6 @@
                 "languages": "JavaScript",
                 "city": "Barcelona, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/398905?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 472",
-                "username": "Sumolari",
-                "commits": "434",
-                "stars": "8",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/779767?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 473",
-                "username": "PatoSoft",
-                "commits": "434",
-                "stars": "2",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/5869653?v=3&s=64"
             }
         },
         {
@@ -9032,21 +7832,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 493",
-                "username": "josecelano",
-                "commits": "417",
-                "stars": "9",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/58816?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -9161,21 +7946,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 500",
-                "username": "albertoruibal",
-                "commits": "411",
-                "stars": "46",
-                "languages": "HTML",
-                "city": "Galicia, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1803607?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.3544922",
@@ -9209,36 +7979,6 @@
                 "languages": "JavaScript",
                 "city": "Jaen, Jaén, Granada, Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/3046042?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 503",
-                "username": "inniyah",
-                "commits": "407",
-                "stars": "3",
-                "languages": "C",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/21721?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 504",
-                "username": "plusvic",
-                "commits": "406",
-                "stars": "704",
-                "languages": "C",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/182937?v=3&s=64"
             }
         },
         {
@@ -9643,51 +8383,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 526",
-                "username": "manucorporat",
-                "commits": "396",
-                "stars": "407",
-                "languages": "Go",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/127379?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 527",
-                "username": "mvalleavila",
-                "commits": "396",
-                "stars": "18",
-                "languages": "Java",
-                "city": "España",
-                "avatar": "https://avatars2.githubusercontent.com/u/4480392?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 528",
-                "username": "franlr",
-                "commits": "395",
-                "stars": "1",
-                "languages": "Puppet",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/4963052?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -9916,21 +8611,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 541",
-                "username": "raxden",
-                "commits": "390",
-                "stars": "11",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/11458794?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9272629",
@@ -10026,21 +8706,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 547",
-                "username": "daviddetena",
-                "commits": "388",
-                "stars": "0",
-                "languages": "Objective-C",
-                "city": "Cordoba, Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/4395134?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-6.2926569",
@@ -10098,36 +8763,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 551",
-                "username": "AlejandroVera",
-                "commits": "385",
-                "stars": "0",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/196068?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 552",
-                "username": "vikman90",
-                "commits": "385",
-                "stars": "0",
-                "languages": "C++",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/10536251?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-5.9081615",
@@ -10161,21 +8796,6 @@
                 "languages": "Ruby",
                 "city": "Barcelona",
                 "avatar": "https://avatars3.githubusercontent.com/u/3387?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 555",
-                "username": "jmoutte",
-                "commits": "384",
-                "stars": "3",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/655311?v=3&s=64"
             }
         },
         {
@@ -10390,21 +9010,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 567",
-                "username": "vguzmanp",
-                "commits": "377",
-                "stars": "8",
-                "languages": "Shell",
-                "city": "España",
-                "avatar": "https://avatars2.githubusercontent.com/u/1254383?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -10438,36 +9043,6 @@
                 "languages": "R",
                 "city": "Valencia - Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/4466092?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 570",
-                "username": "phpbb-es",
-                "commits": "375",
-                "stars": "5",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/516656?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 571",
-                "username": "geodracs",
-                "commits": "374",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/3057499?v=3&s=64"
             }
         },
         {
@@ -10720,21 +9295,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 585",
-                "username": "jonhattan",
-                "commits": "366",
-                "stars": "8",
-                "languages": "Puppet",
-                "city": "Canary Islands",
-                "avatar": "https://avatars2.githubusercontent.com/u/482058?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -10749,21 +9309,6 @@
                 "languages": "Python",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/6486862?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 587",
-                "username": "varhub",
-                "commits": "365",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/5702557?v=3&s=64"
             }
         },
         {
@@ -10840,21 +9385,6 @@
                 "languages": "Python",
                 "city": "Sevilla, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/1426921?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 592",
-                "username": "raysan5",
-                "commits": "363",
-                "stars": "94",
-                "languages": "C",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/5766837?v=3&s=64"
             }
         },
         {
@@ -10955,21 +9485,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 598",
-                "username": "dcarral",
-                "commits": "361",
-                "stars": "4",
-                "languages": "Ruby",
-                "city": "Asturias ✈ Berlin",
-                "avatar": "https://avatars2.githubusercontent.com/u/1498567?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -10984,36 +9499,6 @@
                 "languages": "Java",
                 "city": "Barcelona",
                 "avatar": "https://avatars2.githubusercontent.com/u/456499?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 600",
-                "username": "mgdelacroix",
-                "commits": "361",
-                "stars": "17",
-                "languages": "Groovy",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/223323?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 601",
-                "username": "alu0100611298",
-                "commits": "360",
-                "stars": "0",
-                "languages": "Ruby",
-                "city": "España",
-                "avatar": "https://avatars1.githubusercontent.com/u/5502063?v=3&s=64"
             }
         },
         {
@@ -11057,21 +9542,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 604",
-                "username": "joseluis",
-                "commits": "358",
-                "stars": "4",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5832068?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -11105,21 +9575,6 @@
                 "languages": "Python",
                 "city": "Barcelona, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/1721716?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 607",
-                "username": "lzubiaur",
-                "commits": "355",
-                "stars": "9",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5903149?v=3&s=64"
             }
         },
         {
@@ -11163,21 +9618,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 610",
-                "username": "PabloLaVegui",
-                "commits": "354",
-                "stars": "0",
-                "languages": "CSS",
-                "city": "Cantabria. Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/6793092?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-4.7283811",
@@ -11197,21 +9637,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 612",
-                "username": "jesuspg",
-                "commits": "354",
-                "stars": "2",
-                "languages": "Python",
-                "city": "spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1510760?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-4.4200163",
@@ -11226,21 +9651,6 @@
                 "languages": "",
                 "city": "Málaga",
                 "avatar": "https://avatars3.githubusercontent.com/u/1457921?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 614",
-                "username": "alexandregz",
-                "commits": "354",
-                "stars": "60",
-                "languages": "Shell",
-                "city": "Galiza",
-                "avatar": "https://avatars1.githubusercontent.com/u/1374718?v=3&s=64"
             }
         },
         {
@@ -11716,21 +10126,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid",
                 "avatar": "https://avatars0.githubusercontent.com/u/9049441?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 640",
-                "username": "ixti",
-                "commits": "339",
-                "stars": "155",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/94782?v=3&s=64"
             }
         },
         {
@@ -12268,36 +10663,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 669",
-                "username": "aleph1888",
-                "commits": "326",
-                "stars": "15",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/3889950?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 670",
-                "username": "AntonioND",
-                "commits": "326",
-                "stars": "54",
-                "languages": "C",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/6632664?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-7.5558514",
@@ -12374,21 +10739,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 675",
-                "username": "tonikelope",
-                "commits": "324",
-                "stars": "26",
-                "languages": "PHP",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/134648?v=3&s=400"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "0.710633",
@@ -12460,36 +10810,6 @@
                 "languages": "Java",
                 "city": "Madrid (Spain)",
                 "avatar": "https://avatars0.githubusercontent.com/u/1072424?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 680",
-                "username": "foxnet-git",
-                "commits": "322",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/6261914?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 681",
-                "username": "dberenguer",
-                "commits": "321",
-                "stars": "6",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/884219?v=3&s=64"
             }
         },
         {
@@ -12590,21 +10910,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 687",
-                "username": "gayoxo",
-                "commits": "319",
-                "stars": "7",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/650723?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-5.5198607",
@@ -12638,21 +10943,6 @@
                 "languages": "JavaScript",
                 "city": "Dublin, Madrid, Valencia",
                 "avatar": "https://avatars2.githubusercontent.com/u/378233?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 690",
-                "username": "LuisPalacios",
-                "commits": "317",
-                "stars": "5",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/3615849?v=3&s=64"
             }
         },
         {
@@ -12710,21 +11000,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/81968?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 694",
-                "username": "wissol",
-                "commits": "316",
-                "stars": "4",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/4045265?v=3&s=64"
             }
         },
         {
@@ -13110,21 +11385,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 715",
-                "username": "bifuer",
-                "commits": "309",
-                "stars": "45",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2388058?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9883887",
@@ -13239,36 +11499,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 722",
-                "username": "i3visio",
-                "commits": "307",
-                "stars": "13",
-                "languages": "Python",
-                "city": "España",
-                "avatar": "https://avatars1.githubusercontent.com/u/8018610?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 723",
-                "username": "JosePech",
-                "commits": "307",
-                "stars": "0",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1530251?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -13283,21 +11513,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/5572?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 725",
-                "username": "mrmans0n",
-                "commits": "307",
-                "stars": "711",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/534307?v=3&s=64"
             }
         },
         {
@@ -13455,21 +11670,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 734",
-                "username": "robinparadise",
-                "commits": "304",
-                "stars": "3",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/2571925?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -13484,21 +11684,6 @@
                 "languages": "JavaScript",
                 "city": "Barcelona",
                 "avatar": "https://avatars1.githubusercontent.com/u/850057?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 736",
-                "username": "danigar",
-                "commits": "303",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/6217436?v=3&s=64"
             }
         },
         {
@@ -13556,21 +11741,6 @@
                 "languages": "PHP",
                 "city": "Valencia",
                 "avatar": "https://avatars0.githubusercontent.com/u/2879100?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 740",
-                "username": "j-fuentes",
-                "commits": "302",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/10594577?v=3&s=64"
             }
         },
         {
@@ -13709,21 +11879,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 748",
-                "username": "JuanjoSalvador",
-                "commits": "298",
-                "stars": "8",
-                "languages": "Ruby",
-                "city": "Almeria, España",
-                "avatar": "https://avatars1.githubusercontent.com/u/5058655?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.9883887",
@@ -13757,21 +11912,6 @@
                 "languages": "Shell",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/116250?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 751",
-                "username": "aldomann",
-                "commits": "297",
-                "stars": "10",
-                "languages": "Shell",
-                "city": "Catalonia",
-                "avatar": "https://avatars3.githubusercontent.com/u/729732?v=3&s=64"
             }
         },
         {
@@ -14043,21 +12183,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 766",
-                "username": "jramcast",
-                "commits": "292",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/675470?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-3.8288109",
@@ -14191,21 +12316,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 774",
-                "username": "hhariri",
-                "commits": "288",
-                "stars": "520",
-                "languages": "Kotlin",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/108107?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -14263,21 +12373,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 778",
-                "username": "rafadc",
-                "commits": "288",
-                "stars": "27",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/525892?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8765379",
@@ -14311,21 +12406,6 @@
                 "languages": "Java",
                 "city": "Málaga (Spain)",
                 "avatar": "https://avatars3.githubusercontent.com/u/2906560?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 781",
-                "username": "retamal",
-                "commits": "287",
-                "stars": "0",
-                "languages": "CSS",
-                "city": "España",
-                "avatar": "https://avatars0.githubusercontent.com/u/10698342?v=3&s=64"
             }
         },
         {
@@ -14407,21 +12487,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 786",
-                "username": "miguelmaquieira",
-                "commits": "287",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5037414?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-5.9081615",
@@ -14479,36 +12544,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 790",
-                "username": "kunotatemaki",
-                "commits": "286",
-                "stars": "0",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/7079139?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 791",
-                "username": "manuel-rubio",
-                "commits": "286",
-                "stars": "11",
-                "languages": "Erlang",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2188638?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -14528,36 +12563,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 793",
-                "username": "DaniLabs",
-                "commits": "285",
-                "stars": "1",
-                "languages": "HTML",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/4035520?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 794",
-                "username": "manelclos",
-                "commits": "285",
-                "stars": "4",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/463832?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -14572,21 +12577,6 @@
                 "languages": "C++",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/10808592?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 796",
-                "username": "bertez",
-                "commits": "284",
-                "stars": "27",
-                "languages": "JavaScript",
-                "city": "O Milladoiro, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/159838?v=3&s=64"
             }
         },
         {
@@ -14630,21 +12620,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 799",
-                "username": "imuguruza",
-                "commits": "283",
-                "stars": "0",
-                "languages": "C++",
-                "city": "España",
-                "avatar": "https://avatars0.githubusercontent.com/u/7628788?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-7.8646408",
@@ -14659,21 +12634,6 @@
                 "languages": "JavaScript",
                 "city": "Ourense, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/1553211?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 801",
-                "username": "alvaroloes",
-                "commits": "283",
-                "stars": "2",
-                "languages": "Java",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/2271237?v=3&s=64"
             }
         },
         {
@@ -14736,21 +12696,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 805",
-                "username": "odarriba",
-                "commits": "281",
-                "stars": "32",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/563391?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-5.5198607",
@@ -14784,21 +12729,6 @@
                 "languages": "Matlab",
                 "city": "Barcelona - Catalonia",
                 "avatar": "https://avatars2.githubusercontent.com/u/2467261?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 808",
-                "username": "mkaito",
-                "commits": "280",
-                "stars": "109",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/20434?v=3&s=64"
             }
         },
         {
@@ -14932,21 +12862,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid (Spain)",
                 "avatar": "https://avatars0.githubusercontent.com/u/7963804?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 816",
-                "username": "AlbertoBasalo",
-                "commits": "276",
-                "stars": "2",
-                "languages": "",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/756929?v=3&s=64"
             }
         },
         {
@@ -15161,21 +13076,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 828",
-                "username": "kudrom",
-                "commits": "271",
-                "stars": "0",
-                "languages": "Python",
-                "city": "España",
-                "avatar": "https://avatars1.githubusercontent.com/u/1238617?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -15385,21 +13285,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 840",
-                "username": "caballeroalba",
-                "commits": "266",
-                "stars": "2",
-                "languages": "C",
-                "city": "España",
-                "avatar": "https://avatars0.githubusercontent.com/u/2736042?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -15433,21 +13318,6 @@
                 "languages": "Ruby",
                 "city": "Barcelona, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/1567503?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 843",
-                "username": "manfer",
-                "commits": "266",
-                "stars": "27",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/458420?v=3&s=64"
             }
         },
         {
@@ -15643,21 +13513,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 854",
-                "username": "CytraL",
-                "commits": "263",
-                "stars": "18",
-                "languages": "C++",
-                "city": "Galicia",
-                "avatar": "https://avatars0.githubusercontent.com/u/731270?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -15710,21 +13565,6 @@
                 "languages": "Python",
                 "city": "Madrid",
                 "avatar": "https://avatars2.githubusercontent.com/u/5891284?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 858",
-                "username": "amartingu72",
-                "commits": "262",
-                "stars": "0",
-                "languages": "Java",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/10940906?v=3&s=64"
             }
         },
         {
@@ -15801,21 +13641,6 @@
                 "languages": "PHP",
                 "city": "Sevilla, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/239421?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 863",
-                "username": "jvican",
-                "commits": "260",
-                "stars": "5",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/2462974?v=3&s=64"
             }
         },
         {
@@ -15992,36 +13817,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 873",
-                "username": "ChuckDaniels87",
-                "commits": "258",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/8478202?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 874",
-                "username": "eleion",
-                "commits": "258",
-                "stars": "0",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/5720374?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -16036,21 +13831,6 @@
                 "languages": "JavaScript",
                 "city": "Barcelona",
                 "avatar": "https://avatars2.githubusercontent.com/u/2026597?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 876",
-                "username": "david-caro",
-                "commits": "257",
-                "stars": "45",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/587148?v=3&s=64"
             }
         },
         {
@@ -16241,21 +14021,6 @@
                 "languages": "R and JavaScript",
                 "city": "Barcelona",
                 "avatar": "https://avatars1.githubusercontent.com/u/10629543?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 887",
-                "username": "sgongar",
-                "commits": "254",
-                "stars": "2",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/5670973?v=3&s=64"
             }
         },
         {
@@ -16508,21 +14273,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 901",
-                "username": "jesusgollonet",
-                "commits": "250",
-                "stars": "249",
-                "languages": "Shell",
-                "city": "Malaga, Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/31100?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-5.5198607",
@@ -16537,36 +14287,6 @@
                 "languages": "Python",
                 "city": "Valencia (SPAIN)",
                 "avatar": "https://avatars0.githubusercontent.com/u/1507621?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 903",
-                "username": "jmfernandez",
-                "commits": "250",
-                "stars": "1",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2072150?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 904",
-                "username": "LuisAntonRebollo",
-                "commits": "249",
-                "stars": "16",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2388307?v=3&s=64"
             }
         },
         {
@@ -16686,21 +14406,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 911",
-                "username": "barcia",
-                "commits": "246",
-                "stars": "3",
-                "languages": "CSS",
-                "city": "Galicia, Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/5719646?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-5.844781",
@@ -16715,36 +14420,6 @@
                 "languages": "Python",
                 "city": "Oviedo, Asturias, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/8863238?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 913",
-                "username": "diegolagoglez",
-                "commits": "246",
-                "stars": "1",
-                "languages": "Shell",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/2563312?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 914",
-                "username": "jcarlosgarcia",
-                "commits": "246",
-                "stars": "7",
-                "languages": "Ruby",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1229221?v=3&s=64"
             }
         },
         {
@@ -16902,21 +14577,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 923",
-                "username": "pacoqueen",
-                "commits": "244",
-                "stars": "20",
-                "languages": "Python",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1090482?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -16950,21 +14610,6 @@
                 "languages": "C",
                 "city": "Almería",
                 "avatar": "https://avatars1.githubusercontent.com/u/399894?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 926",
-                "username": "emacarron",
-                "commits": "243",
-                "stars": "2",
-                "languages": "Java",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1587939?v=3&s=64"
             }
         },
         {
@@ -17060,21 +14705,6 @@
                 "languages": "JavaScript",
                 "city": "Zaragoza",
                 "avatar": "https://avatars0.githubusercontent.com/u/492577?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 932",
-                "username": "cfibla",
-                "commits": "242",
-                "stars": "0",
-                "languages": "JavaScript and CSS",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/12487169?v=3&s=64"
             }
         },
         {
@@ -17232,21 +14862,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 941",
-                "username": "raulfraile",
-                "commits": "239",
-                "stars": "1083",
-                "languages": "PHP",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/595160?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -17280,51 +14895,6 @@
                 "languages": "Java",
                 "city": "Sevilla, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/2388836?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 944",
-                "username": "etorres",
-                "commits": "239",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/574302?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 945",
-                "username": "nosolojava",
-                "commits": "239",
-                "stars": "3",
-                "languages": "Java",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/8631522?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 946",
-                "username": "adrianmugnoz",
-                "commits": "239",
-                "stars": "11",
-                "languages": "JavaScript",
-                "city": "SPAIN",
-                "avatar": "https://avatars2.githubusercontent.com/u/1668742?v=3&s=64"
             }
         },
         {
@@ -17482,36 +15052,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 955",
-                "username": "RogerOlasz",
-                "commits": "238",
-                "stars": "0",
-                "languages": "C++ and C",
-                "city": "Catalunya",
-                "avatar": "https://avatars0.githubusercontent.com/u/10940422?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 956",
-                "username": "David-Reguera-Garcia-Dreg",
-                "commits": "238",
-                "stars": "89",
-                "languages": "C",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/9882181?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "-0.8846827",
@@ -17545,21 +15085,6 @@
                 "languages": "Java",
                 "city": "Madrid, España",
                 "avatar": "https://avatars1.githubusercontent.com/u/12046620?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 959",
-                "username": "mandel-macaque",
-                "commits": "237",
-                "stars": "2",
-                "languages": "C++",
-                "city": "Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/2190086?v=3&s=64"
             }
         },
         {
@@ -17679,21 +15204,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 966",
-                "username": "jorgeyp",
-                "commits": "236",
-                "stars": "5",
-                "languages": "Scala",
-                "city": "Asturies",
-                "avatar": "https://avatars3.githubusercontent.com/u/228243?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -17727,21 +15237,6 @@
                 "languages": "JavaScript",
                 "city": "Barcelona",
                 "avatar": "https://avatars0.githubusercontent.com/u/49499?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 969",
-                "username": "xenock",
-                "commits": "236",
-                "stars": "0",
-                "languages": "CSS",
-                "city": "Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/3337596?v=3&s=64"
             }
         },
         {
@@ -17994,36 +15489,6 @@
         {
             "type": "Feature",
             "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 983",
-                "username": "gorkinovich",
-                "commits": "232",
-                "stars": "1",
-                "languages": "C#",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/11636219?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 984",
-                "username": "Loksly",
-                "commits": "232",
-                "stars": "8",
-                "languages": "JavaScript",
-                "city": "Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1235649?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
                 "type": "Point",
                 "coordinates": [
                     "2.1699187",
@@ -18247,21 +15712,6 @@
                 "languages": "JavaScript",
                 "city": "Tarragona, Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/11166226?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point"
-            },
-            "properties": {
-                "position": " 997",
-                "username": "octante",
-                "commits": "228",
-                "stars": "8",
-                "languages": "PHP",
-                "city": "España",
-                "avatar": "https://avatars3.githubusercontent.com/u/1949683?v=3&s=64"
             }
         },
         {
