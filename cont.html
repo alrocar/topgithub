@@ -50,13 +50,13 @@
                 };
 
                 $.get('./top_github_ES.geojson', null, function(data) {
-                    var features = JSON.parse(data);
+                    var features = data;
                     for (var i = 0, l = features.length; i<l; i++) {
                         var feature = features[i];
                         heatmapData.data.push({
                             lng: feature.geometry.coordinates[0],
                             lat: feature.geometry.coordinates[1],
-                            count: feature.properties.contribs / 100
+                            count: feature.properties.commits / 100
                         });
 
                         var geoJsonLayer = L.geoJson(feature, {
