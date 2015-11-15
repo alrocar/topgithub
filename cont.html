@@ -45,7 +45,7 @@
                 map.addLayer(markers);
 
                 var heatmapData = {
-                    max: 8,
+                    max: 250,
                     data: []
                 };
 
@@ -56,7 +56,7 @@
                         heatmapData.data.push({
                             lng: feature.geometry.coordinates[0],
                             lat: feature.geometry.coordinates[1],
-                            count: feature.properties.commits / 100
+                            count: 1
                         });
 
                         var geoJsonLayer = L.geoJson(feature, {
