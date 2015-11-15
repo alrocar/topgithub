@@ -44,7 +44,7 @@ topgithub.prototype.request = function(url) {
                 avatar = $td.next().next().next().next().next().next().find('a').attr('href');
 
                 user = {
-                    'position': position,
+                    'position': position.trim(),
                     'username': username,
                     'commits': commits,
                     'stars': stars,
