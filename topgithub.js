@@ -86,6 +86,17 @@ topgithub.prototype.request = function(url) {
 
 topgithub.prototype.getLonLat = function(city) {
     var cityParts = city.split(',');
+    if (cityParts.length == 1) {
+        cityParts = cityParts[0].split('-');
+    }
+
+    if (cityParts.length == 1) {
+        cityParts = cityParts[0].split('.');
+    }
+
+    if (cityParts.length == 1) {
+        cityParts = cityParts[0].split('(');
+    }
     var c, coord, found = false;
     for (var i = 0; i < cityParts.length; i++) {
         if (found) {
@@ -96,17 +107,23 @@ topgithub.prototype.getLonLat = function(city) {
 
         if (!cities[c]) {
             for (var j = 0; j < citiesObj.length; j++) {
-                if (new Levenshtein(citiesObj[j].municipio.toLowerCase(), c.toLowerCase()).distance <= 1) {
+                if (citiesObj[j].municipio.toLowerCase() == c
+                    || citiesObj[j].municipio.toLowerCase().indexOf(c) != -1
+                    || c.indexOf(citiesObj[j].municipio.toLowerCase()) != -1) {
                     coord = [citiesObj[j].longitud, citiesObj[j].latitud];
                     cities[c] = coord;
                     found = true;
-                    // console.log(citiesObj[j].municipio.toLowerCase() + ' - ' + c.toLowerCase());
                     break;
                 }
             }
         } else {
             coord = cities[c];
+            found = true;
         }
+    }
+
+    if (!found) {
+        console.log(city);
     }
     return coord;
 }
