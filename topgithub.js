@@ -68,9 +68,8 @@ topgithub.prototype.request = function(url) {
             });
 
             var es = {
-                'featureCollection': {
-                    'features': features
-                }
+                'type': 'FeatureCollection',
+                'features': features
             };
             
             var output = 'top_github_ES.geojson';
@@ -123,7 +122,7 @@ topgithub.prototype.getLonLat = function(city) {
     }
 
     if (!found) {
-        console.log(city);
+        // console.log(city);
     }
     return coord;
 }
