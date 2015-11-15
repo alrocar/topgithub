@@ -1,425 +1,371 @@
 latitude,longitude,altitude,geometry,position,username,commits,stars,languages,city,avatar
-42.8179879,-1.6441835,,Point,1,quickapps,26305,139,PHP,"Pamplona, Navarra - Spain",https://avatars3.githubusercontent.com/u/1129842?v=3&s=64
 41.387917,2.1699187,,Point,2,mmoreram,6995,509,PHP,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/521409?v=3&s=64
-37.0025184,-3.9883887,,Point,3,JJ,4697,378,Perl,"Granada, Spain, Europe",https://avatars1.githubusercontent.com/u/500?v=3&s=64
-41.4433668,-0.8846827,,Point,5,niwinz,4111,2082,Python,"Madrid, Spain, Sofia, Bulgaria",https://avatars3.githubusercontent.com/u/843689?v=3&s=64
+37.1764874,-3.5979291,,Point,3,JJ,4697,378,Perl,"Granada, Spain, Europe",https://avatars1.githubusercontent.com/u/500?v=3&s=64
+40.4166909,-3.7003454,,Point,5,niwinz,4111,2082,Python,"Madrid, Spain, Sofia, Bulgaria",https://avatars3.githubusercontent.com/u/843689?v=3&s=64
 41.387917,2.1699187,,Point,6,gavinking,3908,6,Ceylon,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/579974?v=3&s=64
-41.4433668,-0.8846827,,Point,7,javierarce,3906,177,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/4933?v=3&s=64
+40.4166909,-3.7003454,,Point,7,javierarce,3906,177,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/4933?v=3&s=64
 41.2347823,1.8112222,,Point,8,rnowm,3791,29,JavaScript,"Sitges, Barcelona",https://avatars2.githubusercontent.com/u/1416057?v=3&s=64
 41.387917,2.1699187,,Point,9,mvdan,3042,222,Go,Barcelona,https://avatars0.githubusercontent.com/u/3576549?v=3&s=64
 41.387917,2.1699187,,Point,10,leplatrem,2966,109,Python,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/546692?v=3&s=64
-41.4433668,-0.8846827,,Point,12,juanignaciosl,2851,16,JavaScript,Madrid - Valladolid,https://avatars1.githubusercontent.com/u/932968?v=3&s=64
-41.4433668,-0.8846827,,Point,14,rochoa,2582,4,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/45346?v=3&s=64
-41.4433668,-0.8846827,,Point,15,viddo,2563,7,CoffeeScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/978461?v=3&s=64
-41.4433668,-0.8846827,,Point,16,sergiogonzalez,2462,18,Java,Madrid,https://avatars2.githubusercontent.com/u/860987?v=3&s=64
+40.4166909,-3.7003454,,Point,12,juanignaciosl,2851,16,JavaScript,Madrid - Valladolid,https://avatars1.githubusercontent.com/u/932968?v=3&s=64
+40.4166909,-3.7003454,,Point,14,rochoa,2582,4,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/45346?v=3&s=64
+40.4166909,-3.7003454,,Point,15,viddo,2563,7,CoffeeScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/978461?v=3&s=64
+40.4166909,-3.7003454,,Point,16,sergiogonzalez,2462,18,Java,Madrid,https://avatars2.githubusercontent.com/u/860987?v=3&s=64
 41.4718638,2.0821392,,Point,17,carloslozano,2430,1,HTML,"Sant Cugat del Vallès, Catalonia",https://avatars2.githubusercontent.com/u/1463304?v=3&s=64
-41.4433668,-0.8846827,,Point,18,sanacl,2394,1,CSS and Python,Madrid,https://avatars1.githubusercontent.com/u/326719?v=3&s=64
-37.4850307,-2.2950183,,Point,19,javiereguiluz,2372,1566,PHP,Vitoria-Gasteiz (Spain),https://avatars0.githubusercontent.com/u/73419?v=3&s=64
-41.4433668,-0.8846827,,Point,20,ealonso,2364,4,Java,Madrid,https://avatars1.githubusercontent.com/u/922631?v=3&s=64
-42.8179879,-1.6441835,,Point,21,jotegui,2348,7,Python,"Pamplona, Spain",https://avatars0.githubusercontent.com/u/642210?v=3&s=64
-41.4433668,-0.8846827,,Point,23,alexgallardo,2332,0,PHP,Madrid,https://avatars1.githubusercontent.com/u/7766614?v=3&s=64
+40.4166909,-3.7003454,,Point,18,sanacl,2394,1,CSS and Python,Madrid,https://avatars1.githubusercontent.com/u/326719?v=3&s=64
+40.4166909,-3.7003454,,Point,20,ealonso,2364,4,Java,Madrid,https://avatars1.githubusercontent.com/u/922631?v=3&s=64
+40.4166909,-3.7003454,,Point,23,alexgallardo,2332,0,PHP,Madrid,https://avatars1.githubusercontent.com/u/7766614?v=3&s=64
 38.9963599,-3.3731716,,Point,24,shakaran,2268,37,PHP,"Manzanares, Ciudad Real, España",https://avatars3.githubusercontent.com/u/14254?v=3&s=64
-41.4433668,-0.8846827,,Point,25,apercas,2243,3,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/704210?v=3&s=64
+40.4166909,-3.7003454,,Point,25,apercas,2243,3,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/704210?v=3&s=64
 43.3282003,-3.0315088,,Point,26,benatespina,2156,15,JavaScript,"Santurtzi, Basque Country",https://avatars2.githubusercontent.com/u/3951376?v=3&s=64
-41.4433668,-0.8846827,,Point,27,dmoranj,2142,28,JavaScript,Madrid (Spain),https://avatars2.githubusercontent.com/u/1152892?v=3&s=64
-41.4433668,-0.8846827,,Point,28,pedrovgs,2102,1842,Java,Madrid,https://avatars3.githubusercontent.com/u/4030704?v=3&s=64
-41.4433668,-0.8846827,,Point,29,Obijuan,2042,188,Python,Madrid (Spain),https://avatars3.githubusercontent.com/u/1286062?v=3&s=64
+40.4166909,-3.7003454,,Point,27,dmoranj,2142,28,JavaScript,Madrid (Spain),https://avatars2.githubusercontent.com/u/1152892?v=3&s=64
+40.4166909,-3.7003454,,Point,28,pedrovgs,2102,1842,Java,Madrid,https://avatars3.githubusercontent.com/u/4030704?v=3&s=64
+40.4166909,-3.7003454,,Point,29,Obijuan,2042,188,Python,Madrid (Spain),https://avatars3.githubusercontent.com/u/1286062?v=3&s=64
 41.9817957,2.8236999,,Point,30,repejota,2037,68,JavaScript,Girona,https://avatars1.githubusercontent.com/u/36673?v=3&s=64
-41.4433668,-0.8846827,,Point,31,alejandrodob,2019,0,Python,"Madrid, Spain",https://avatars0.githubusercontent.com/u/5711098?v=3&s=64
-37.0025184,-3.9883887,,Point,32,pleonex,2010,44,C#,"Granada, Andalucía, Spain",https://avatars2.githubusercontent.com/u/3107481?v=3&s=64
-37.8833504,-1.140374,,Point,34,Kikobeats,1953,946,JavaScript,"Murcia, Spain",https://avatars0.githubusercontent.com/u/2096101?v=3&s=64
+40.4166909,-3.7003454,,Point,31,alejandrodob,2019,0,Python,"Madrid, Spain",https://avatars0.githubusercontent.com/u/5711098?v=3&s=64
+37.1764874,-3.5979291,,Point,32,pleonex,2010,44,C#,"Granada, Andalucía, Spain",https://avatars2.githubusercontent.com/u/3107481?v=3&s=64
+38.1398141,-1.366216,,Point,34,Kikobeats,1953,946,JavaScript,"Murcia, Spain",https://avatars0.githubusercontent.com/u/2096101?v=3&s=64
 41.387917,2.1699187,,Point,35,gentlecat,1918,47,Go,Barcelona,https://avatars1.githubusercontent.com/u/460525?v=3&s=64
-41.4433668,-0.8846827,,Point,36,teleyinex,1900,41,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/131838?v=3&s=64
-41.4433668,-0.8846827,,Point,37,juliocamarero,1854,46,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/203395?v=3&s=64
-42.8179879,-1.6441835,,Point,38,aitoroses,1844,19,JavaScript,"Pamplona, Spain",https://avatars0.githubusercontent.com/u/1699368?v=3&s=64
-43.3208116,-1.9844474,,Point,39,ojoven,1844,12,PHP,Donostia - San Sebastián,https://avatars2.githubusercontent.com/u/772734?v=3&s=64
+40.4166909,-3.7003454,,Point,36,teleyinex,1900,41,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/131838?v=3&s=64
+40.4166909,-3.7003454,,Point,37,juliocamarero,1854,46,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/203395?v=3&s=64
 40.3049763,-3.7326773,,Point,41,acs,1833,10,JavaScript,"Getafe, Madrid, Spain",https://avatars3.githubusercontent.com/u/209533?v=3&s=64
-37.0025184,-3.9883887,,Point,42,javacasm,1780,7,Java,"Granada, Jaén (Spain)",https://avatars3.githubusercontent.com/u/3841695?v=3&s=64
+37.1764874,-3.5979291,,Point,42,javacasm,1780,7,Java,"Granada, Jaén (Spain)",https://avatars3.githubusercontent.com/u/3841695?v=3&s=64
 41.387917,2.1699187,,Point,43,opalenzuela,1770,67,Shell,Barcelona,https://avatars3.githubusercontent.com/u/4427630?v=3&s=64
 41.387917,2.1699187,,Point,44,aleixpol,1761,1,Shell,Barcelona,https://avatars1.githubusercontent.com/u/1282478?v=3&s=64
 41.387917,2.1699187,,Point,46,vHanda,1731,2,C++,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/426467?v=3&s=64
-41.4433668,-0.8846827,,Point,48,fgalan,1702,3,Shell,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1534240?v=3&s=64
+40.4166909,-3.7003454,,Point,48,fgalan,1702,3,Shell,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1534240?v=3&s=64
 41.387917,2.1699187,,Point,50,jaeandersson,1657,7,C++,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/2487645?v=3&s=64
-41.4433668,-0.8846827,,Point,51,rafatower,1639,1,Shell,Madrid,https://avatars2.githubusercontent.com/u/1914276?v=3&s=64
-41.4433668,-0.8846827,,Point,52,luisivan,1601,100,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/718208?v=3&s=64
-39.5452354,-0.3865961,,Point,53,pakozm,1559,140,Lua,"Alfara del Patriarca (Valencia), Spain",https://avatars1.githubusercontent.com/u/2655921?v=3&s=64
-37.3892038,-5.9081615,,Point,54,javilonas,1532,36,Shell,"Sevilla, Andalucía,  (España)",https://avatars3.githubusercontent.com/u/2302257?v=3&s=64
+40.4166909,-3.7003454,,Point,51,rafatower,1639,1,Shell,Madrid,https://avatars2.githubusercontent.com/u/1914276?v=3&s=64
+40.4166909,-3.7003454,,Point,52,luisivan,1601,100,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/718208?v=3&s=64
+37.38264,-5.9962951,,Point,54,javilonas,1532,36,Shell,"Sevilla, Andalucía,  (España)",https://avatars3.githubusercontent.com/u/2302257?v=3&s=64
 41.387917,2.1699187,,Point,56,nilopc,1528,16,PHP,"Barcelona, Catalunya",https://avatars1.githubusercontent.com/u/550948?v=3&s=64
-41.4433668,-0.8846827,,Point,57,nhpatt,1522,50,Java,"Madrid, Spain",https://avatars3.githubusercontent.com/u/340653?v=3&s=64
-41.4433668,-0.8846827,,Point,58,bameda,1520,42,Python,"Madrid, Jaén, Spain, España",https://avatars2.githubusercontent.com/u/877218?v=3&s=64
+40.4166909,-3.7003454,,Point,57,nhpatt,1522,50,Java,"Madrid, Spain",https://avatars3.githubusercontent.com/u/340653?v=3&s=64
+40.4166909,-3.7003454,,Point,58,bameda,1520,42,Python,"Madrid, Jaén, Spain, España",https://avatars2.githubusercontent.com/u/877218?v=3&s=64
 41.387917,2.1699187,,Point,60,h0tbird,1504,24,Puppet,Barcelona,https://avatars0.githubusercontent.com/u/417440?v=3&s=64
-41.4433668,-0.8846827,,Point,61,andreslucena,1486,1,Ruby,Madrid,https://avatars2.githubusercontent.com/u/717367?v=3&s=64
-41.4433668,-0.8846827,,Point,62,ahmad88me,1455,1,Web Ontology Language,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6922709?v=3&s=64
-41.4433668,-0.8846827,,Point,63,Endika,1449,3,Python,Madrid,https://avatars3.githubusercontent.com/u/568585?v=3&s=64
-41.4433668,-0.8846827,,Point,64,gjulianm,1432,29,C#,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1334568?v=3&s=64
-41.4433668,-0.8846827,,Point,65,deivid-rodriguez,1417,696,Ruby,Madrid,https://avatars0.githubusercontent.com/u/2887858?v=3&s=64
-41.4433668,-0.8846827,,Point,66,jmnavarro,1410,31,Objective-C,Madrid,https://avatars0.githubusercontent.com/u/219908?v=3&s=64
+40.4166909,-3.7003454,,Point,61,andreslucena,1486,1,Ruby,Madrid,https://avatars2.githubusercontent.com/u/717367?v=3&s=64
+40.4166909,-3.7003454,,Point,62,ahmad88me,1455,1,Web Ontology Language,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6922709?v=3&s=64
+40.4166909,-3.7003454,,Point,63,Endika,1449,3,Python,Madrid,https://avatars3.githubusercontent.com/u/568585?v=3&s=64
+40.4166909,-3.7003454,,Point,64,gjulianm,1432,29,C#,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1334568?v=3&s=64
+40.4166909,-3.7003454,,Point,65,deivid-rodriguez,1417,696,Ruby,Madrid,https://avatars0.githubusercontent.com/u/2887858?v=3&s=64
+40.4166909,-3.7003454,,Point,66,jmnavarro,1410,31,Objective-C,Madrid,https://avatars0.githubusercontent.com/u/219908?v=3&s=64
 41.387917,2.1699187,,Point,67,christkv,1404,853,JavaScript,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/5569?v=3&s=64
 41.387917,2.1699187,,Point,68,xphere,1393,8,PHP,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/170968?v=3&s=64
-37.0025184,-3.9883887,,Point,69,vistiyos,1393,0,PHP,Granada,https://avatars2.githubusercontent.com/u/822629?v=3&s=64
-41.4433668,-0.8846827,,Point,70,quintesse,1372,6,Java,"Madrid, Spain",https://avatars3.githubusercontent.com/u/778793?v=3&s=64
+37.1764874,-3.5979291,,Point,69,vistiyos,1393,0,PHP,Granada,https://avatars2.githubusercontent.com/u/822629?v=3&s=64
+40.4166909,-3.7003454,,Point,70,quintesse,1372,6,Java,"Madrid, Spain",https://avatars3.githubusercontent.com/u/778793?v=3&s=64
 41.387917,2.1699187,,Point,71,karasu,1361,9,C,"Barcelona, Catalunya",https://avatars2.githubusercontent.com/u/175797?v=3&s=64
 43.2569629,-2.9234409,,Point,72,porduna,1359,3,Python,Bilbao,https://avatars1.githubusercontent.com/u/1900501?v=3&s=64
-41.4433668,-0.8846827,,Point,73,delarosatrevin,1347,0,,"Madrid, Spain",https://avatars1.githubusercontent.com/u/8441688?v=3&s=64
-41.4433668,-0.8846827,,Point,74,agordillo,1334,1,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/503422?v=3&s=64
-41.4433668,-0.8846827,,Point,75,apoloval,1327,7,C++,"Madrid, Spain",https://avatars0.githubusercontent.com/u/738507?v=3&s=64
+40.4166909,-3.7003454,,Point,73,delarosatrevin,1347,0,,"Madrid, Spain",https://avatars1.githubusercontent.com/u/8441688?v=3&s=64
+40.4166909,-3.7003454,,Point,74,agordillo,1334,1,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/503422?v=3&s=64
+40.4166909,-3.7003454,,Point,75,apoloval,1327,7,C++,"Madrid, Spain",https://avatars0.githubusercontent.com/u/738507?v=3&s=64
 41.387917,2.1699187,,Point,76,trikitrok,1325,29,Clojure,Barcelona,https://avatars0.githubusercontent.com/u/2502164?v=3&s=64
 41.387917,2.1699187,,Point,78,alorma,1298,80,Java,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/887462?v=3&s=64
 41.387917,2.1699187,,Point,79,JoanClaret,1296,102,HTML,Barcelona,https://avatars1.githubusercontent.com/u/886033?v=3&s=64
-38.1398141,-1.366216,,Point,82,elenatorro,1279,28,JavaScript,Alicante & Murcia (Spain),https://avatars3.githubusercontent.com/u/3824953?v=3&s=64
-41.4433668,-0.8846827,,Point,83,aitormagan,1278,0,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/2526562?v=3&s=64
+40.4166909,-3.7003454,,Point,83,aitormagan,1278,0,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/2526562?v=3&s=64
 41.5179711,1.7432683,,Point,84,mssola,1270,152,Go,"Piera, Catalunya",https://avatars3.githubusercontent.com/u/767943?v=3&s=64
 37.1814192,-5.7815069,,Point,85,josedom24,1263,3,Python,"Utrera, Sevilla, Andalucía, Spain",https://avatars1.githubusercontent.com/u/1698221?v=3&s=64
 41.387917,2.1699187,,Point,86,alxndrsn,1263,74,Java,Barcelona,https://avatars2.githubusercontent.com/u/191496?v=3&s=64
 41.387917,2.1699187,,Point,87,uesteibar,1256,11,JavaScript,Barcelona,https://avatars3.githubusercontent.com/u/7823996?v=3&s=64
-28.1248227,-15.4300065,,Point,88,ancorgs,1247,0,Ruby,Gran Canaria,https://avatars0.githubusercontent.com/u/3638289?v=3&s=64
-37.0025184,-3.9883887,,Point,89,iblancasa,1245,40,JavaScript,"Granada, Andalucía, Spain",https://avatars0.githubusercontent.com/u/4806311?v=3&s=64
+37.1764874,-3.5979291,,Point,89,iblancasa,1245,40,JavaScript,"Granada, Andalucía, Spain",https://avatars0.githubusercontent.com/u/4806311?v=3&s=64
 41.387917,2.1699187,,Point,90,tonipinel,1233,2,Shell,Barcelona,https://avatars0.githubusercontent.com/u/998987?v=3&s=64
-37.0025184,-3.9883887,,Point,91,eparejatobes,1233,2,JavaScript,"Granada, Spain",https://avatars3.githubusercontent.com/u/204693?v=3&s=64
+37.1764874,-3.5979291,,Point,91,eparejatobes,1233,2,JavaScript,"Granada, Spain",https://avatars3.githubusercontent.com/u/204693?v=3&s=64
 42.2313564,-8.7124471,,Point,93,diegopau,1225,5,JavaScript,"Vigo, Spain",https://avatars2.githubusercontent.com/u/315149?v=3&s=64
-41.4433668,-0.8846827,,Point,94,kikito,1197,2281,Lua,"Madrid, Spain",https://avatars1.githubusercontent.com/u/63131?v=3&s=64
-28.4881163,-16.3147761,,Point,95,crguezl,1195,46,Ruby,La Laguna. Tenerife,https://avatars2.githubusercontent.com/u/1142554?v=3&s=64
+40.4166909,-3.7003454,,Point,94,kikito,1197,2281,Lua,"Madrid, Spain",https://avatars1.githubusercontent.com/u/63131?v=3&s=64
 41.387917,2.1699187,,Point,96,sertansenturk,1189,3,Python,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/4540641?v=3&s=64
-41.387917,2.1699187,,Point,97,blaiprat,1187,79,JavaScript,London & Barcelona,https://avatars2.githubusercontent.com/u/723386?v=3&s=64
 41.387917,2.1699187,,Point,99,areski,1183,913,Python,Barcelona,https://avatars1.githubusercontent.com/u/53455?v=3&s=64
-41.4433668,-0.8846827,,Point,100,javisantana,1180,127,JavaScript,Madrid - Valladolid,https://avatars1.githubusercontent.com/u/30147?v=3&s=64
-42.8804471,-8.5463034,,Point,101,fdansv,1177,19,Java,Madrid / Santiago de Compostela,https://avatars3.githubusercontent.com/u/3707222?v=3&s=64
-41.4433668,-0.8846827,,Point,102,dsaenztagarro,1152,2,Ruby,Madrid,https://avatars3.githubusercontent.com/u/1685489?v=3&s=64
-43.2569629,-2.9234409,,Point,103,soyjavi,1134,897,CoffeeScript,Bilbao ✈︎ Chiang Mai ✈︎ London,https://avatars0.githubusercontent.com/u/559654?v=3&s=64
+40.4166909,-3.7003454,,Point,100,javisantana,1180,127,JavaScript,Madrid - Valladolid,https://avatars1.githubusercontent.com/u/30147?v=3&s=64
+40.4166909,-3.7003454,,Point,102,dsaenztagarro,1152,2,Ruby,Madrid,https://avatars3.githubusercontent.com/u/1685489?v=3&s=64
 41.387917,2.1699187,,Point,104,neo22s,1130,10,PHP,Barcelona,https://avatars1.githubusercontent.com/u/241725?v=3&s=64
-28.46981,-16.2548558,,Point,106,Madh93,1123,5,C++,"Tenerife, Spain",https://avatars1.githubusercontent.com/u/5855179?v=3&s=64
-28.46981,-16.2548558,,Point,107,Rayco,1122,0,JavaScript,"Canary Islands, Tenerife, Spain",https://avatars2.githubusercontent.com/u/249454?v=3&s=64
 43.5452608,-5.6619264,,Point,109,albfan,1121,188,Shell,"Gijón, Spain",https://avatars1.githubusercontent.com/u/220968?v=3&s=64
 41.387917,2.1699187,,Point,110,toniher,1120,5,JavaScript,"Barcelona, Catalonia",https://avatars2.githubusercontent.com/u/535539?v=3&s=64
-41.4433668,-0.8846827,,Point,111,oesteban,1116,5,Python,Madrid,https://avatars0.githubusercontent.com/u/598470?v=3&s=64
+40.4166909,-3.7003454,,Point,111,oesteban,1116,5,Python,Madrid,https://avatars0.githubusercontent.com/u/598470?v=3&s=64
 41.387917,2.1699187,,Point,112,k0gaMSX,1114,3,Makefile,Barcelona (Spain),https://avatars3.githubusercontent.com/u/944178?v=3&s=64
 41.387917,2.1699187,,Point,113,pditommaso,1103,72,Java,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/816968?v=3&s=64
 41.6529434,-4.7283811,,Point,114,alexandernst,1088,59,JavaScript,"Valladolid, Spain",https://avatars2.githubusercontent.com/u/89727?v=3&s=64
 41.6562873,-0.8765379,,Point,115,shoghicp,1084,253,PHP,Zaragoza,https://avatars3.githubusercontent.com/u/516482?v=3&s=64
-38.34521,-0.4809945,,Point,116,joakin,1083,75,JavaScript,"Alicante, Spain",https://avatars1.githubusercontent.com/u/657839?v=3&s=64
-41.4433668,-0.8846827,,Point,117,miguel0afd,1082,24,Java,"Madrid, Spain",https://avatars1.githubusercontent.com/u/6031466?v=3&s=64
-37.0025184,-3.9883887,,Point,118,demiurgosoft,1080,12,JavaScript,"Granada,Spain",https://avatars3.githubusercontent.com/u/5960567?v=3&s=64
+40.4166909,-3.7003454,,Point,117,miguel0afd,1082,24,Java,"Madrid, Spain",https://avatars1.githubusercontent.com/u/6031466?v=3&s=64
+37.1764874,-3.5979291,,Point,118,demiurgosoft,1080,12,JavaScript,"Granada,Spain",https://avatars3.githubusercontent.com/u/5960567?v=3&s=64
 40.3491158,-3.8288109,,Point,119,piranna,1079,46,JavaScript,"Alcorcón, Madrid, Spain",https://avatars3.githubusercontent.com/u/532414?v=3&s=64
 41.387917,2.1699187,,Point,120,dialelo,1072,525,Python,Barcelona,https://avatars0.githubusercontent.com/u/409039?v=3&s=64
 36.7196484,-4.4200163,,Point,121,PabloCastellano,1066,52,Python,"Málaga, Spain",https://avatars2.githubusercontent.com/u/73274?v=3&s=64
-40.4166909,-3.7003454,,Point,122,MaximeHeckel,1060,51,JavaScript,"Strasbourg, France / Madrid, Spain",https://avatars3.githubusercontent.com/u/2974412?v=3&s=64
-41.4433668,-0.8846827,,Point,123,jcaden,1058,4,C,Madrid,https://avatars1.githubusercontent.com/u/440679?v=3&s=64
-41.4433668,-0.8846827,,Point,124,epgarcia,1047,7,Java,Madrid,https://avatars0.githubusercontent.com/u/1579803?v=3&s=64
+40.4166909,-3.7003454,,Point,123,jcaden,1058,4,C,Madrid,https://avatars1.githubusercontent.com/u/440679?v=3&s=64
+40.4166909,-3.7003454,,Point,124,epgarcia,1047,7,Java,Madrid,https://avatars0.githubusercontent.com/u/1579803?v=3&s=64
 43.2569629,-2.9234409,,Point,126,Razican,1043,11,Java,"Bilbao, Spain",https://avatars0.githubusercontent.com/u/597469?v=3&s=64
-41.4433668,-0.8846827,,Point,127,RotaruDan,1037,6,C++,Madrid (Spain),https://avatars3.githubusercontent.com/u/5658058?v=3&s=64
-41.4433668,-0.8846827,,Point,128,robertoDiaz,1035,0,JavaScript,Madrid - Gijón,https://avatars3.githubusercontent.com/u/2728470?v=3&s=64
-41.4433668,-0.8846827,,Point,129,aarranz,1026,3,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/841201?v=3&s=64
+40.4166909,-3.7003454,,Point,127,RotaruDan,1037,6,C++,Madrid (Spain),https://avatars3.githubusercontent.com/u/5658058?v=3&s=64
+40.4166909,-3.7003454,,Point,128,robertoDiaz,1035,0,JavaScript,Madrid - Gijón,https://avatars3.githubusercontent.com/u/2728470?v=3&s=64
+40.4166909,-3.7003454,,Point,129,aarranz,1026,3,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/841201?v=3&s=64
 43.1782053,-2.3116402,,Point,130,oihane,1022,0,Python,"Azkoitia, Spain",https://avatars1.githubusercontent.com/u/2323616?v=3&s=64
-37.3892038,-5.9081615,,Point,133,jsierles,1006,372,Ruby,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/82?v=3&s=64
+37.38264,-5.9962951,,Point,133,jsierles,1006,372,Ruby,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/82?v=3&s=64
 41.387917,2.1699187,,Point,134,ctubio,988,4,Shell,"Barcelona, Catalonia",https://avatars2.githubusercontent.com/u/1634027?v=3&s=64
 41.387917,2.1699187,,Point,135,rogergros,987,0,PHP,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/2053670?v=3&s=64
 43.3602994,-5.844781,,Point,136,mifl,986,16,Shell,"Oviedo, Spain",https://avatars3.githubusercontent.com/u/2394944?v=3&s=64
 41.387917,2.1699187,,Point,137,sneridagh,974,60,Python,Barcelona,https://avatars0.githubusercontent.com/u/486927?v=3&s=64
-39.5760721,-4.9624159,,Point,139,danigb,971,81,JavaScript,"seville, spain",https://avatars2.githubusercontent.com/u/7457?v=3&s=64
-42.2940141,-5.5198607,,Point,140,jcagarcia,966,2,CSS,"Valencia, Spain",https://avatars2.githubusercontent.com/u/1403553?v=3&s=64
+39.4702393,-0.3768049,,Point,140,jcagarcia,966,2,CSS,"Valencia, Spain",https://avatars2.githubusercontent.com/u/1403553?v=3&s=64
 36.7196484,-4.4200163,,Point,141,aesedepece,963,8,JavaScript,"Málaga, Spain",https://avatars3.githubusercontent.com/u/1316439?v=3&s=64
-36.957424,-2.5700746,,Point,142,josejuansanchez,961,63,JavaScript,Almería,https://avatars0.githubusercontent.com/u/888481?v=3&s=64
+36.8401638,-2.4679217,,Point,142,josejuansanchez,961,63,JavaScript,Almería,https://avatars0.githubusercontent.com/u/888481?v=3&s=64
 41.387917,2.1699187,,Point,144,clintongormley,954,95,Perl,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/56599?v=3&s=64
 41.387917,2.1699187,,Point,145,dasilvacontin,949,37,JavaScript,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/1260830?v=3&s=64
-41.4433668,-0.8846827,,Point,148,matallo,945,7,JavaScript,"Madrid, ES",https://avatars3.githubusercontent.com/u/36676?v=3&s=64
-41.4433668,-0.8846827,,Point,149,jespino,943,174,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/290303?v=3&s=64
+40.4166909,-3.7003454,,Point,148,matallo,945,7,JavaScript,"Madrid, ES",https://avatars3.githubusercontent.com/u/36676?v=3&s=64
+40.4166909,-3.7003454,,Point,149,jespino,943,174,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/290303?v=3&s=64
 41.387917,2.1699187,,Point,150,danielguillan,942,670,CSS,Barcelona,https://avatars0.githubusercontent.com/u/175638?v=3&s=64
 41.6562873,-0.8765379,,Point,151,lmorillas,940,8,Python,"Zaragoza, Spain",https://avatars0.githubusercontent.com/u/778855?v=3&s=64
 41.9817957,2.8236999,,Point,152,ecarreras,937,39,Python,Girona,https://avatars0.githubusercontent.com/u/294235?v=3&s=64
 41.6562873,-0.8765379,,Point,153,acelaya,934,86,PHP,Zaragoza,https://avatars2.githubusercontent.com/u/2719332?v=3&s=64
 43.1841801,-2.4732889,,Point,154,erral,933,17,Python,"Eibar, Gipuzkoa, Basque Country",https://avatars1.githubusercontent.com/u/817365?v=3&s=64
 41.6529434,-4.7283811,,Point,155,joaquinferrero,927,1,Perl,"Valladolid, Spain",https://avatars1.githubusercontent.com/u/250681?v=3&s=64
-42.8179879,-1.6441835,,Point,156,amatriain,922,56,Ruby,Pamplona,https://avatars3.githubusercontent.com/u/1439986?v=3&s=64
-41.4433668,-0.8846827,,Point,157,mcuadros,921,1104,Go,"Madrid, Spain",https://avatars3.githubusercontent.com/u/1573114?v=3&s=64
-37.0025184,-3.9883887,,Point,158,fdavidcl,911,32,Makefile,"Granada, Spain",https://avatars3.githubusercontent.com/u/909629?v=3&s=64
-37.675267,-1.6975995,,Point,159,e0ipso,910,100,PHP,"Ca'n Picafort, Mallorca, Spain",https://avatars1.githubusercontent.com/u/1140906?v=3&s=64
-37.0025184,-3.9883887,,Point,160,M42,906,32,Shell,"Granada, Spain",https://avatars1.githubusercontent.com/u/5337877?v=3&s=64
-41.4433668,-0.8846827,,Point,161,mancas,906,0,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/2591048?v=3&s=64
-41.4433668,-0.8846827,,Point,162,mdelapenya,902,17,Java,"Madrid, Toledo (Spain)",https://avatars0.githubusercontent.com/u/951580?v=3&s=64
-41.4433668,-0.8846827,,Point,163,est77,896,16,C++,Madrid,https://avatars3.githubusercontent.com/u/409013?v=3&s=64
-40.4166909,-3.7003454,,Point,164,ibc,895,147,JavaScript,Bilbao & Madrid,https://avatars3.githubusercontent.com/u/16191?v=3&s=64
+40.4166909,-3.7003454,,Point,157,mcuadros,921,1104,Go,"Madrid, Spain",https://avatars3.githubusercontent.com/u/1573114?v=3&s=64
+37.1764874,-3.5979291,,Point,158,fdavidcl,911,32,Makefile,"Granada, Spain",https://avatars3.githubusercontent.com/u/909629?v=3&s=64
+37.1764874,-3.5979291,,Point,160,M42,906,32,Shell,"Granada, Spain",https://avatars1.githubusercontent.com/u/5337877?v=3&s=64
+40.4166909,-3.7003454,,Point,161,mancas,906,0,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/2591048?v=3&s=64
+40.4166909,-3.7003454,,Point,162,mdelapenya,902,17,Java,"Madrid, Toledo (Spain)",https://avatars0.githubusercontent.com/u/951580?v=3&s=64
+40.4166909,-3.7003454,,Point,163,est77,896,16,C++,Madrid,https://avatars3.githubusercontent.com/u/409013?v=3&s=64
 41.387917,2.1699187,,Point,165,alvaroabascar,895,5,Python,Barcelona,https://avatars0.githubusercontent.com/u/7307772?v=3&s=64
-41.4433668,-0.8846827,,Point,166,juanfran,892,109,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/905195?v=3&s=64
+40.4166909,-3.7003454,,Point,166,juanfran,892,109,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/905195?v=3&s=64
 43.2569629,-2.9234409,,Point,167,gorkalaucirica,887,68,PHP,Bilbao,https://avatars2.githubusercontent.com/u/1749891?v=3&s=64
 36.7196484,-4.4200163,,Point,168,aplanas,886,3,Shell,"Málaga, Spain",https://avatars0.githubusercontent.com/u/645701?v=3&s=64
 36.5296879,-6.2926569,,Point,169,Foxandxss,880,1005,JavaScript,"Cádiz, Spain",https://avatars0.githubusercontent.com/u/1087957?v=3&s=64
-41.4433668,-0.8846827,,Point,171,izaera,867,30,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3273630?v=3&s=64
-41.4433668,-0.8846827,,Point,172,fermayo,864,5,Shell,"Madrid, Spain",https://avatars2.githubusercontent.com/u/3635457?v=3&s=64
-41.4433668,-0.8846827,,Point,173,jkappler,864,0,HTML,"Madrid, Spain",https://avatars1.githubusercontent.com/u/4267448?v=3&s=64
-41.4433668,-0.8846827,,Point,174,tifayuki,861,13,Shell,Madrid,https://avatars0.githubusercontent.com/u/5781551?v=3&s=64
-41.4433668,-0.8846827,,Point,175,vegaro,860,3,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/664544?v=3&s=64
-41.4433668,-0.8846827,,Point,176,Kartones,860,4,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2085449?v=3&s=64
-36.7196484,-4.4200163,,Point,177,andresgnlez,858,0,JavaScript,Madrid / Málaga,https://avatars3.githubusercontent.com/u/999124?v=3&s=64
-37.0025184,-3.9883887,,Point,178,laughedelic,857,114,Scala,"Spain, Granada",https://avatars1.githubusercontent.com/u/766656?v=3&s=64
+40.4166909,-3.7003454,,Point,171,izaera,867,30,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3273630?v=3&s=64
+40.4166909,-3.7003454,,Point,172,fermayo,864,5,Shell,"Madrid, Spain",https://avatars2.githubusercontent.com/u/3635457?v=3&s=64
+40.4166909,-3.7003454,,Point,173,jkappler,864,0,HTML,"Madrid, Spain",https://avatars1.githubusercontent.com/u/4267448?v=3&s=64
+40.4166909,-3.7003454,,Point,174,tifayuki,861,13,Shell,Madrid,https://avatars0.githubusercontent.com/u/5781551?v=3&s=64
+40.4166909,-3.7003454,,Point,175,vegaro,860,3,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/664544?v=3&s=64
+40.4166909,-3.7003454,,Point,176,Kartones,860,4,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2085449?v=3&s=64
+37.1764874,-3.5979291,,Point,178,laughedelic,857,114,Scala,"Spain, Granada",https://avatars1.githubusercontent.com/u/766656?v=3&s=64
 41.387917,2.1699187,,Point,180,ferranvila,857,0,HTML,Barcelona,https://avatars1.githubusercontent.com/u/8384895?v=3&s=64
 41.387917,2.1699187,,Point,182,ichinaski,854,49,Go,Barcelona,https://avatars1.githubusercontent.com/u/1754343?v=3&s=64
-38.34521,-0.4809945,,Point,185,lronaldo,839,25,Makefile,Alicante,https://avatars2.githubusercontent.com/u/1193368?v=3&s=64
-41.4433668,-0.8846827,,Point,186,ebarra,837,3,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/52309?v=3&s=64
-42.5816617,0.3371799,,Point,187,tombatossals,833,184,JavaScript,Castelló de la Plana,https://avatars1.githubusercontent.com/u/124169?v=3&s=64
-41.4433668,-0.8846827,,Point,188,monday8am,831,32,C#,Madrid,https://avatars3.githubusercontent.com/u/1842773?v=3&s=64
-41.4433668,-0.8846827,,Point,189,alexrchies,828,2,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/5259513?v=3&s=64
-41.4433668,-0.8846827,,Point,190,migue,820,62,Java,Madrid,https://avatars3.githubusercontent.com/u/135139?v=3&s=64
-41.4433668,-0.8846827,,Point,191,anserran,817,5,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1515738?v=3&s=64
-41.4433668,-0.8846827,,Point,192,rafinskipg,810,80,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/1152768?v=3&s=64
-37.0025184,-3.9883887,,Point,194,pablopareja,806,47,Java,"Granada, Spain",https://avatars2.githubusercontent.com/u/545342?v=3&s=64
-37.0025184,-3.9883887,,Point,195,yosymfony,799,60,PHP,"Granada, Spain",https://avatars2.githubusercontent.com/u/3321099?v=3&s=64
-40.4166909,-3.7003454,,Point,197,camposer,788,17,Java,Madrid/España,https://avatars3.githubusercontent.com/u/313803?v=3&s=64
+40.4166909,-3.7003454,,Point,186,ebarra,837,3,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/52309?v=3&s=64
+40.4166909,-3.7003454,,Point,188,monday8am,831,32,C#,Madrid,https://avatars3.githubusercontent.com/u/1842773?v=3&s=64
+40.4166909,-3.7003454,,Point,189,alexrchies,828,2,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/5259513?v=3&s=64
+40.4166909,-3.7003454,,Point,190,migue,820,62,Java,Madrid,https://avatars3.githubusercontent.com/u/135139?v=3&s=64
+40.4166909,-3.7003454,,Point,191,anserran,817,5,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1515738?v=3&s=64
+40.4166909,-3.7003454,,Point,192,rafinskipg,810,80,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/1152768?v=3&s=64
+37.1764874,-3.5979291,,Point,194,pablopareja,806,47,Java,"Granada, Spain",https://avatars2.githubusercontent.com/u/545342?v=3&s=64
+37.1764874,-3.5979291,,Point,195,yosymfony,799,60,PHP,"Granada, Spain",https://avatars2.githubusercontent.com/u/3321099?v=3&s=64
 41.387917,2.1699187,,Point,198,xispa,782,0,CSS,Barcelona,https://avatars0.githubusercontent.com/u/832627?v=3&s=64
-41.387917,2.1699187,,Point,201,msune,775,5,Shell,Barcelona / US,https://avatars2.githubusercontent.com/u/1881210?v=3&s=64
-41.4433668,-0.8846827,,Point,202,ferjm,774,44,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/480202?v=3&s=64
-41.4433668,-0.8846827,,Point,203,eferro,768,8,Python,Madrid,https://avatars0.githubusercontent.com/u/141224?v=3&s=64
+40.4166909,-3.7003454,,Point,202,ferjm,774,44,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/480202?v=3&s=64
+40.4166909,-3.7003454,,Point,203,eferro,768,8,Python,Madrid,https://avatars0.githubusercontent.com/u/141224?v=3&s=64
 41.387917,2.1699187,,Point,204,mayhem,768,27,Python,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/49745?v=3&s=64
 41.387917,2.1699187,,Point,205,sephirot47,764,30,C++,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/8834560?v=3&s=64
 41.387917,2.1699187,,Point,207,xexiu,762,2,JavaScript,Barcelona,https://avatars3.githubusercontent.com/u/7423607?v=3&s=64
-36.7419619,-5.1664119,,Point,208,JaimeMartin,761,0,,"Ronda del Poniente 16 BJ-K, 28760, Tres Cantos, Spain",https://avatars0.githubusercontent.com/u/7735893?v=3&s=64
+40.5990717,-3.7122577,,Point,208,JaimeMartin,761,0,,"Ronda del Poniente 16 BJ-K, 28760, Tres Cantos, Spain",https://avatars0.githubusercontent.com/u/7735893?v=3&s=64
 43.2713821,-2.049934,,Point,209,aldatsa,760,2,Shell,"Usurbil, Gipuzkoa (EH)",https://avatars1.githubusercontent.com/u/4741986?v=3&s=64
 41.387917,2.1699187,,Point,210,freecates,759,0,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/4909094?v=3&s=64
-41.4433668,-0.8846827,,Point,212,jabrena,757,11,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/147263?v=3&s=64
-41.4433668,-0.8846827,,Point,213,flopezag,755,2,Shell,Madrid (Spain),https://avatars2.githubusercontent.com/u/1379796?v=3&s=64
-37.7616494,-3.7646191,,Point,214,fcharte,753,18,R,"Jaén, Granada, Spain",https://avatars3.githubusercontent.com/u/8365501?v=3&s=64
-43.5101236,-5.8692269,,Point,215,davidmogar,753,29,CSS,"Asturias, Spain",https://avatars0.githubusercontent.com/u/1498203?v=3&s=64
+40.4166909,-3.7003454,,Point,212,jabrena,757,11,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/147263?v=3&s=64
+40.4166909,-3.7003454,,Point,213,flopezag,755,2,Shell,Madrid (Spain),https://avatars2.githubusercontent.com/u/1379796?v=3&s=64
+37.7657389,-3.7895177,,Point,214,fcharte,753,18,R,"Jaén, Granada, Spain",https://avatars3.githubusercontent.com/u/8365501?v=3&s=64
 41.387917,2.1699187,,Point,216,plungerman,753,0,,Barcelona,https://avatars2.githubusercontent.com/u/137031?v=3&s=64
 41.387917,2.1699187,,Point,217,sennett,746,3,JavaScript,Barcelona,https://avatars3.githubusercontent.com/u/3783198?v=3&s=64
 41.387917,2.1699187,,Point,218,Pafcholini,743,3,C,Barcelona,https://avatars1.githubusercontent.com/u/4403218?v=3&s=64
 37.2571526,-6.9495221,,Point,219,antonio,740,21,Ruby,"Huelva, Spain",https://avatars2.githubusercontent.com/u/17516?v=3&s=64
 41.6529434,-4.7283811,,Point,220,marcosgdf,738,11,PHP,"Valladolid, Spain",https://avatars2.githubusercontent.com/u/168744?v=3&s=64
-41.4433668,-0.8846827,,Point,222,Manu343726,735,199,C++,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1561197?v=3&s=64
-37.0025184,-3.9883887,,Point,223,ivanortegaalba,732,4,CSS,"Granada, Jaén, Spain",https://avatars0.githubusercontent.com/u/5699976?v=3&s=64
-41.4433668,-0.8846827,,Point,224,Xaviju,731,98,CSS,"Madrid, Valencia, Spain",https://avatars3.githubusercontent.com/u/1343702?v=3&s=64
-41.4433668,-0.8846827,,Point,225,iriberri,730,3,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/1730320?v=3&s=64
-41.4433668,-0.8846827,,Point,226,bonigarcia,730,26,Java,Madrid,https://avatars1.githubusercontent.com/u/5413013?v=3&s=64
-41.4433668,-0.8846827,,Point,227,Jsevillamol,723,9,C++,"Madrid, Spain",https://avatars3.githubusercontent.com/u/5825805?v=3&s=64
+40.4166909,-3.7003454,,Point,222,Manu343726,735,199,C++,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1561197?v=3&s=64
+37.1764874,-3.5979291,,Point,223,ivanortegaalba,732,4,CSS,"Granada, Jaén, Spain",https://avatars0.githubusercontent.com/u/5699976?v=3&s=64
+40.4166909,-3.7003454,,Point,224,Xaviju,731,98,CSS,"Madrid, Valencia, Spain",https://avatars3.githubusercontent.com/u/1343702?v=3&s=64
+40.4166909,-3.7003454,,Point,225,iriberri,730,3,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/1730320?v=3&s=64
+40.4166909,-3.7003454,,Point,226,bonigarcia,730,26,Java,Madrid,https://avatars1.githubusercontent.com/u/5413013?v=3&s=64
+40.4166909,-3.7003454,,Point,227,Jsevillamol,723,9,C++,"Madrid, Spain",https://avatars3.githubusercontent.com/u/5825805?v=3&s=64
 41.387917,2.1699187,,Point,229,pplu,723,63,Perl,Barcelona,https://avatars3.githubusercontent.com/u/53034?v=3&s=64
 42.2313564,-8.7124471,,Point,230,saulmm,719,3036,Java,"Vigo, Spain",https://avatars2.githubusercontent.com/u/3531999?v=3&s=64
-41.4433668,-0.8846827,,Point,231,dowrow,717,4,Java,Madrid,https://avatars1.githubusercontent.com/u/4643024?v=3&s=64
-41.4433668,-0.8846827,,Point,236,alexfernandez,692,573,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/876570?v=3&s=64
-41.4433668,-0.8846827,,Point,237,xuanxu,692,62,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6528?v=3&s=64
+40.4166909,-3.7003454,,Point,231,dowrow,717,4,Java,Madrid,https://avatars1.githubusercontent.com/u/4643024?v=3&s=64
+40.4166909,-3.7003454,,Point,236,alexfernandez,692,573,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/876570?v=3&s=64
+40.4166909,-3.7003454,,Point,237,xuanxu,692,62,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6528?v=3&s=64
 38.8785967,-6.9702834,,Point,238,adobo,690,185,PHP,"Badajoz, Spain",https://avatars2.githubusercontent.com/u/776565?v=3&s=64
 41.387917,2.1699187,,Point,239,romartin,686,1,Java,Barcelona,https://avatars3.githubusercontent.com/u/4602417?v=3&s=64
-41.4433668,-0.8846827,,Point,241,lodr,685,93,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/757942?v=3&s=64
-41.4433668,-0.8846827,,Point,242,carlosms,683,2,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1469173?v=3&s=64
-41.387917,2.1699187,,Point,246,ruben1,673,23,JavaScript,Barcelona ☼,https://avatars0.githubusercontent.com/u/4315770?v=3&s=64
-41.4433668,-0.8846827,,Point,247,ahaasler,673,10,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1241721?v=3&s=64
+40.4166909,-3.7003454,,Point,241,lodr,685,93,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/757942?v=3&s=64
+40.4166909,-3.7003454,,Point,242,carlosms,683,2,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1469173?v=3&s=64
+40.4166909,-3.7003454,,Point,247,ahaasler,673,10,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1241721?v=3&s=64
 41.387917,2.1699187,,Point,249,ManfredKarrer,671,8,Java,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/1449498?v=3&s=64
-37.0025184,-3.9883887,,Point,250,unintendedbear,667,2,Perl,"Granada, Spain",https://avatars2.githubusercontent.com/u/3061254?v=3&s=64
-41.4433668,-0.8846827,,Point,251,alvatar,667,118,Scheme,"Madrid, Spain",https://avatars0.githubusercontent.com/u/191694?v=3&s=64
+37.1764874,-3.5979291,,Point,250,unintendedbear,667,2,Perl,"Granada, Spain",https://avatars2.githubusercontent.com/u/3061254?v=3&s=64
+40.4166909,-3.7003454,,Point,251,alvatar,667,118,Scheme,"Madrid, Spain",https://avatars0.githubusercontent.com/u/191694?v=3&s=64
 41.6529434,-4.7283811,,Point,252,AdrianArroyoCalle,662,43,JavaScript,"Valladolid, Spain",https://avatars1.githubusercontent.com/u/3681517?v=3&s=64
-41.4433668,-0.8846827,,Point,253,csantosb,662,2,Emacs Lisp,Madrid,https://avatars1.githubusercontent.com/u/5930297?v=3&s=64
-37.0025184,-3.9883887,,Point,254,JAFS6,661,0,C#,"Granada, Spain",https://avatars0.githubusercontent.com/u/6010819?v=3&s=64
+40.4166909,-3.7003454,,Point,253,csantosb,662,2,Emacs Lisp,Madrid,https://avatars1.githubusercontent.com/u/5930297?v=3&s=64
+37.1764874,-3.5979291,,Point,254,JAFS6,661,0,C#,"Granada, Spain",https://avatars0.githubusercontent.com/u/6010819?v=3&s=64
 41.387917,2.1699187,,Point,255,alastair,661,250,Python,Barcelona,https://avatars2.githubusercontent.com/u/19217?v=3&s=64
-37.6549298,-4.8241568,,Point,256,alexsavio,661,7,Python,"San Sebastián, Spain",https://avatars0.githubusercontent.com/u/2472076?v=3&s=64
-41.4433668,-0.8846827,,Point,257,dmamolina,656,3,Shell and Ruby,Madrid,https://avatars0.githubusercontent.com/u/665127?v=3&s=64
-37.0025184,-3.9883887,,Point,258,andreshp,652,17,Python,"Granada, Spain",https://avatars2.githubusercontent.com/u/8548348?v=3&s=64
+40.4166909,-3.7003454,,Point,257,dmamolina,656,3,Shell and Ruby,Madrid,https://avatars0.githubusercontent.com/u/665127?v=3&s=64
+37.1764874,-3.5979291,,Point,258,andreshp,652,17,Python,"Granada, Spain",https://avatars2.githubusercontent.com/u/8548348?v=3&s=64
 41.387917,2.1699187,,Point,259,carlosjoserg,648,1,C++,"Barcelona, ES ⇄ Pisa, IT",https://avatars2.githubusercontent.com/u/4049053?v=3&s=64
 41.1186629,1.24533,,Point,260,2XL,647,3,HTML,Tarragona,https://avatars0.githubusercontent.com/u/5563169?v=3&s=64
-41.4433668,-0.8846827,,Point,261,alfonsomga,646,0,ApacheConf,"Madrid, Spain.",https://avatars0.githubusercontent.com/u/9363272?v=3&s=64
-40.9607395,-5.7465977,,Point,262,ecoal95,645,23,Makefile,"Salamanca, Spain",https://avatars2.githubusercontent.com/u/1323194?v=3&s=64
-41.4433668,-0.8846827,,Point,263,yagop,645,770,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/5002453?v=3&s=64
-41.5532128,0.7055162,,Point,264,sinmsinm,639,1,JavaScript,Lleida,https://avatars2.githubusercontent.com/u/1745437?v=3&s=64
-41.4433668,-0.8846827,,Point,265,Jesus89,638,8,Python,Madrid (Spain),https://avatars3.githubusercontent.com/u/2227572?v=3&s=64
+40.4166909,-3.7003454,,Point,261,alfonsomga,646,0,ApacheConf,"Madrid, Spain.",https://avatars0.githubusercontent.com/u/9363272?v=3&s=64
+40.9649681,-5.6630253,,Point,262,ecoal95,645,23,Makefile,"Salamanca, Spain",https://avatars2.githubusercontent.com/u/1323194?v=3&s=64
+40.4166909,-3.7003454,,Point,263,yagop,645,770,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/5002453?v=3&s=64
+41.6141518,0.6257825,,Point,264,sinmsinm,639,1,JavaScript,Lleida,https://avatars2.githubusercontent.com/u/1745437?v=3&s=64
+40.4166909,-3.7003454,,Point,265,Jesus89,638,8,Python,Madrid (Spain),https://avatars3.githubusercontent.com/u/2227572?v=3&s=64
 41.387917,2.1699187,,Point,266,salvadorgascon,637,0,C#,Barcelona,https://avatars0.githubusercontent.com/u/1319515?v=3&s=64
-41.4433668,-0.8846827,,Point,268,dLobatog,633,119,Ruby,"Madrid, Spain",https://avatars1.githubusercontent.com/u/598891?v=3&s=64
-41.4433668,-0.8846827,,Point,269,mvader,632,136,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1312023?v=3&s=64
-40.223488,-1.9795743,,Point,270,ctemescw,629,8,OpenSCAD,"A Coruña, Spain",https://avatars3.githubusercontent.com/u/7196387?v=3&s=64
+40.4166909,-3.7003454,,Point,268,dLobatog,633,119,Ruby,"Madrid, Spain",https://avatars1.githubusercontent.com/u/598891?v=3&s=64
+40.4166909,-3.7003454,,Point,269,mvader,632,136,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1312023?v=3&s=64
 41.387917,2.1699187,,Point,271,srvaroa,629,3,Shell,Barcelona,https://avatars3.githubusercontent.com/u/346110?v=3&s=64
-38.6724072,-6.9819105,,Point,272,VGonPa,629,3,Python,Leganés (Madrid),https://avatars2.githubusercontent.com/u/769613?v=3&s=64
+40.326422,-3.7589882,,Point,272,VGonPa,629,3,Python,Leganés (Madrid),https://avatars2.githubusercontent.com/u/769613?v=3&s=64
 41.387917,2.1699187,,Point,273,PatrickHeneise,627,228,JavaScript,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/74390?v=3&s=64
-41.4433668,-0.8846827,,Point,274,michael-emmi,627,4,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1457498?v=3&s=64
-42.2940141,-5.5198607,,Point,275,logongas,625,23,JavaScript,"Valencia , Spain",https://avatars0.githubusercontent.com/u/1575626?v=3&s=64
-41.4433668,-0.8846827,,Point,276,jframos,625,0,Python,Madrid,https://avatars1.githubusercontent.com/u/8695972?v=3&s=64
+40.4166909,-3.7003454,,Point,274,michael-emmi,627,4,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1457498?v=3&s=64
+39.4702393,-0.3768049,,Point,275,logongas,625,23,JavaScript,"Valencia , Spain",https://avatars0.githubusercontent.com/u/1575626?v=3&s=64
+40.4166909,-3.7003454,,Point,276,jframos,625,0,Python,Madrid,https://avatars1.githubusercontent.com/u/8695972?v=3&s=64
 41.387917,2.1699187,,Point,277,hiromipaw,624,5,Ruby,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/1177650?v=3&s=64
-43.3208116,-1.9844474,,Point,278,rmhdev,623,41,PHP,Donostia,https://avatars3.githubusercontent.com/u/593433?v=3&s=64
-37.0025184,-3.9883887,,Point,279,lmdiazangulo,622,0,,"Granada, Spain",https://avatars0.githubusercontent.com/u/4919398?v=3&s=64
-39.5760721,-4.9624159,,Point,280,javiersantos,620,182,Java,"Seville, Spain",https://avatars2.githubusercontent.com/u/2229658?v=3&s=64
-43.5101236,-5.8692269,,Point,281,bigardone,618,87,JavaScript,"Asturias, Spain",https://avatars2.githubusercontent.com/u/1090272?v=3&s=64
-41.4433668,-0.8846827,,Point,282,Xatpy,615,3,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/3958416?v=3&s=64
-41.4433668,-0.8846827,,Point,283,jose-izquierdo,612,0,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/6409652?v=3&s=64
-41.4433668,-0.8846827,,Point,284,abenitoc,610,5,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/1711055?v=3&s=64
+37.1764874,-3.5979291,,Point,279,lmdiazangulo,622,0,,"Granada, Spain",https://avatars0.githubusercontent.com/u/4919398?v=3&s=64
+40.4166909,-3.7003454,,Point,282,Xatpy,615,3,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/3958416?v=3&s=64
+40.4166909,-3.7003454,,Point,283,jose-izquierdo,612,0,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/6409652?v=3&s=64
+40.4166909,-3.7003454,,Point,284,abenitoc,610,5,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/1711055?v=3&s=64
 41.3450901,1.6998495,,Point,285,lluis,608,28,Ruby,"Vilafranca del Penedès, Catalunya",https://avatars3.githubusercontent.com/u/72090?v=3&s=64
-37.8800901,-6.6210019,,Point,286,lrlopez,605,6,PHP,Linares (Jaén),https://avatars0.githubusercontent.com/u/547387?v=3&s=64
+38.0936199,-3.6358445,,Point,286,lrlopez,605,6,PHP,Linares (Jaén),https://avatars0.githubusercontent.com/u/547387?v=3&s=64
 43.2569629,-2.9234409,,Point,287,7flying,604,1,Python,Bilbao,https://avatars2.githubusercontent.com/u/5881696?v=3&s=64
-41.4433668,-0.8846827,,Point,288,jbalsas,604,49,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/905006?v=3&s=64
-43.5101236,-5.8692269,,Point,289,brenes,601,55,Ruby,Asturias,https://avatars2.githubusercontent.com/u/246018?v=3&s=64
+40.4166909,-3.7003454,,Point,288,jbalsas,604,49,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/905006?v=3&s=64
 41.387917,2.1699187,,Point,291,MortI2C,600,0,CSS,"Barcelona, Catalunya",https://avatars0.githubusercontent.com/u/3726370?v=3&s=64
-41.4433668,-0.8846827,,Point,293,calvinpy,598,3,Python,Madrid,https://avatars3.githubusercontent.com/u/5514990?v=3&s=64
-41.4433668,-0.8846827,,Point,295,carlospalacin,593,0,PHP,"Madrid, Spain",https://avatars3.githubusercontent.com/u/7494076?v=3&s=64
+40.4166909,-3.7003454,,Point,293,calvinpy,598,3,Python,Madrid,https://avatars3.githubusercontent.com/u/5514990?v=3&s=64
+40.4166909,-3.7003454,,Point,295,carlospalacin,593,0,PHP,"Madrid, Spain",https://avatars3.githubusercontent.com/u/7494076?v=3&s=64
 41.1186629,1.24533,,Point,296,ryanfox1985,592,0,Ruby,"Tarragona, Spain",https://avatars1.githubusercontent.com/u/1152728?v=3&s=64
-41.4433668,-0.8846827,,Point,297,atd,592,150,Ruby,Madrid,https://avatars3.githubusercontent.com/u/26228?v=3&s=64
+40.4166909,-3.7003454,,Point,297,atd,592,150,Ruby,Madrid,https://avatars3.githubusercontent.com/u/26228?v=3&s=64
 41.387917,2.1699187,,Point,298,josepllberral,590,0,C,Barcelona,https://avatars2.githubusercontent.com/u/7936095?v=3&s=64
-28.46981,-16.2548558,,Point,300,Nazariglez,589,21,JavaScript,"Tenerife, Canary Islands",https://avatars3.githubusercontent.com/u/1929191?v=3&s=64
 36.5296879,-6.2926569,,Point,301,jdesiloniz,588,0,Swift,"Cádiz, Spain",https://avatars2.githubusercontent.com/u/2835739?v=3&s=64
-39.5719201,2.6165625,,Point,302,gallir,587,161,Shell,"Palma de Mallorca, Spain",https://avatars3.githubusercontent.com/u/140303?v=3&s=64
 41.387917,2.1699187,,Point,303,markbain,584,1,JavaScript,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/1516105?v=3&s=64
-40.3049763,-3.7326773,,Point,304,Diseinuak,583,1,JavaScript,"Getafe - Madrid, España",https://avatars0.githubusercontent.com/u/7121606?v=3&s=64
-39.5760721,-4.9624159,,Point,305,Deathsbreed,582,3,Java,"Seville, Spain",https://avatars0.githubusercontent.com/u/6626993?v=3&s=64
-41.4433668,-0.8846827,,Point,306,agonlucas,582,0,Python,Madrid,https://avatars1.githubusercontent.com/u/3539307?v=3&s=64
+40.4166909,-3.7003454,,Point,306,agonlucas,582,0,Python,Madrid,https://avatars1.githubusercontent.com/u/3539307?v=3&s=64
 41.387917,2.1699187,,Point,307,lordofthejars,579,273,Java,Barcelona,https://avatars2.githubusercontent.com/u/1517153?v=3&s=64
 42.2313564,-8.7124471,,Point,308,jjelosua,576,6,Python,"Vigo, Spain",https://avatars1.githubusercontent.com/u/1834051?v=3&s=64
-41.4433668,-0.8846827,,Point,310,carlosazaustre,575,490,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/650752?v=3&s=64
-41.4433668,-0.8846827,,Point,311,gonthalo,574,6,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/5852184?v=3&s=64
+40.4166909,-3.7003454,,Point,310,carlosazaustre,575,490,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/650752?v=3&s=64
+40.4166909,-3.7003454,,Point,311,gonthalo,574,6,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/5852184?v=3&s=64
 41.387917,2.1699187,,Point,312,Pinkii-,572,3,C++,"Barcelona, Ibiza",https://avatars2.githubusercontent.com/u/4028884?v=3&s=64
-42.2940141,-5.5198607,,Point,313,soywiz,572,549,Shell,"Spain, Valencia",https://avatars1.githubusercontent.com/u/570848?v=3&s=64
+39.4702393,-0.3768049,,Point,313,soywiz,572,549,Shell,"Spain, Valencia",https://avatars1.githubusercontent.com/u/570848?v=3&s=64
 41.387917,2.1699187,,Point,314,adrian-rosello,569,2,Java,Barcelona,https://avatars2.githubusercontent.com/u/1423469?v=3&s=64
 41.387917,2.1699187,,Point,315,beeman,568,698,JavaScript,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/36491?v=3&s=64
 41.387917,2.1699187,,Point,316,emi80,568,2,CSS,Barcelona,https://avatars3.githubusercontent.com/u/2760700?v=3&s=64
-41.387917,2.1699187,,Point,317,unamaria,568,0,HTML,Austin / Barcelona,https://avatars1.githubusercontent.com/u/8292440?v=3&s=64
 43.5452608,-5.6619264,,Point,318,lmenezes,567,970,JavaScript,"Gijón, Spain",https://avatars1.githubusercontent.com/u/750074?v=3&s=64
 43.4609602,-3.8079336,,Point,319,fernandezcuesta,565,0,Python,"Santander, ES",https://avatars3.githubusercontent.com/u/7312236?v=3&s=64
-41.4433668,-0.8846827,,Point,320,geonexus,565,0,Python,Madrid,https://avatars2.githubusercontent.com/u/7373366?v=3&s=64
+40.4166909,-3.7003454,,Point,320,geonexus,565,0,Python,Madrid,https://avatars2.githubusercontent.com/u/7373366?v=3&s=64
 41.387917,2.1699187,,Point,321,rpau,564,88,Java,Barcelona,https://avatars0.githubusercontent.com/u/1483433?v=3&s=64
-41.4433668,-0.8846827,,Point,322,gorco,564,0,JavaScript,Madrid - Spain,https://avatars1.githubusercontent.com/u/5657407?v=3&s=64
-41.4433668,-0.8846827,,Point,323,albertov,563,3,Haskell,Madrid,https://avatars0.githubusercontent.com/u/865291?v=3&s=64
-41.4433668,-0.8846827,,Point,324,gtorodelvalle,556,10,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/667284?v=3&s=64
-43.5101236,-5.8692269,,Point,325,labra,555,30,Scala,Asturias,https://avatars1.githubusercontent.com/u/308369?v=3&s=64
+40.4166909,-3.7003454,,Point,322,gorco,564,0,JavaScript,Madrid - Spain,https://avatars1.githubusercontent.com/u/5657407?v=3&s=64
+40.4166909,-3.7003454,,Point,323,albertov,563,3,Haskell,Madrid,https://avatars0.githubusercontent.com/u/865291?v=3&s=64
+40.4166909,-3.7003454,,Point,324,gtorodelvalle,556,10,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/667284?v=3&s=64
 41.387917,2.1699187,,Point,326,lluisgerard,555,9,Objective-C,"Mataro, Barcelona",https://avatars2.githubusercontent.com/u/1152968?v=3&s=64
-41.4433668,-0.8846827,,Point,328,josegom,552,2,Java,Madrid,https://avatars1.githubusercontent.com/u/1228543?v=3&s=64
+40.4166909,-3.7003454,,Point,328,josegom,552,2,Java,Madrid,https://avatars1.githubusercontent.com/u/1228543?v=3&s=64
 41.387917,2.1699187,,Point,329,rubiojr,541,464,Ruby,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/10998?v=3&s=64
-37.0025184,-3.9883887,,Point,330,potray,540,0,JavaScript,"Granada, Spain",https://avatars2.githubusercontent.com/u/5851516?v=3&s=64
-41.4433668,-0.8846827,,Point,331,chiquitinxx,540,118,Groovy,Madrid,https://avatars0.githubusercontent.com/u/879681?v=3&s=64
-41.4433668,-0.8846827,,Point,332,gserranojc,540,1,Java,Madrid,https://avatars2.githubusercontent.com/u/8297897?v=3&s=64
+37.1764874,-3.5979291,,Point,330,potray,540,0,JavaScript,"Granada, Spain",https://avatars2.githubusercontent.com/u/5851516?v=3&s=64
+40.4166909,-3.7003454,,Point,331,chiquitinxx,540,118,Groovy,Madrid,https://avatars0.githubusercontent.com/u/879681?v=3&s=64
+40.4166909,-3.7003454,,Point,332,gserranojc,540,1,Java,Madrid,https://avatars2.githubusercontent.com/u/8297897?v=3&s=64
 41.387917,2.1699187,,Point,335,rubencaro,539,57,Ruby,Barcelona,https://avatars1.githubusercontent.com/u/472823?v=3&s=64
 36.5296879,-6.2926569,,Point,336,javipacheco,538,93,Java,"Cádiz, Spain",https://avatars1.githubusercontent.com/u/456025?v=3&s=64
-37.0025184,-3.9883887,,Point,337,acanas,536,15,Makefile,"Granada, Spain",https://avatars0.githubusercontent.com/u/9986986?v=3&s=64
-41.4433668,-0.8846827,,Point,338,muit,535,108,JavaScript,"Madrid, España",https://avatars3.githubusercontent.com/u/3672970?v=3&s=64
-41.4433668,-0.8846827,,Point,339,MariadeAnton,535,8,C++,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3729517?v=3&s=64
-37.0025184,-3.9883887,,Point,342,julioxus,532,7,Shell,"Granada, Spain",https://avatars2.githubusercontent.com/u/8873234?v=3&s=64
-41.4433668,-0.8846827,,Point,343,alejandrofcarrera,531,18,Objective-C,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2384152?v=3&s=64
+37.1764874,-3.5979291,,Point,337,acanas,536,15,Makefile,"Granada, Spain",https://avatars0.githubusercontent.com/u/9986986?v=3&s=64
+40.4166909,-3.7003454,,Point,338,muit,535,108,JavaScript,"Madrid, España",https://avatars3.githubusercontent.com/u/3672970?v=3&s=64
+40.4166909,-3.7003454,,Point,339,MariadeAnton,535,8,C++,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3729517?v=3&s=64
+37.1764874,-3.5979291,,Point,342,julioxus,532,7,Shell,"Granada, Spain",https://avatars2.githubusercontent.com/u/8873234?v=3&s=64
+40.4166909,-3.7003454,,Point,343,alejandrofcarrera,531,18,Objective-C,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2384152?v=3&s=64
 28.46981,-16.2548558,,Point,346,SCeruso,530,0,Java,Santa Cruz de Tenerife,https://avatars0.githubusercontent.com/u/6556479?v=3&s=64
 41.6562873,-0.8765379,,Point,347,scambra,528,116,Ruby,"Zaragoza, Spain",https://avatars2.githubusercontent.com/u/20515?v=3&s=64
-41.4433668,-0.8846827,,Point,348,olmobrutall,528,0,C#,Madrid (Spain),https://avatars3.githubusercontent.com/u/720953?v=3&s=64
-43.3581578,-5.5059771,,Point,350,stronk7,528,25,PHP,"Navarrete, La Rioja, Spain",https://avatars0.githubusercontent.com/u/167147?v=3&s=64
+40.4166909,-3.7003454,,Point,348,olmobrutall,528,0,C#,Madrid (Spain),https://avatars3.githubusercontent.com/u/720953?v=3&s=64
+42.4307377,-2.5646665,,Point,350,stronk7,528,25,PHP,"Navarrete, La Rioja, Spain",https://avatars0.githubusercontent.com/u/167147?v=3&s=64
 41.387917,2.1699187,,Point,351,mikz,527,154,Ruby,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/154571?v=3&s=64
 41.6562873,-0.8765379,,Point,352,jburguete,526,4,C,"Zaragoza, Spain",https://avatars0.githubusercontent.com/u/1690277?v=3&s=64
 41.1186629,1.24533,,Point,353,erikrk,522,0,CMake,"Tarragona, Spain",https://avatars2.githubusercontent.com/u/10605330?v=3&s=64
 41.387917,2.1699187,,Point,354,NadirZenith,520,0,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/5464337?v=3&s=64
-42.2940141,-5.5198607,,Point,355,marcelkalveram,520,23,PHP,Valencia,https://avatars0.githubusercontent.com/u/461160?v=3&s=64
-37.0025184,-3.9883887,,Point,356,bott17,519,1,Java,"Granada, España",https://avatars1.githubusercontent.com/u/6839099?v=3&s=64
-37.0025184,-3.9883887,,Point,357,juanAFernandez,519,0,Shell,Granada,https://avatars1.githubusercontent.com/u/5589299?v=3&s=64
+39.4702393,-0.3768049,,Point,355,marcelkalveram,520,23,PHP,Valencia,https://avatars0.githubusercontent.com/u/461160?v=3&s=64
+37.1764874,-3.5979291,,Point,356,bott17,519,1,Java,"Granada, España",https://avatars1.githubusercontent.com/u/6839099?v=3&s=64
+37.1764874,-3.5979291,,Point,357,juanAFernandez,519,0,Shell,Granada,https://avatars1.githubusercontent.com/u/5589299?v=3&s=64
 41.387917,2.1699187,,Point,358,toniginard,516,0,PHP,Barcelona,https://avatars1.githubusercontent.com/u/1027378?v=3&s=64
-41.4433668,-0.8846827,,Point,359,gregoriorobles,515,1,Python,Madrid (Spain),https://avatars2.githubusercontent.com/u/842692?v=3&s=64
+40.4166909,-3.7003454,,Point,359,gregoriorobles,515,1,Python,Madrid (Spain),https://avatars2.githubusercontent.com/u/842692?v=3&s=64
 41.387917,2.1699187,,Point,360,xaviml,514,7,Java,Barcelona,https://avatars1.githubusercontent.com/u/397643?v=3&s=400
-40.4166909,-3.7003454,,Point,361,danielo515,514,14,JavaScript,Madrid Spain,https://avatars2.githubusercontent.com/u/2270425?v=3&s=64
 41.6529434,-4.7283811,,Point,362,ethervoid,513,9,Java,"Valladolid , Madrid, Spain",https://avatars2.githubusercontent.com/u/741240?v=3&s=64
-36.8401638,-2.4679217,,Point,363,germaaan,513,7,CSS,"Granada / Almería (Andalucía), Spain",https://avatars1.githubusercontent.com/u/5518719?v=3&s=64
 41.387917,2.1699187,,Point,364,victorcoder,513,657,Go,Barcelona,https://avatars2.githubusercontent.com/u/47026?v=3&s=64
-41.4433668,-0.8846827,,Point,365,jcollado,511,10,JavaScript,Madrid (Spain),https://avatars3.githubusercontent.com/u/43780?v=3&s=64
-40.4166909,-3.7003454,,Point,366,saleiva,511,98,JavaScript,Madrid and NYC,https://avatars0.githubusercontent.com/u/132149?v=3&s=64
+40.4166909,-3.7003454,,Point,365,jcollado,511,10,JavaScript,Madrid (Spain),https://avatars3.githubusercontent.com/u/43780?v=3&s=64
 36.5296879,-6.2926569,,Point,367,JoseTomasTocino,510,30,JavaScript,"Cádiz, Spain",https://avatars3.githubusercontent.com/u/648833?v=3&s=64
 41.387917,2.1699187,,Point,368,nacx,509,20,Java,Barcelona,https://avatars2.githubusercontent.com/u/446705?v=3&s=64
 41.387917,2.1699187,,Point,369,edugrasa,509,1,Shell,Barcelona,https://avatars2.githubusercontent.com/u/325005?v=3&s=64
-37.8833504,-1.140374,,Point,370,kusor,508,71,JavaScript,Murcia (Spain),https://avatars1.githubusercontent.com/u/13474?v=3&s=64
+38.1398141,-1.366216,,Point,370,kusor,508,71,JavaScript,Murcia (Spain),https://avatars1.githubusercontent.com/u/13474?v=3&s=64
 41.7251751,1.8233527,,Point,371,bloodbare,508,7,JavaScript,"Manresa, Catalunya",https://avatars2.githubusercontent.com/u/486913?v=3&s=64
-37.0025184,-3.9883887,,Point,372,julian-garrido,506,1,Java,Granada (Spain),https://avatars2.githubusercontent.com/u/1721093?v=3&s=64
-41.4433668,-0.8846827,,Point,373,gonzaloruizdevilla,504,121,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/9501?v=3&s=64
-41.4433668,-0.8846827,,Point,374,crodrigoturner,504,0,CSS,Madrid (Spain),https://avatars2.githubusercontent.com/u/3899739?v=3&s=64
+37.1764874,-3.5979291,,Point,372,julian-garrido,506,1,Java,Granada (Spain),https://avatars2.githubusercontent.com/u/1721093?v=3&s=64
+40.4166909,-3.7003454,,Point,373,gonzaloruizdevilla,504,121,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/9501?v=3&s=64
+40.4166909,-3.7003454,,Point,374,crodrigoturner,504,0,CSS,Madrid (Spain),https://avatars2.githubusercontent.com/u/3899739?v=3&s=64
 41.6529434,-4.7283811,,Point,375,ggdiez,503,0,,Valladolid,https://avatars1.githubusercontent.com/u/2051473?v=3&s=64
-37.675267,-1.6975995,,Point,376,carmichaelalonso,503,1,C#,"Mallorca, Spain",https://avatars0.githubusercontent.com/u/4891252?v=3&s=64
-43.3581578,-5.5059771,,Point,377,jgoizueta,502,78,Ruby,Tudela (Navarra) - SPAIN,https://avatars3.githubusercontent.com/u/5909?v=3&s=64
 43.3602994,-5.844781,,Point,378,sergioalvz,501,0,JavaScript,"Oviedo, Spain",https://avatars2.githubusercontent.com/u/3042654?v=3&s=64
-40.2969929,-1.4067647,,Point,379,rauldiazpoblete,501,1,,"Cuenca, España",https://avatars1.githubusercontent.com/u/1359792?v=3&s=64
+40.0718353,-2.1340053,,Point,379,rauldiazpoblete,501,1,,"Cuenca, España",https://avatars1.githubusercontent.com/u/1359792?v=3&s=64
 41.387917,2.1699187,,Point,380,duarten,500,17,Shell,Barcelona,https://avatars2.githubusercontent.com/u/501746?v=3&s=64
 41.387917,2.1699187,,Point,381,xavier-fernandez,499,1,Java,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/10242025?v=3&s=64
-41.4433668,-0.8846827,,Point,382,salva,499,160,Perl,"Madrid, Spain",https://avatars2.githubusercontent.com/u/84854?v=3&s=64
-37.0025184,-3.9883887,,Point,383,ernestoalejo,499,74,JavaScript,"Granada, Spain",https://avatars3.githubusercontent.com/u/961966?v=3&s=64
-41.4433668,-0.8846827,,Point,384,borja,497,12,JavaScript,Madrid (Spain),https://avatars1.githubusercontent.com/u/1651318?v=3&s=64
-37.0025184,-3.9883887,,Point,385,victordiaz,495,30,Java,Granada (Spain),https://avatars2.githubusercontent.com/u/422387?v=3&s=64
-37.0025184,-3.9883887,,Point,386,angeljcc,494,0,JavaScript,Granada (Spain),https://avatars2.githubusercontent.com/u/6865938?v=3&s=64
-41.4433668,-0.8846827,,Point,387,abdonrd,494,8,HTML,"Madrid, Madrid, Spain",https://avatars0.githubusercontent.com/u/1007051?v=3&s=64
-37.0025184,-3.9883887,,Point,388,algui91,494,15,Shell,"Granada, España",https://avatars2.githubusercontent.com/u/394797?v=3&s=64
+40.4166909,-3.7003454,,Point,382,salva,499,160,Perl,"Madrid, Spain",https://avatars2.githubusercontent.com/u/84854?v=3&s=64
+37.1764874,-3.5979291,,Point,383,ernestoalejo,499,74,JavaScript,"Granada, Spain",https://avatars3.githubusercontent.com/u/961966?v=3&s=64
+40.4166909,-3.7003454,,Point,384,borja,497,12,JavaScript,Madrid (Spain),https://avatars1.githubusercontent.com/u/1651318?v=3&s=64
+37.1764874,-3.5979291,,Point,385,victordiaz,495,30,Java,Granada (Spain),https://avatars2.githubusercontent.com/u/422387?v=3&s=64
+37.1764874,-3.5979291,,Point,386,angeljcc,494,0,JavaScript,Granada (Spain),https://avatars2.githubusercontent.com/u/6865938?v=3&s=64
+40.4166909,-3.7003454,,Point,387,abdonrd,494,8,HTML,"Madrid, Madrid, Spain",https://avatars0.githubusercontent.com/u/1007051?v=3&s=64
+37.1764874,-3.5979291,,Point,388,algui91,494,15,Shell,"Granada, España",https://avatars2.githubusercontent.com/u/394797?v=3&s=64
 41.387917,2.1699187,,Point,390,kaitokidi,493,9,C++,Barcelona,https://avatars0.githubusercontent.com/u/3856775?v=3&s=64
-39.5760721,-4.9624159,,Point,391,pitbulk,493,35,PHP,Seville,https://avatars1.githubusercontent.com/u/600897?v=3&s=64
 43.4609602,-3.8079336,,Point,392,piedraj,492,2,C++,Santander,https://avatars0.githubusercontent.com/u/2972752?v=3&s=64
-42.2940141,-5.5198607,,Point,393,jomargo,492,0,Ruby,Valencia,https://avatars1.githubusercontent.com/u/5122409?v=3&s=64
+39.4702393,-0.3768049,,Point,393,jomargo,492,0,Ruby,Valencia,https://avatars1.githubusercontent.com/u/5122409?v=3&s=64
 41.387917,2.1699187,,Point,395,PauCodina,490,0,CSS,Barcelona,https://avatars2.githubusercontent.com/u/85646?v=3&s=400
-42.2940141,-5.5198607,,Point,397,fsquillace,489,292,Shell,"Valencia, Spain",https://avatars3.githubusercontent.com/u/1221843?v=3&s=64
+39.4702393,-0.3768049,,Point,397,fsquillace,489,292,Shell,"Valencia, Spain",https://avatars3.githubusercontent.com/u/1221843?v=3&s=64
 41.387917,2.1699187,,Point,398,SMV818VMS,489,2,Python,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/9431967?v=3&s=64
-37.7616494,-3.7646191,,Point,402,Moliholy,486,4,Java,"Jaén, Spain",https://avatars2.githubusercontent.com/u/2722756?v=3&s=64
+37.7657389,-3.7895177,,Point,402,Moliholy,486,4,Java,"Jaén, Spain",https://avatars2.githubusercontent.com/u/2722756?v=3&s=64
 42.2313564,-8.7124471,,Point,403,fpuga,485,4,Python,Vigo. Spain,https://avatars0.githubusercontent.com/u/932124?v=3&s=64
 41.387917,2.1699187,,Point,405,jbatalle,484,0,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/3229230?v=3&s=64
-41.4433668,-0.8846827,,Point,406,lekum,482,8,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2630720?v=3&s=64
-43.3208116,-1.9844474,,Point,407,ragerri,482,2,Java,Donostia-San Sebastian,https://avatars3.githubusercontent.com/u/419327?v=3&s=64
+40.4166909,-3.7003454,,Point,406,lekum,482,8,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2630720?v=3&s=64
 41.387917,2.1699187,,Point,408,albarralnunez,481,1,Python,Barcelona,https://avatars1.githubusercontent.com/u/3451448?v=3&s=64
-37.4850307,-2.2950183,,Point,409,Achifaifa,480,8,Python,"Vitoria, Spain",https://avatars1.githubusercontent.com/u/5968349?v=3&s=64
 37.8847267,-4.7791517,,Point,410,bladecoder,480,40,Shell,"Córdoba, Spain",https://avatars2.githubusercontent.com/u/6229260?v=3&s=64
-41.4433668,-0.8846827,,Point,411,Juanlu001,479,13,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/316517?v=3&s=64
-41.4433668,-0.8846827,,Point,412,danirod,478,34,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1568690?v=3&s=64
+40.4166909,-3.7003454,,Point,411,Juanlu001,479,13,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/316517?v=3&s=64
+40.4166909,-3.7003454,,Point,412,danirod,478,34,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1568690?v=3&s=64
 41.387917,2.1699187,,Point,413,iariasleon,477,0,Python and Cucumber,Barcelona,https://avatars3.githubusercontent.com/u/4330098?v=3&s=64
 43.2569629,-2.9234409,,Point,414,edlectrico,476,6,Java,Bilbao (Spain),https://avatars1.githubusercontent.com/u/2284121?v=3&s=64
 41.387917,2.1699187,,Point,415,lbergesio,475,1,C,Barcelona,https://avatars3.githubusercontent.com/u/1797884?v=3&s=64
-37.0025184,-3.9883887,,Point,417,renatolrr,473,9,CSS,Granada,https://avatars1.githubusercontent.com/u/4101274?v=3&s=64
+37.1764874,-3.5979291,,Point,417,renatolrr,473,9,CSS,Granada,https://avatars1.githubusercontent.com/u/4101274?v=3&s=64
 38.9860963,-3.9272629,,Point,418,magmax,471,91,Python,Ciudad Real,https://avatars0.githubusercontent.com/u/584026?v=3&s=64
-41.4433668,-0.8846827,,Point,419,Joimer,471,16,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/3244216?v=3&s=64
-41.4433668,-0.8846827,,Point,420,decabeza,470,1,Ruby,Madrid,https://avatars2.githubusercontent.com/u/631897?v=3&s=64
-41.4433668,-0.8846827,,Point,423,furilo,470,0,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/24740?v=3&s=64
+40.4166909,-3.7003454,,Point,419,Joimer,471,16,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/3244216?v=3&s=64
+40.4166909,-3.7003454,,Point,420,decabeza,470,1,Ruby,Madrid,https://avatars2.githubusercontent.com/u/631897?v=3&s=64
+40.4166909,-3.7003454,,Point,423,furilo,470,0,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/24740?v=3&s=64
 41.387917,2.1699187,,Point,424,tamarart,470,0,HTML,Barcelona,https://avatars1.githubusercontent.com/u/10895578?v=3&s=64
-41.4433668,-0.8846827,,Point,425,skotperez,468,7,PHP,"Pirineos , Madrid",https://avatars1.githubusercontent.com/u/1873089?v=3&s=64
+40.4166909,-3.7003454,,Point,425,skotperez,468,7,PHP,"Pirineos , Madrid",https://avatars1.githubusercontent.com/u/1873089?v=3&s=64
 41.387917,2.1699187,,Point,426,jondeandres,468,16,Ruby,Barcelona,https://avatars2.githubusercontent.com/u/122581?v=3&s=64
-41.4433668,-0.8846827,,Point,427,jeslopalo,467,0,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/824904?v=3&s=64
-41.4433668,-0.8846827,,Point,428,irenesanznieto,467,4,C++,Madrid,https://avatars1.githubusercontent.com/u/3091487?v=3&s=64
-38.34521,-0.4809945,,Point,429,SametSisartenep,466,10,JavaScript,"Alicante, Spain",https://avatars1.githubusercontent.com/u/6894991?v=3&s=64
+40.4166909,-3.7003454,,Point,427,jeslopalo,467,0,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/824904?v=3&s=64
+40.4166909,-3.7003454,,Point,428,irenesanznieto,467,4,C++,Madrid,https://avatars1.githubusercontent.com/u/3091487?v=3&s=64
 41.6562873,-0.8765379,,Point,431,sixstone-qq,465,0,Python,Zaragoza,https://avatars0.githubusercontent.com/u/440508?v=3&s=64
 36.7196484,-4.4200163,,Point,433,LuisJoseSanchez,464,9,CSS,Málaga (Spain),https://avatars0.githubusercontent.com/u/840797?v=3&s=64
-41.4433668,-0.8846827,,Point,434,lucasponce,462,13,Java,Madrid,https://avatars3.githubusercontent.com/u/1662329?v=3&s=64
+40.4166909,-3.7003454,,Point,434,lucasponce,462,13,Java,Madrid,https://avatars3.githubusercontent.com/u/1662329?v=3&s=64
 41.387917,2.1699187,,Point,435,CKGrafico,462,161,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/2048511?v=3&s=64
 41.6562873,-0.8765379,,Point,436,jacalvo,461,1,Shell,"Zaragoza, Spain",https://avatars2.githubusercontent.com/u/491695?v=3&s=64
-41.4433668,-0.8846827,,Point,437,alcortesm,461,2,Shell,"Madrid, Spain",https://avatars2.githubusercontent.com/u/9169414?v=3&s=64
-42.2940141,-5.5198607,,Point,438,aacuevas,459,0,C,"Valencia, Spain",https://avatars1.githubusercontent.com/u/1830303?v=3&s=64
-41.4433668,-0.8846827,,Point,440,mcjimenez,455,0,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/2324031?v=3&s=64
-42.2940141,-5.5198607,,Point,441,alrocar,455,38,JavaScript,"Valencia, Spain",https://avatars1.githubusercontent.com/u/623650?v=3&s=64
-41.4433668,-0.8846827,,Point,442,csierra,455,3,Java,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1736804?v=3&s=64
-41.4433668,-0.8846827,,Point,443,yebenes,454,1,Ruby,Madrid,https://avatars2.githubusercontent.com/u/1112888?v=3&s=64
-37.0025184,-3.9883887,,Point,445,pbaeyens,453,3,Haskell,"Granada, Spain",https://avatars3.githubusercontent.com/u/5502710?v=3&s=64
-41.4433668,-0.8846827,,Point,446,pebs74,453,0,,"Madrid, Spain",https://avatars1.githubusercontent.com/u/4729738?v=3&s=64
-41.4433668,-0.8846827,,Point,447,slok,453,186,Python,Madrid,https://avatars1.githubusercontent.com/u/128204?v=3&s=64
-37.0025184,-3.9883887,,Point,448,vterron,452,72,Python,"Granada, Spain",https://avatars2.githubusercontent.com/u/1575425?v=3&s=64
-41.4433668,-0.8846827,,Point,450,ferreiro,450,19,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/7242959?v=3&s=64
+40.4166909,-3.7003454,,Point,437,alcortesm,461,2,Shell,"Madrid, Spain",https://avatars2.githubusercontent.com/u/9169414?v=3&s=64
+39.4702393,-0.3768049,,Point,438,aacuevas,459,0,C,"Valencia, Spain",https://avatars1.githubusercontent.com/u/1830303?v=3&s=64
+40.4166909,-3.7003454,,Point,440,mcjimenez,455,0,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/2324031?v=3&s=64
+39.4702393,-0.3768049,,Point,441,alrocar,455,38,JavaScript,"Valencia, Spain",https://avatars1.githubusercontent.com/u/623650?v=3&s=64
+40.4166909,-3.7003454,,Point,442,csierra,455,3,Java,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1736804?v=3&s=64
+40.4166909,-3.7003454,,Point,443,yebenes,454,1,Ruby,Madrid,https://avatars2.githubusercontent.com/u/1112888?v=3&s=64
+37.1764874,-3.5979291,,Point,445,pbaeyens,453,3,Haskell,"Granada, Spain",https://avatars3.githubusercontent.com/u/5502710?v=3&s=64
+40.4166909,-3.7003454,,Point,446,pebs74,453,0,,"Madrid, Spain",https://avatars1.githubusercontent.com/u/4729738?v=3&s=64
+40.4166909,-3.7003454,,Point,447,slok,453,186,Python,Madrid,https://avatars1.githubusercontent.com/u/128204?v=3&s=64
+37.1764874,-3.5979291,,Point,448,vterron,452,72,Python,"Granada, Spain",https://avatars2.githubusercontent.com/u/1575425?v=3&s=64
+40.4166909,-3.7003454,,Point,450,ferreiro,450,19,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/7242959?v=3&s=64
 41.387917,2.1699187,,Point,451,slluis,450,40,C#,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/260349?v=3&s=64
-37.3892038,-5.9081615,,Point,452,Virako,449,10,Python,Sevilla,https://avatars0.githubusercontent.com/u/815686?v=3&s=64
-41.4433668,-0.8846827,,Point,453,SuperJMN,448,48,C#,"Madrid, Spain",https://avatars3.githubusercontent.com/u/3109851?v=3&s=64
-38.34521,-0.4809945,,Point,454,wigsyboy,447,0,Java,"Alicante, Spain",https://avatars2.githubusercontent.com/u/5941574?v=3&s=64
-42.3146032,3.1143682,,Point,455,caiomsouza,445,1,Python,Madrid / São Paulo,https://avatars2.githubusercontent.com/u/494303?v=3&s=64
+37.38264,-5.9962951,,Point,452,Virako,449,10,Python,Sevilla,https://avatars0.githubusercontent.com/u/815686?v=3&s=64
+40.4166909,-3.7003454,,Point,453,SuperJMN,448,48,C#,"Madrid, Spain",https://avatars3.githubusercontent.com/u/3109851?v=3&s=64
 41.6529434,-4.7283811,,Point,456,enrmarc,444,57,JavaScript,"Valladolid, Spain",https://avatars1.githubusercontent.com/u/408183?v=3&s=64
 41.6562873,-0.8765379,,Point,457,jkerihuel,442,2,Shell,Zaragoza,https://avatars0.githubusercontent.com/u/3603061?v=3&s=64
-41.4433668,-0.8846827,,Point,458,numeroteca,442,51,CSS,madrid-boston,https://avatars3.githubusercontent.com/u/1223722?v=3&s=64
-41.4433668,-0.8846827,,Point,459,albertinisg,441,0,Python,Madrid,https://avatars2.githubusercontent.com/u/8257425?v=3&s=64
+40.4166909,-3.7003454,,Point,458,numeroteca,442,51,CSS,madrid-boston,https://avatars3.githubusercontent.com/u/1223722?v=3&s=64
+40.4166909,-3.7003454,,Point,459,albertinisg,441,0,Python,Madrid,https://avatars2.githubusercontent.com/u/8257425?v=3&s=64
 41.387917,2.1699187,,Point,460,carlbutron,440,66,Objective-C,Barcelona,https://avatars2.githubusercontent.com/u/8502419?v=3&s=64
-28.46981,-16.2548558,,Point,463,axelhzf,437,58,JavaScript,"Tenerife, Spain",https://avatars1.githubusercontent.com/u/175627?v=3&s=64
-37.0025184,-3.9883887,,Point,464,fblupi,437,1,JavaScript,Granada (Spain),https://avatars1.githubusercontent.com/u/6973564?v=3&s=64
-41.4433668,-0.8846827,,Point,465,dburgos,436,7,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1589874?v=3&s=64
-37.0025184,-3.9883887,,Point,466,fergunet,435,12,Shell,Granada,https://avatars2.githubusercontent.com/u/3056690?v=3&s=64
-41.4433668,-0.8846827,,Point,467,islomar,435,3,Java,Madrid,https://avatars2.githubusercontent.com/u/966013?v=3&s=64
-37.0025184,-3.9883887,,Point,468,franexposito,435,1,CSS,"Granada, Spain",https://avatars1.githubusercontent.com/u/8874922?v=3&s=64
+37.1764874,-3.5979291,,Point,464,fblupi,437,1,JavaScript,Granada (Spain),https://avatars1.githubusercontent.com/u/6973564?v=3&s=64
+40.4166909,-3.7003454,,Point,465,dburgos,436,7,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1589874?v=3&s=64
+37.1764874,-3.5979291,,Point,466,fergunet,435,12,Shell,Granada,https://avatars2.githubusercontent.com/u/3056690?v=3&s=64
+40.4166909,-3.7003454,,Point,467,islomar,435,3,Java,Madrid,https://avatars2.githubusercontent.com/u/966013?v=3&s=64
+37.1764874,-3.5979291,,Point,468,franexposito,435,1,CSS,"Granada, Spain",https://avatars1.githubusercontent.com/u/8874922?v=3&s=64
 42.3400086,-7.8646408,,Point,469,Reimashi,435,0,C#,"Ourense, Spain",https://avatars0.githubusercontent.com/u/5956659?v=3&s=64
-42.2940141,-5.5198607,,Point,470,d2bit,435,0,Ruby,Valencia,https://avatars2.githubusercontent.com/u/4805832?v=3&s=64
+39.4702393,-0.3768049,,Point,470,d2bit,435,0,Ruby,Valencia,https://avatars2.githubusercontent.com/u/4805832?v=3&s=64
 41.387917,2.1699187,,Point,471,ivmartel,434,194,JavaScript,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/398905?v=3&s=64
 41.6562873,-0.8765379,,Point,474,francho,433,45,JavaScript,Zaragoza,https://avatars3.githubusercontent.com/u/585421?v=3&s=64
 37.2571526,-6.9495221,,Point,475,Neniah,432,0,CSS,"Huelva, Spain",https://avatars0.githubusercontent.com/u/1144759?v=3&s=64
 41.387917,2.1699187,,Point,476,jmeler,430,0,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/5380649?v=3&s=64
 43.1866423,-2.5026072,,Point,477,txuki2005,429,4,Makefile,Ermua-Vasque Country-Spain,https://avatars2.githubusercontent.com/u/12988083?v=3&s=64
 41.387917,2.1699187,,Point,478,jordimas,428,0,Python,Barcelona,https://avatars1.githubusercontent.com/u/309265?v=3&s=64
-40.4166909,-3.7003454,,Point,479,cblanco,428,0,,UPM madrid,https://avatars2.githubusercontent.com/u/3510628?v=3&s=64
 41.387917,2.1699187,,Point,480,cokoso,427,0,,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/6398326?v=3&s=64
-41.4433668,-0.8846827,,Point,481,JesusMtnez,427,1,Emacs Lisp,Madrid,https://avatars3.githubusercontent.com/u/8639179?v=3&s=64
-37.3892038,-5.9081615,,Point,482,fedefernandez,426,71,Java,"Sevilla, Spain",https://avatars0.githubusercontent.com/u/720923?v=3&s=64
-37.8833504,-1.140374,,Point,483,mmanzano,425,3,JavaScript,"Murcia, España",https://avatars3.githubusercontent.com/u/1055699?v=3&s=64
-37.1764874,-3.5979291,,Point,484,pacastillo,425,4,Java,"Granada (Andalucía, Spain)",https://avatars3.githubusercontent.com/u/2456?v=3&s=64
+40.4166909,-3.7003454,,Point,481,JesusMtnez,427,1,Emacs Lisp,Madrid,https://avatars3.githubusercontent.com/u/8639179?v=3&s=64
+37.38264,-5.9962951,,Point,482,fedefernandez,426,71,Java,"Sevilla, Spain",https://avatars0.githubusercontent.com/u/720923?v=3&s=64
+38.1398141,-1.366216,,Point,483,mmanzano,425,3,JavaScript,"Murcia, España",https://avatars3.githubusercontent.com/u/1055699?v=3&s=64
 41.387917,2.1699187,,Point,485,opsb,424,170,Ruby,Barcelona,https://avatars2.githubusercontent.com/u/46232?v=3&s=64
-42.2940141,-5.5198607,,Point,486,pilarargudo,423,0,CSS,Valencia,https://avatars0.githubusercontent.com/u/4609931?v=3&s=64
+39.4702393,-0.3768049,,Point,486,pilarargudo,423,0,CSS,Valencia,https://avatars0.githubusercontent.com/u/4609931?v=3&s=64
 41.387917,2.1699187,,Point,487,fransua,422,9,Python,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/106498?v=3&s=64
 41.387917,2.1699187,,Point,488,oscar-raig,421,3,Java,"Barcelona, Catalonia",https://avatars3.githubusercontent.com/u/537656?v=3&s=64
 41.6529434,-4.7283811,,Point,489,chemaper,421,0,Python,"Valladolid, Spain.",https://avatars0.githubusercontent.com/u/8962900?v=3&s=64
-41.4433668,-0.8846827,,Point,490,elgambitero,420,1,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2140459?v=3&s=64
+40.4166909,-3.7003454,,Point,490,elgambitero,420,1,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2140459?v=3&s=64
 37.8847267,-4.7791517,,Point,491,brianstorti,419,129,Ruby,"Córdoba, Spain",https://avatars0.githubusercontent.com/u/183363?v=3&s=64
-37.0025184,-3.9883887,,Point,492,Makova,418,7,Shell,"Granada, Spain",https://avatars3.githubusercontent.com/u/3070918?v=3&s=64
-41.4433668,-0.8846827,,Point,494,DeicPro,417,0,Shell,"Madrid, Spain",https://avatars0.githubusercontent.com/u/12710770?v=3&s=64
-41.387917,2.1699187,,Point,495,griba2001,416,1,Haskell,Tiana (near Barcelona) Catalonia - Spain,https://avatars0.githubusercontent.com/u/3755863?v=3&s=64
-41.4433668,-0.8846827,,Point,496,JorgeCastilloPrz,415,1937,Java,Madrid,https://avatars1.githubusercontent.com/u/6547526?v=3&s=64
+37.1764874,-3.5979291,,Point,492,Makova,418,7,Shell,"Granada, Spain",https://avatars3.githubusercontent.com/u/3070918?v=3&s=64
+40.4166909,-3.7003454,,Point,494,DeicPro,417,0,Shell,"Madrid, Spain",https://avatars0.githubusercontent.com/u/12710770?v=3&s=64
+40.4166909,-3.7003454,,Point,496,JorgeCastilloPrz,415,1937,Java,Madrid,https://avatars1.githubusercontent.com/u/6547526?v=3&s=64
 41.387917,2.1699187,,Point,497,elboletaire,415,114,PHP,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/153305?v=3&s=64
-41.4433668,-0.8846827,,Point,498,magutierrez,414,0,Ruby,Madrid,https://avatars0.githubusercontent.com/u/4963216?v=3&s=64
+40.4166909,-3.7003454,,Point,498,magutierrez,414,0,Ruby,Madrid,https://avatars0.githubusercontent.com/u/4963216?v=3&s=64
 42.1180915,-8.8495794,,Point,499,carlosgoce,413,2,Ruby,"Baiona, Pontevedra, Spain",https://avatars1.githubusercontent.com/u/2385242?v=3&s=64
 41.6381571,2.3544922,,Point,501,mbiarnes,410,0,Java,Cardedeu - Barcelona,https://avatars0.githubusercontent.com/u/3669059?v=3&s=64
-37.7616494,-3.7646191,,Point,502,vrivas,409,3,JavaScript,"Jaen, Jaén, Granada, Spain",https://avatars0.githubusercontent.com/u/3046042?v=3&s=64
-42.2940141,-5.5198607,,Point,505,vicboma1,406,10,Java,Spain - Valencia,https://avatars3.githubusercontent.com/u/3646388?v=3&s=64
+37.7657389,-3.7895177,,Point,502,vrivas,409,3,JavaScript,"Jaen, Jaén, Granada, Spain",https://avatars0.githubusercontent.com/u/3046042?v=3&s=64
+39.4702393,-0.3768049,,Point,505,vicboma1,406,10,Java,Spain - Valencia,https://avatars3.githubusercontent.com/u/3646388?v=3&s=64
 41.387917,2.1699187,,Point,506,juandp77,405,0,TeX and Shell,Barcelona,https://avatars1.githubusercontent.com/u/1690401?v=3&s=64
 41.387917,2.1699187,,Point,507,agustincl,403,23,PHP,Barcelona,https://avatars0.githubusercontent.com/u/1106813?v=3&s=64
 41.387917,2.1699187,,Point,508,gtrias,403,3,PHP,Barcelona,https://avatars0.githubusercontent.com/u/4225298?v=3&s=64
@@ -427,405 +373,367 @@ latitude,longitude,altitude,geometry,position,username,commits,stars,languages,c
 41.387917,2.1699187,,Point,510,adrianolatorre,402,1,CSS,Barcelona,https://avatars1.githubusercontent.com/u/759356?v=3&s=64
 41.6562873,-0.8765379,,Point,511,koke,402,118,Ruby,"Zaragoza, Spain",https://avatars0.githubusercontent.com/u/8739?v=3&s=64
 41.5375002,2.4452776,,Point,512,aviscasillas,402,2,Ruby,"Mataró, Catalonia, Spain",https://avatars2.githubusercontent.com/u/1871959?v=3&s=64
-37.7616494,-3.7646191,,Point,513,JCristobal,402,6,CSS,"Jaén, Granada",https://avatars0.githubusercontent.com/u/8878426?v=3&s=64
-37.0025184,-3.9883887,,Point,514,antorof,401,5,Java,"Granada, Spain",https://avatars0.githubusercontent.com/u/5708747?v=3&s=64
+37.7657389,-3.7895177,,Point,513,JCristobal,402,6,CSS,"Jaén, Granada",https://avatars0.githubusercontent.com/u/8878426?v=3&s=64
+37.1764874,-3.5979291,,Point,514,antorof,401,5,Java,"Granada, Spain",https://avatars0.githubusercontent.com/u/5708747?v=3&s=64
 41.8317965,1.750768,,Point,515,hcosta,400,7,JavaScript,"Súria, Barcelona",https://avatars1.githubusercontent.com/u/748822?v=3&s=64
 43.3260969,-2.9877041,,Point,516,juanmanuelsanchez,400,0,JavaScript,"Leioa, Vizcaya",https://avatars2.githubusercontent.com/u/8442821?v=3&s=64
-41.4433668,-0.8846827,,Point,517,baraalex,399,0,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6618800?v=3&s=64
+40.4166909,-3.7003454,,Point,517,baraalex,399,0,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6618800?v=3&s=64
 41.387917,2.1699187,,Point,518,philipp-germann,399,1,Python,Barcelona,https://avatars1.githubusercontent.com/u/8821566?v=3&s=64
-41.4433668,-0.8846827,,Point,519,nmn,399,527,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/3582514?v=3&s=64
+40.4166909,-3.7003454,,Point,519,nmn,399,527,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/3582514?v=3&s=64
 41.387917,2.1699187,,Point,520,spiddy,399,6,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/367397?v=3&s=64
-41.4433668,-0.8846827,,Point,521,jmelis,398,30,Ruby,Madrid,https://avatars2.githubusercontent.com/u/126666?v=3&s=64
+40.4166909,-3.7003454,,Point,521,jmelis,398,30,Ruby,Madrid,https://avatars2.githubusercontent.com/u/126666?v=3&s=64
 41.387917,2.1699187,,Point,522,ercrema,398,0,R,Barcelona,https://avatars0.githubusercontent.com/u/2821047?v=3&s=64
-36.7196484,-4.4200163,,Point,523,ban007,397,0,PHP,Málaga/España,https://avatars2.githubusercontent.com/u/3278508?v=3&s=64
-41.6562873,-0.8765379,,Point,524,nestorsalceda,397,112,Ruby,Zaragoza / Madrid,https://avatars2.githubusercontent.com/u/310141?v=3&s=64
-40.4166909,-3.7003454,,Point,525,cristianprofile,397,3,Java,Madrid/ Spain,https://avatars3.githubusercontent.com/u/7360956?v=3&s=64
-41.4433668,-0.8846827,,Point,529,Darkhogg,395,13,Java,"Madrid, Spain",https://avatars1.githubusercontent.com/u/237337?v=3&s=64
-41.4433668,-0.8846827,,Point,530,albertobaezap,394,0,Java,Madrid,https://avatars1.githubusercontent.com/u/6639333?v=3&s=64
-41.4433668,-0.8846827,,Point,531,alexdeleon,394,14,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/648720?v=3&s=64
+40.4166909,-3.7003454,,Point,529,Darkhogg,395,13,Java,"Madrid, Spain",https://avatars1.githubusercontent.com/u/237337?v=3&s=64
+40.4166909,-3.7003454,,Point,530,albertobaezap,394,0,Java,Madrid,https://avatars1.githubusercontent.com/u/6639333?v=3&s=64
+40.4166909,-3.7003454,,Point,531,alexdeleon,394,14,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/648720?v=3&s=64
 36.7196484,-4.4200163,,Point,532,kalta,392,219,Erlang,"Málaga, Spain",https://avatars3.githubusercontent.com/u/1114529?v=3&s=64
-39.754686,-3.8520904,,Point,533,canodelacuadra,392,0,CSS,"Toledo, Spain",https://avatars1.githubusercontent.com/u/5006582?v=3&s=64
-37.0025184,-3.9883887,,Point,534,agarciamontoro,392,16,Shell,"Granada, Andalucía, Spain",https://avatars3.githubusercontent.com/u/3924815?v=3&s=64
-41.4433668,-0.8846827,,Point,535,crbrox,392,4,Go,"Madrid, Spain",https://avatars3.githubusercontent.com/u/1384296?v=3&s=64
-41.4433668,-0.8846827,,Point,536,alvarosanchez,391,139,Groovy,Madrid,https://avatars0.githubusercontent.com/u/153880?v=3&s=64
-41.4433668,-0.8846827,,Point,537,ciscou,391,15,Ruby,Madrid,https://avatars1.githubusercontent.com/u/433346?v=3&s=64
-42.2940141,-5.5198607,,Point,538,m1ndgap,391,0,Ruby,"Valencia, Spain",https://avatars0.githubusercontent.com/u/5792220?v=3&s=64
-41.4433668,-0.8846827,,Point,539,mariogarcia,390,44,Groovy,Madrid,https://avatars1.githubusercontent.com/u/1414131?v=3&s=64
-37.675267,-1.6975995,,Point,540,tonydspaniard,390,288,PHP,"Mallorca, Spain",https://avatars0.githubusercontent.com/u/566016?v=3&s=64
+39.8567775,-4.0244759,,Point,533,canodelacuadra,392,0,CSS,"Toledo, Spain",https://avatars1.githubusercontent.com/u/5006582?v=3&s=64
+37.1764874,-3.5979291,,Point,534,agarciamontoro,392,16,Shell,"Granada, Andalucía, Spain",https://avatars3.githubusercontent.com/u/3924815?v=3&s=64
+40.4166909,-3.7003454,,Point,535,crbrox,392,4,Go,"Madrid, Spain",https://avatars3.githubusercontent.com/u/1384296?v=3&s=64
+40.4166909,-3.7003454,,Point,536,alvarosanchez,391,139,Groovy,Madrid,https://avatars0.githubusercontent.com/u/153880?v=3&s=64
+40.4166909,-3.7003454,,Point,537,ciscou,391,15,Ruby,Madrid,https://avatars1.githubusercontent.com/u/433346?v=3&s=64
+39.4702393,-0.3768049,,Point,538,m1ndgap,391,0,Ruby,"Valencia, Spain",https://avatars0.githubusercontent.com/u/5792220?v=3&s=64
+40.4166909,-3.7003454,,Point,539,mariogarcia,390,44,Groovy,Madrid,https://avatars1.githubusercontent.com/u/1414131?v=3&s=64
 38.9860963,-3.9272629,,Point,542,j2sg,390,5,C,"Ciudad Real, Spain",https://avatars0.githubusercontent.com/u/677220?v=3&s=64
 41.387917,2.1699187,,Point,543,poliva,390,507,C,Barcelona,https://avatars2.githubusercontent.com/u/1238981?v=3&s=64
 41.387917,2.1699187,,Point,544,oscarfonts,390,17,Python,Barcelona,https://avatars2.githubusercontent.com/u/485651?v=3&s=64
 41.387917,2.1699187,,Point,545,pauek,389,73,C++,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/4069?v=3&s=64
-41.4433668,-0.8846827,,Point,546,dciccale,389,1165,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/539546?v=3&s=64
+40.4166909,-3.7003454,,Point,546,dciccale,389,1165,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/539546?v=3&s=64
 36.5296879,-6.2926569,,Point,548,rafaparadela,387,10,CSS,"Cádiz, Spain",https://avatars2.githubusercontent.com/u/315070?v=3&s=64
 41.6562873,-0.8765379,,Point,549,XayOn,387,69,Python,Zaragoza,https://avatars1.githubusercontent.com/u/107182?v=3&s=64
 42.2313564,-8.7124471,,Point,550,carlosga,385,4,C#,"Vigo, Spain",https://avatars0.githubusercontent.com/u/721669?v=3&s=64
-37.3892038,-5.9081615,,Point,553,trishagee,385,145,Java,"Sevilla, Spain",https://avatars2.githubusercontent.com/u/1479352?v=3&s=64
+37.38264,-5.9962951,,Point,553,trishagee,385,145,Java,"Sevilla, Spain",https://avatars2.githubusercontent.com/u/1479352?v=3&s=64
 41.387917,2.1699187,,Point,554,fxn,385,1132,Ruby,Barcelona,https://avatars3.githubusercontent.com/u/3387?v=3&s=64
 41.387917,2.1699187,,Point,556,dgutierr,384,1,Java,Barcelona,https://avatars2.githubusercontent.com/u/2429839?v=3&s=64
-39.5760721,-4.9624159,,Point,557,fjcarreterox,382,0,PHP,"Seville, Spain",https://avatars1.githubusercontent.com/u/1847146?v=3&s=64
-41.4433668,-0.8846827,,Point,558,jaimegildesagredo,382,289,Python,"Madrid, Spain",https://avatars0.githubusercontent.com/u/825580?v=3&s=64
+40.4166909,-3.7003454,,Point,558,jaimegildesagredo,382,289,Python,"Madrid, Spain",https://avatars0.githubusercontent.com/u/825580?v=3&s=64
 42.2313564,-8.7124471,,Point,559,Pablo-Rodriguez,381,0,JavaScript,"Vigo, Galiza",https://avatars1.githubusercontent.com/u/5941733?v=3&s=64
 41.6529434,-4.7283811,,Point,560,davivel,381,0,Java,"Valladolid, Spain",https://avatars3.githubusercontent.com/u/2225614?v=3&s=64
-41.4433668,-0.8846827,,Point,561,fnl,379,82,Python,Madrid,https://avatars0.githubusercontent.com/u/109501?v=3&s=64
-41.4433668,-0.8846827,,Point,562,juliangut,379,12,PHP,"Madrid , Spain",https://avatars3.githubusercontent.com/u/1104131?v=3&s=64
-39.5760721,-4.9624159,,Point,563,pabarcgar,378,1,Java,"Seville, Spain",https://avatars2.githubusercontent.com/u/2338089?v=3&s=64
-42.2940141,-5.5198607,,Point,564,jsanz,378,9,JavaScript,"Valencia, Spain",https://avatars3.githubusercontent.com/u/188264?v=3&s=64
-41.4433668,-0.8846827,,Point,565,bomberstudios,377,2424,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3832?v=3&s=64
-41.4433668,-0.8846827,,Point,566,dgarijo,377,18,Java,Madrid (Spain),https://avatars1.githubusercontent.com/u/1520666?v=3&s=64
+40.4166909,-3.7003454,,Point,561,fnl,379,82,Python,Madrid,https://avatars0.githubusercontent.com/u/109501?v=3&s=64
+40.4166909,-3.7003454,,Point,562,juliangut,379,12,PHP,"Madrid , Spain",https://avatars3.githubusercontent.com/u/1104131?v=3&s=64
+39.4702393,-0.3768049,,Point,564,jsanz,378,9,JavaScript,"Valencia, Spain",https://avatars3.githubusercontent.com/u/188264?v=3&s=64
+40.4166909,-3.7003454,,Point,565,bomberstudios,377,2424,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3832?v=3&s=64
+40.4166909,-3.7003454,,Point,566,dgarijo,377,18,Java,Madrid (Spain),https://avatars1.githubusercontent.com/u/1520666?v=3&s=64
 41.387917,2.1699187,,Point,568,carlosvillu,376,96,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/179462?v=3&s=64
-42.2940141,-5.5198607,,Point,569,dmontaner,375,4,R,Valencia - Spain,https://avatars3.githubusercontent.com/u/4466092?v=3&s=64
+39.4702393,-0.3768049,,Point,569,dmontaner,375,4,R,Valencia - Spain,https://avatars3.githubusercontent.com/u/4466092?v=3&s=64
 41.387917,2.1699187,,Point,572,martincalsyn,374,4,C# and C++,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/2230497?v=3&s=64
 41.387917,2.1699187,,Point,573,oscarmolinadev,374,8,C++,"Barcelona, Catalonia",https://avatars3.githubusercontent.com/u/6513086?v=3&s=64
-41.4433668,-0.8846827,,Point,574,carlosgs,373,427,Python,"Madrid, Spain",https://avatars3.githubusercontent.com/u/1636266?v=3&s=64
+40.4166909,-3.7003454,,Point,574,carlosgs,373,427,Python,"Madrid, Spain",https://avatars3.githubusercontent.com/u/1636266?v=3&s=64
 41.387917,2.1699187,,Point,575,MarcosSegovia,371,1,PHP,"Barcelona, España",https://avatars2.githubusercontent.com/u/7728566?v=3&s=64
 41.6529434,-4.7283811,,Point,576,crueda,371,0,Python,Valladolid - Zamora (Spain),https://avatars0.githubusercontent.com/u/1956285?v=3&s=64
-37.0025184,-3.9883887,,Point,577,analca3,371,22,Python,"Granada, Andalucía, Spain",https://avatars1.githubusercontent.com/u/3939991?v=3&s=64
+37.1764874,-3.5979291,,Point,577,analca3,371,22,Python,"Granada, Andalucía, Spain",https://avatars1.githubusercontent.com/u/3939991?v=3&s=64
 41.387917,2.1699187,,Point,578,nazcahawk,370,0,HTML,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/12375782?v=3&s=64
 41.387917,2.1699187,,Point,579,ArnauPrat,369,3,C++,Barcelona,https://avatars0.githubusercontent.com/u/5836966?v=3&s=64
-37.0025184,-3.9883887,,Point,580,rafael1193,369,9,Shell,"Granada, Andalucía, Spain",https://avatars1.githubusercontent.com/u/436547?v=3&s=64
-40.6818526,-3.0472188,,Point,581,angelortega,367,46,C,"El Casar, Guadalajara, Spain",https://avatars1.githubusercontent.com/u/910340?v=3&s=64
-41.5532128,0.7055162,,Point,582,Panthro,367,3,Java,"Lleida, Lleida, Spain",https://avatars0.githubusercontent.com/u/1565421?v=3&s=64
-41.4433668,-0.8846827,,Point,583,estelapedrero,367,0,CSS,Madrid,https://avatars2.githubusercontent.com/u/8995196?v=3&s=64
+37.1764874,-3.5979291,,Point,580,rafael1193,369,9,Shell,"Granada, Andalucía, Spain",https://avatars1.githubusercontent.com/u/436547?v=3&s=64
+40.629816,-3.1664931,,Point,581,angelortega,367,46,C,"El Casar, Guadalajara, Spain",https://avatars1.githubusercontent.com/u/910340?v=3&s=64
+41.6141518,0.6257825,,Point,582,Panthro,367,3,Java,"Lleida, Lleida, Spain",https://avatars0.githubusercontent.com/u/1565421?v=3&s=64
+40.4166909,-3.7003454,,Point,583,estelapedrero,367,0,CSS,Madrid,https://avatars2.githubusercontent.com/u/8995196?v=3&s=64
 43.3441667,-3.0063889,,Point,584,MikelS,366,0,JavaScript,Getxo,https://avatars1.githubusercontent.com/u/1764699?v=3&s=64
-41.4433668,-0.8846827,,Point,586,plafl,366,6,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/6486862?v=3&s=64
+40.4166909,-3.7003454,,Point,586,plafl,366,6,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/6486862?v=3&s=64
 41.387917,2.1699187,,Point,588,jbeficent,365,0,Makefile,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/7683926?v=3&s=64
-37.8833504,-1.140374,,Point,589,jjpcaste,364,0,R,Murcia - España (Spain),https://avatars1.githubusercontent.com/u/7204052?v=3&s=64
+38.1398141,-1.366216,,Point,589,jjpcaste,364,0,R,Murcia - España (Spain),https://avatars1.githubusercontent.com/u/7204052?v=3&s=64
 41.387917,2.1699187,,Point,590,palaumarc,364,0,Makefile,Barcelona,https://avatars3.githubusercontent.com/u/6428809?v=3&s=64
-37.3892038,-5.9081615,,Point,591,albertomolina,364,3,Python,"Sevilla, Spain",https://avatars3.githubusercontent.com/u/1426921?v=3&s=64
-41.4433668,-0.8846827,,Point,593,David-Estevez,363,18,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1451819?v=3&s=64
+37.38264,-5.9962951,,Point,591,albertomolina,364,3,Python,"Sevilla, Spain",https://avatars3.githubusercontent.com/u/1426921?v=3&s=64
+40.4166909,-3.7003454,,Point,593,David-Estevez,363,18,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1451819?v=3&s=64
 41.6529434,-4.7283811,,Point,594,masensio,362,0,,Valladolid,https://avatars1.githubusercontent.com/u/3862330?v=3&s=64
 41.6562873,-0.8765379,,Point,595,blaxter,362,54,Ruby,"Zaragoza, Spain",https://avatars1.githubusercontent.com/u/8926?v=3&s=64
-37.8833504,-1.140374,,Point,596,neshmi,362,54,Ruby,"Murcia, Spain",https://avatars0.githubusercontent.com/u/7353?v=3&s=64
+38.1398141,-1.366216,,Point,596,neshmi,362,54,Ruby,"Murcia, Spain",https://avatars0.githubusercontent.com/u/7353?v=3&s=64
 43.2569629,-2.9234409,,Point,597,erichlf,361,1,TeX,"Bilbao, Basque Country -- Spain",https://avatars1.githubusercontent.com/u/1392578?v=3&s=64
 41.387917,2.1699187,,Point,599,rocboronat,361,19,Java,Barcelona,https://avatars2.githubusercontent.com/u/456499?v=3&s=64
-40.223488,-1.9795743,,Point,602,jesusprubio,359,139,JavaScript,A Coruña,https://avatars2.githubusercontent.com/u/2753855?v=3&s=64
 41.6562873,-0.8765379,,Point,603,aaromnido,359,4,CSS,"Zaragoza, Spain",https://avatars2.githubusercontent.com/u/640649?v=3&s=64
 41.387917,2.1699187,,Point,605,markets,358,185,Ruby,Barcelona,https://avatars0.githubusercontent.com/u/576701?v=3&s=64
 41.387917,2.1699187,,Point,606,awesomebytes,355,61,Python,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/1721716?v=3&s=64
-42.2940141,-5.5198607,,Point,608,franciscop,354,236,JavaScript,"Valencia, Spain",https://avatars3.githubusercontent.com/u/2801252?v=3&s=64
-41.4433668,-0.8846827,,Point,609,nando,354,67,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/9823?v=3&s=64
+39.4702393,-0.3768049,,Point,608,franciscop,354,236,JavaScript,"Valencia, Spain",https://avatars3.githubusercontent.com/u/2801252?v=3&s=64
+40.4166909,-3.7003454,,Point,609,nando,354,67,Ruby,"Madrid, Spain",https://avatars0.githubusercontent.com/u/9823?v=3&s=64
 41.6529434,-4.7283811,,Point,611,mariodebian,354,9,Shell,"Valladolid, Spain",https://avatars0.githubusercontent.com/u/522472?v=3&s=64
 36.7196484,-4.4200163,,Point,613,rubenlh91,354,0,,Málaga,https://avatars3.githubusercontent.com/u/1457921?v=3&s=64
-39.1312824,-4.9355971,,Point,615,jsmanrique,352,12,JavaScript,"Fuenlabrada, Spain",https://avatars1.githubusercontent.com/u/1178305?v=3&s=64
-41.4433668,-0.8846827,,Point,616,LuisDiazUgena,352,10,Arduino,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6543254?v=3&s=64
-41.4433668,-0.8846827,,Point,617,jessfr42,351,7,JavaScript,Madrid - Valencia,https://avatars1.githubusercontent.com/u/8514581?v=3&s=64
+40.283873,-3.8003288,,Point,615,jsmanrique,352,12,JavaScript,"Fuenlabrada, Spain",https://avatars1.githubusercontent.com/u/1178305?v=3&s=64
+40.4166909,-3.7003454,,Point,616,LuisDiazUgena,352,10,Arduino,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6543254?v=3&s=64
+40.4166909,-3.7003454,,Point,617,jessfr42,351,7,JavaScript,Madrid - Valencia,https://avatars1.githubusercontent.com/u/8514581?v=3&s=64
 41.387917,2.1699187,,Point,618,zakum42,351,0,Java,Barcelona,https://avatars2.githubusercontent.com/u/1764493?v=3&s=64
-41.4433668,-0.8846827,,Point,619,dreyacosta,350,469,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1833123?v=3&s=64
+40.4166909,-3.7003454,,Point,619,dreyacosta,350,469,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1833123?v=3&s=64
 41.387917,2.1699187,,Point,620,peretuset,349,0,,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/1165547?v=3&s=64
-37.3892038,-5.9081615,,Point,621,Delawen,349,14,JavaScript,Sevilla,https://avatars2.githubusercontent.com/u/726590?v=3&s=64
-41.4433668,-0.8846827,,Point,622,antespi,349,37,Shell,Madrid,https://avatars0.githubusercontent.com/u/1881111?v=3&s=64
+37.38264,-5.9962951,,Point,621,Delawen,349,14,JavaScript,Sevilla,https://avatars2.githubusercontent.com/u/726590?v=3&s=64
+40.4166909,-3.7003454,,Point,622,antespi,349,37,Shell,Madrid,https://avatars0.githubusercontent.com/u/1881111?v=3&s=64
 41.387917,2.1699187,,Point,623,jcanell4,349,0,PHP,Barcelona,https://avatars2.githubusercontent.com/u/3582801?v=3&s=64
-41.4433668,-0.8846827,,Point,624,inaki-ortizdelandaluce,348,0,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/9471654?v=3&s=64
+40.4166909,-3.7003454,,Point,624,inaki-ortizdelandaluce,348,0,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/9471654?v=3&s=64
 41.387917,2.1699187,,Point,625,ffont,348,12,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/478615?v=3&s=64
 41.387917,2.1699187,,Point,626,Towerthousand,348,24,C++,Barcelona,https://avatars1.githubusercontent.com/u/3587309?v=3&s=64
 41.387917,2.1699187,,Point,627,spite,347,1972,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/731885?v=3&s=64
-41.4433668,-0.8846827,,Point,628,cavasanchez,345,5,Java,"Madrid,Spain",https://avatars0.githubusercontent.com/u/6108833?v=3&s=64
-39.5719201,2.6165625,,Point,629,FdezI,345,0,CSS,"Lanzarote, Las Palmas (España)",https://avatars3.githubusercontent.com/u/5569540?v=3&s=64
-37.0025184,-3.9883887,,Point,630,alvaro-gr,345,0,PHP,Granada,https://avatars1.githubusercontent.com/u/11256974?v=3&s=64
-43.3208116,-1.9844474,,Point,631,daviddesancho,345,0,Python,Donostia - San Sebastián,https://avatars1.githubusercontent.com/u/1177446?v=3&s=64
+40.4166909,-3.7003454,,Point,628,cavasanchez,345,5,Java,"Madrid,Spain",https://avatars0.githubusercontent.com/u/6108833?v=3&s=64
+37.1764874,-3.5979291,,Point,630,alvaro-gr,345,0,PHP,Granada,https://avatars1.githubusercontent.com/u/11256974?v=3&s=64
 42.2313564,-8.7124471,,Point,632,michogar,345,9,JavaScript,Vigo,https://avatars3.githubusercontent.com/u/694752?v=3&s=64
 41.387917,2.1699187,,Point,633,TheAnswer,344,12,C,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/557049?v=3&s=64
 41.387917,2.1699187,,Point,634,adriacidre,344,3,PHP,Barcelona,https://avatars0.githubusercontent.com/u/593270?v=3&s=64
 41.387917,2.1699187,,Point,635,miquelsoler,343,2,C++,Barcelona,https://avatars3.githubusercontent.com/u/1842840?v=3&s=64
-42.2940141,-5.5198607,,Point,636,GrenderG,342,0,HTML,"Valencia, Spain",https://avatars2.githubusercontent.com/u/8654362?v=3&s=64
+39.4702393,-0.3768049,,Point,636,GrenderG,342,0,HTML,"Valencia, Spain",https://avatars2.githubusercontent.com/u/8654362?v=3&s=64
 40.3491158,-3.8288109,,Point,637,Mortega5,342,6,HTML,"Alcorcón,Madrid, España",https://avatars0.githubusercontent.com/u/8302870?v=3&s=64
 43.1841801,-2.4732889,,Point,638,Aitorzubizarret,342,0,CSS,"Eibar, Spain",https://avatars0.githubusercontent.com/u/1437157?v=3&s=64
-41.4433668,-0.8846827,,Point,639,aagm,341,0,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/9049441?v=3&s=64
-41.4433668,-0.8846827,,Point,641,joserobleda,339,7,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/1263865?v=3&s=64
+40.4166909,-3.7003454,,Point,639,aagm,341,0,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/9049441?v=3&s=64
+40.4166909,-3.7003454,,Point,641,joserobleda,339,7,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/1263865?v=3&s=64
 42.3400086,-7.8646408,,Point,642,eusonlito,338,157,PHP,"Ourense, Galiza",https://avatars1.githubusercontent.com/u/644551?v=3&s=64
 41.387917,2.1699187,,Point,643,hecrj,338,18,C++,Barcelona,https://avatars2.githubusercontent.com/u/518289?v=3&s=64
-41.4433668,-0.8846827,,Point,644,alvarobrito,337,1,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/6040537?v=3&s=64
-41.4433668,-0.8846827,,Point,645,toqueteos,335,129,Go,"Madrid, Spain",https://avatars0.githubusercontent.com/u/699969?v=3&s=64
+40.4166909,-3.7003454,,Point,644,alvarobrito,337,1,JavaScript,Madrid,https://avatars0.githubusercontent.com/u/6040537?v=3&s=64
+40.4166909,-3.7003454,,Point,645,toqueteos,335,129,Go,"Madrid, Spain",https://avatars0.githubusercontent.com/u/699969?v=3&s=64
 41.387917,2.1699187,,Point,646,shadeslayer,335,48,Shell,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/188976?v=3&s=64
-36.6865618,-6.1371725,,Point,647,mgidney,335,1,Python,Jerez,https://avatars2.githubusercontent.com/u/193646?v=3&s=64
 41.387917,2.1699187,,Point,648,leemachin,335,635,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/736291?v=3&s=64
-37.2492033,-4.5836511,,Point,649,garciparedes,334,21,Java,"Palencia, Spain",https://avatars1.githubusercontent.com/u/5640366?v=3&s=64
-40.223488,-1.9795743,,Point,650,inercia,334,20,Python,"A Coruña, Spain",https://avatars1.githubusercontent.com/u/1841612?v=3&s=64
+42.0124584,-4.5311748,,Point,649,garciparedes,334,21,Java,"Palencia, Spain",https://avatars1.githubusercontent.com/u/5640366?v=3&s=64
 42.8804471,-8.5463034,,Point,651,pablopunk,333,2,CSS,Santiago de Compostela,https://avatars3.githubusercontent.com/u/4324982?v=3&s=64
-42.2792952,-1.7501452,,Point,652,jmvargas,333,0,Objective-C and Java,"Los Palacios y Villafranca, Sevilla",https://avatars2.githubusercontent.com/u/7701660?v=3&s=64
+37.38264,-5.9962951,,Point,652,jmvargas,333,0,Objective-C and Java,"Los Palacios y Villafranca, Sevilla",https://avatars2.githubusercontent.com/u/7701660?v=3&s=64
 41.387917,2.1699187,,Point,653,ggrandes,333,75,Java,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/2364301?v=3&s=64
-41.4433668,-0.8846827,,Point,654,luismesas,333,47,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1609214?v=3&s=64
-39.4702393,-0.3768049,,Point,655,gponsu,331,0,JavaScript,Valencia / Spain,https://avatars0.githubusercontent.com/u/1218494?v=3&s=64
-28.46981,-16.2548558,,Point,656,Al3XKOoL,331,5,Makefile,Tenerife. Canary islands. Spain,https://avatars3.githubusercontent.com/u/6851981?v=3&s=64
-41.4433668,-0.8846827,,Point,657,jogarc10,331,1,C,Madrid,https://avatars0.githubusercontent.com/u/9167774?v=3&s=64
+40.4166909,-3.7003454,,Point,654,luismesas,333,47,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1609214?v=3&s=64
+40.4166909,-3.7003454,,Point,657,jogarc10,331,1,C,Madrid,https://avatars0.githubusercontent.com/u/9167774?v=3&s=64
 41.387917,2.1699187,,Point,658,Theadd,330,73,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/78041?v=3&s=64
 43.2569629,-2.9234409,,Point,659,jonan,330,101,Java,"Bilbao, Spain",https://avatars0.githubusercontent.com/u/1110193?v=3&s=64
-43.3801347,-2.5855932,,Point,660,xmaeztu,330,1,Ruby,"Iruñea, Nafarroa",https://avatars3.githubusercontent.com/u/703490?v=3&s=64
-37.3892038,-5.9081615,,Point,661,FranBarrera,329,0,Python,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/6429335?v=3&s=64
-40.9607395,-5.7465977,,Point,662,ntrrgc,329,17,Python,"Salamanca, Spain",https://avatars0.githubusercontent.com/u/1002436?v=3&s=64
+37.38264,-5.9962951,,Point,661,FranBarrera,329,0,Python,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/6429335?v=3&s=64
+40.9649681,-5.6630253,,Point,662,ntrrgc,329,17,Python,"Salamanca, Spain",https://avatars0.githubusercontent.com/u/1002436?v=3&s=64
 41.9817957,2.8236999,,Point,663,jaimeiniesta,328,731,Ruby,"Girona, Spain",https://avatars1.githubusercontent.com/u/2629?v=3&s=64
-37.0025184,-3.9883887,,Point,664,JArandaIzquierdo,328,0,Java,Granada (Spain),https://avatars2.githubusercontent.com/u/6824323?v=3&s=64
-37.3892038,-5.9081615,,Point,665,pedroj,328,15,R,"Sevilla, Spain",https://avatars2.githubusercontent.com/u/1200554?v=3&s=64
+37.1764874,-3.5979291,,Point,664,JArandaIzquierdo,328,0,Java,Granada (Spain),https://avatars2.githubusercontent.com/u/6824323?v=3&s=64
+37.38264,-5.9962951,,Point,665,pedroj,328,15,R,"Sevilla, Spain",https://avatars2.githubusercontent.com/u/1200554?v=3&s=64
 42.3400086,-7.8646408,,Point,666,agjacome,327,4,Scala,"Ourense, Spain",https://avatars0.githubusercontent.com/u/470432?v=3&s=64
-42.2940141,-5.5198607,,Point,667,colomet,327,0,JavaScript,Valencia,https://avatars1.githubusercontent.com/u/3929177?v=3&s=64
+39.4702393,-0.3768049,,Point,667,colomet,327,0,JavaScript,Valencia,https://avatars1.githubusercontent.com/u/3929177?v=3&s=64
 42.2313564,-8.7124471,,Point,668,luisgf,327,1,Python,"Vigo, Spain",https://avatars1.githubusercontent.com/u/2311341?v=3&s=64
 43.0120868,-7.5558514,,Point,671,jesusVMayor,325,0,Python,Lugo,https://avatars1.githubusercontent.com/u/5393537?v=3&s=64
-41.4433668,-0.8846827,,Point,672,davidsingal,325,8,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/674179?v=3&s=64
+40.4166909,-3.7003454,,Point,672,davidsingal,325,8,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/674179?v=3&s=64
 41.387917,2.1699187,,Point,673,castarco,324,13,PHP,"El Prat de Llobregat, Barcelona, Spain",https://avatars0.githubusercontent.com/u/251364?v=3&s=64
-37.3892038,-5.9081615,,Point,674,dmsgago,324,0,CSS,"Sevilla, Andalucía, España",https://avatars3.githubusercontent.com/u/10972531?v=3&s=64
-42.8100446,0.710633,,Point,676,ojgarciab,324,1,Java,Mostoles (Madrid - Spain),https://avatars2.githubusercontent.com/u/4188035?v=3&s=64
+37.38264,-5.9962951,,Point,674,dmsgago,324,0,CSS,"Sevilla, Andalucía, España",https://avatars3.githubusercontent.com/u/10972531?v=3&s=64
 41.387917,2.1699187,,Point,677,poolqf,323,1565,Swift,Barcelona,https://avatars0.githubusercontent.com/u/7887319?v=3&s=64
 28.46981,-16.2548558,,Point,678,alu0100696691,322,2,Ruby,"Santa cruz de Tenerife, Islas Canarias, España",https://avatars2.githubusercontent.com/u/5493485?v=3&s=64
-41.4433668,-0.8846827,,Point,679,micaelgallego,322,0,Java,Madrid (Spain),https://avatars0.githubusercontent.com/u/1072424?v=3&s=64
+40.4166909,-3.7003454,,Point,679,micaelgallego,322,0,Java,Madrid (Spain),https://avatars0.githubusercontent.com/u/1072424?v=3&s=64
 42.8804471,-8.5463034,,Point,682,pablormier,321,7,Java,Santiago de Compostela,https://avatars3.githubusercontent.com/u/1433810?v=3&s=64
 37.8847267,-4.7791517,,Point,683,danigm,320,73,Python,Córdoba (España),https://avatars0.githubusercontent.com/u/50350?v=3&s=64
 41.1445142,1.3971,,Point,684,AlfredoRoca,320,0,Ruby,Torredembarra - Tarragona - Spain,https://avatars1.githubusercontent.com/u/8455554?v=3&s=64
-41.4433668,-0.8846827,,Point,685,anistal,319,1,Java,Madrid,https://avatars1.githubusercontent.com/u/166239?v=3&s=64
+40.4166909,-3.7003454,,Point,685,anistal,319,1,Java,Madrid,https://avatars1.githubusercontent.com/u/166239?v=3&s=64
 41.6562873,-0.8765379,,Point,686,angelblxt,319,0,PHP and CSS,Zaragoza,https://avatars1.githubusercontent.com/u/1858409?v=3&s=64
-42.2940141,-5.5198607,,Point,688,jatap,318,5,Ruby,Valencia,https://avatars2.githubusercontent.com/u/283011?v=3&s=64
-41.4433668,-0.8846827,,Point,689,jjballano,317,5,JavaScript,"Dublin, Madrid, Valencia",https://avatars2.githubusercontent.com/u/378233?v=3&s=64
+39.4702393,-0.3768049,,Point,688,jatap,318,5,Ruby,Valencia,https://avatars2.githubusercontent.com/u/283011?v=3&s=64
+40.4166909,-3.7003454,,Point,689,jjballano,317,5,JavaScript,"Dublin, Madrid, Valencia",https://avatars2.githubusercontent.com/u/378233?v=3&s=64
 41.6529434,-4.7283811,,Point,691,palmerabollo,316,59,JavaScript,"Valladolid, Spain",https://avatars2.githubusercontent.com/u/673420?v=3&s=64
 43.3602994,-5.844781,,Point,692,ivanarrizabalaga,316,0,JavaScript,"Oviedo, Asturias, Gijón",https://avatars0.githubusercontent.com/u/4146319?v=3&s=64
-41.4433668,-0.8846827,,Point,693,edulix,316,11,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/81968?v=3&s=64
-41.4433668,-0.8846827,,Point,695,SergioMorchon,316,4,JavaScript,"Madrid, España",https://avatars3.githubusercontent.com/u/4521712?v=3&s=64
+40.4166909,-3.7003454,,Point,693,edulix,316,11,JavaScript,"Madrid, Spain",https://avatars1.githubusercontent.com/u/81968?v=3&s=64
+40.4166909,-3.7003454,,Point,695,SergioMorchon,316,4,JavaScript,"Madrid, España",https://avatars3.githubusercontent.com/u/4521712?v=3&s=64
 41.387917,2.1699187,,Point,696,martiadrogue,315,0,PHP,Barcelona,https://avatars1.githubusercontent.com/u/1979791?v=3&s=64
 41.387917,2.1699187,,Point,697,sbartek,314,0,R,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/4888741?v=3&s=64
-39.4702393,-0.3768049,,Point,698,jlaso,314,51,PHP,46010 Valencia (Spain),https://avatars1.githubusercontent.com/u/1332197?v=3&s=64
 41.387917,2.1699187,,Point,699,mrcasals,313,39,Ruby,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/491891?v=3&s=64
-41.4433668,-0.8846827,,Point,700,JavierIH,313,2,Arduino,"Madrid, Toledo (SPAIN)",https://avatars1.githubusercontent.com/u/5154251?v=3&s=64
-41.4433668,-0.8846827,,Point,701,pdgago,312,1,HTML,Madrid,https://avatars3.githubusercontent.com/u/1828469?v=3&s=64
+40.4166909,-3.7003454,,Point,700,JavierIH,313,2,Arduino,"Madrid, Toledo (SPAIN)",https://avatars1.githubusercontent.com/u/5154251?v=3&s=64
+40.4166909,-3.7003454,,Point,701,pdgago,312,1,HTML,Madrid,https://avatars3.githubusercontent.com/u/1828469?v=3&s=64
 41.387917,2.1699187,,Point,702,twinone,312,6,Shell,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/4309591?v=3&s=64
-41.4433668,-0.8846827,,Point,703,RickieES,312,0,CSS,"Madrid, Spain",https://avatars1.githubusercontent.com/u/4553333?v=3&s=64
+40.4166909,-3.7003454,,Point,703,RickieES,312,0,CSS,"Madrid, Spain",https://avatars1.githubusercontent.com/u/4553333?v=3&s=64
 41.6529434,-4.7283811,,Point,704,javiergonzper,312,0,Objective-C,"Valladolid, Spain",https://avatars2.githubusercontent.com/u/1815050?v=3&s=64
-41.4433668,-0.8846827,,Point,705,dgrijuela,311,2,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6791788?v=3&s=64
-39.5719201,2.6165625,,Point,706,fernandoPalaciosGit,311,6,JavaScript,Palma de Mallorca,https://avatars0.githubusercontent.com/u/4712282?v=3&s=64
+40.4166909,-3.7003454,,Point,705,dgrijuela,311,2,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6791788?v=3&s=64
 41.6529434,-4.7283811,,Point,707,ngosang,311,3,Python,"Valladolid, Spain",https://avatars3.githubusercontent.com/u/10577978?v=3&s=64
-39.5719201,2.6165625,,Point,708,marcin-wosinek,310,5,JavaScript,"Las Palmas de GC, Spain",https://avatars1.githubusercontent.com/u/1024920?v=3&s=64
 41.387917,2.1699187,,Point,709,jmgc,310,0,C,Barcelona,https://avatars1.githubusercontent.com/u/1560616?v=3&s=64
 41.387917,2.1699187,,Point,710,Galbar,310,14,C++,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/3595851?v=3&s=64
-41.4433668,-0.8846827,,Point,711,ivanrod,310,0,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/8859183?v=3&s=64
+40.4166909,-3.7003454,,Point,711,ivanrod,310,0,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/8859183?v=3&s=64
 41.1186629,1.24533,,Point,712,argaen,310,4,Python,"Tarragona, Spain",https://avatars2.githubusercontent.com/u/3578154?v=3&s=64
 41.387917,2.1699187,,Point,713,georgid,309,16,Python,Barcelona,https://avatars3.githubusercontent.com/u/5612394?v=3&s=64
-37.0025184,-3.9883887,,Point,714,jlsuarezdiaz,309,3,Java and TeX,"Granada, Spain",https://avatars1.githubusercontent.com/u/9017643?v=3&s=64
-37.0025184,-3.9883887,,Point,716,davidgasquez,309,38,C++,"Granada, Spain",https://avatars0.githubusercontent.com/u/1682202?v=3&s=64
-41.4433668,-0.8846827,,Point,717,elmart,308,0,Python,Madrid,https://avatars0.githubusercontent.com/u/135757?v=3&s=64
-41.4433668,-0.8846827,,Point,718,viccuad,308,51,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2196685?v=3&s=64
-41.4433668,-0.8846827,,Point,719,dfernandezlop,308,0,C++,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6206290?v=3&s=64
+37.1764874,-3.5979291,,Point,714,jlsuarezdiaz,309,3,Java and TeX,"Granada, Spain",https://avatars1.githubusercontent.com/u/9017643?v=3&s=64
+37.1764874,-3.5979291,,Point,716,davidgasquez,309,38,C++,"Granada, Spain",https://avatars0.githubusercontent.com/u/1682202?v=3&s=64
+40.4166909,-3.7003454,,Point,717,elmart,308,0,Python,Madrid,https://avatars0.githubusercontent.com/u/135757?v=3&s=64
+40.4166909,-3.7003454,,Point,718,viccuad,308,51,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2196685?v=3&s=64
+40.4166909,-3.7003454,,Point,719,dfernandezlop,308,0,C++,"Madrid, Spain",https://avatars0.githubusercontent.com/u/6206290?v=3&s=64
 41.6562873,-0.8765379,,Point,720,jorgeatgu,308,220,HTML,Zaragoza,https://avatars3.githubusercontent.com/u/2649175?v=3&s=64
-41.4433668,-0.8846827,,Point,721,martgnz,308,7,CSS,Madrid,https://avatars1.githubusercontent.com/u/1236790?v=3&s=64
-41.4433668,-0.8846827,,Point,724,julien,307,215,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/5572?v=3&s=64
+40.4166909,-3.7003454,,Point,721,martgnz,308,7,CSS,Madrid,https://avatars1.githubusercontent.com/u/1236790?v=3&s=64
+40.4166909,-3.7003454,,Point,724,julien,307,215,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/5572?v=3&s=64
 43.2569629,-2.9234409,,Point,726,javray,307,6,JavaScript,"Spain, Bilbao",https://avatars0.githubusercontent.com/u/454310?v=3&s=64
-41.4433668,-0.8846827,,Point,727,davidsanfal,307,10,Python,"Spain, Madrid",https://avatars3.githubusercontent.com/u/5907894?v=3&s=64
-41.4433668,-0.8846827,,Point,728,Franx0,306,3,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/8995180?v=3&s=64
-41.4433668,-0.8846827,,Point,729,izqui,306,716,Go,"Madrid, Spain",https://avatars2.githubusercontent.com/u/447328?v=3&s=64
+40.4166909,-3.7003454,,Point,727,davidsanfal,307,10,Python,"Spain, Madrid",https://avatars3.githubusercontent.com/u/5907894?v=3&s=64
+40.4166909,-3.7003454,,Point,728,Franx0,306,3,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/8995180?v=3&s=64
+40.4166909,-3.7003454,,Point,729,izqui,306,716,Go,"Madrid, Spain",https://avatars2.githubusercontent.com/u/447328?v=3&s=64
 41.387917,2.1699187,,Point,730,ferranpm,306,41,VimL,Barcelona,https://avatars0.githubusercontent.com/u/2128606?v=3&s=64
-41.4433668,-0.8846827,,Point,731,kavinsky,305,16,C++,"Madrid, Spain",https://avatars2.githubusercontent.com/u/373995?v=3&s=64
-37.3892038,-5.9081615,,Point,732,ManuelLR,305,0,HTML,Sevilla,https://avatars0.githubusercontent.com/u/12049827?v=3&s=64
+40.4166909,-3.7003454,,Point,731,kavinsky,305,16,C++,"Madrid, Spain",https://avatars2.githubusercontent.com/u/373995?v=3&s=64
+37.38264,-5.9962951,,Point,732,ManuelLR,305,0,HTML,Sevilla,https://avatars0.githubusercontent.com/u/12049827?v=3&s=64
 41.387917,2.1699187,,Point,733,alch,305,0,PHP,Barcelona,https://avatars2.githubusercontent.com/u/682515?v=3&s=64
 41.387917,2.1699187,,Point,735,vdel26,304,155,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/850057?v=3&s=64
 41.387917,2.1699187,,Point,737,v1v,303,4,Java,Barcelona,https://avatars2.githubusercontent.com/u/2871786?v=3&s=64
-37.0025184,-3.9883887,,Point,738,ccamposfuentes,303,0,CSS,"Granada, Almería, Spain",https://avatars1.githubusercontent.com/u/6200116?v=3&s=64
-42.2940141,-5.5198607,,Point,739,malotor,302,11,PHP,Valencia,https://avatars0.githubusercontent.com/u/2879100?v=3&s=64
+37.1764874,-3.5979291,,Point,738,ccamposfuentes,303,0,CSS,"Granada, Almería, Spain",https://avatars1.githubusercontent.com/u/6200116?v=3&s=64
+39.4702393,-0.3768049,,Point,739,malotor,302,11,PHP,Valencia,https://avatars0.githubusercontent.com/u/2879100?v=3&s=64
 41.387917,2.1699187,,Point,741,karolinkas,302,5,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/6294044?v=3&s=64
-42.2940141,-5.5198607,,Point,742,ramingar,301,1,JavaScript,"Valencia, ES",https://avatars2.githubusercontent.com/u/4048415?v=3&s=64
-41.4433668,-0.8846827,,Point,743,JorgeFerrer,301,9,Shell,Madrid,https://avatars0.githubusercontent.com/u/868032?v=3&s=64
-41.4433668,-0.8846827,,Point,744,gfiorav,300,0,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/4222826?v=3&s=64
-41.4433668,-0.8846827,,Point,745,ferblape,299,207,Ruby,Madrid,https://avatars0.githubusercontent.com/u/17616?v=3&s=64
+39.4702393,-0.3768049,,Point,742,ramingar,301,1,JavaScript,"Valencia, ES",https://avatars2.githubusercontent.com/u/4048415?v=3&s=64
+40.4166909,-3.7003454,,Point,743,JorgeFerrer,301,9,Shell,Madrid,https://avatars0.githubusercontent.com/u/868032?v=3&s=64
+40.4166909,-3.7003454,,Point,744,gfiorav,300,0,JavaScript,"Madrid, Spain",https://avatars2.githubusercontent.com/u/4222826?v=3&s=64
+40.4166909,-3.7003454,,Point,745,ferblape,299,207,Ruby,Madrid,https://avatars0.githubusercontent.com/u/17616?v=3&s=64
 41.387917,2.1699187,,Point,746,dsager,299,2,Ruby,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/1056502?v=3&s=64
-41.4433668,-0.8846827,,Point,747,GGSvennson,298,0,Java,Madrid (Spain),https://avatars0.githubusercontent.com/u/9884341?v=3&s=64
-37.0025184,-3.9883887,,Point,749,raiben,298,7,Java,Granada,https://avatars3.githubusercontent.com/u/4012515?v=3&s=64
-41.4433668,-0.8846827,,Point,750,sjmudd,297,68,Shell,"Madrid, Spain",https://avatars2.githubusercontent.com/u/116250?v=3&s=64
-41.4433668,-0.8846827,,Point,752,gerddie,297,0,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2786969?v=3&s=64
+40.4166909,-3.7003454,,Point,747,GGSvennson,298,0,Java,Madrid (Spain),https://avatars0.githubusercontent.com/u/9884341?v=3&s=64
+37.1764874,-3.5979291,,Point,749,raiben,298,7,Java,Granada,https://avatars3.githubusercontent.com/u/4012515?v=3&s=64
+40.4166909,-3.7003454,,Point,750,sjmudd,297,68,Shell,"Madrid, Spain",https://avatars2.githubusercontent.com/u/116250?v=3&s=64
+40.4166909,-3.7003454,,Point,752,gerddie,297,0,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2786969?v=3&s=64
 41.9817957,2.8236999,,Point,753,nucliweb,296,26,CSS,"Girona, Spain",https://avatars2.githubusercontent.com/u/1307927?v=3&s=64
-41.4433668,-0.8846827,,Point,754,Eldelshell,295,38,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3949430?v=3&s=64
-37.0025184,-3.9883887,,Point,755,togacharls,295,0,Java and Shell,Granada,https://avatars0.githubusercontent.com/u/7345133?v=3&s=64
+40.4166909,-3.7003454,,Point,754,Eldelshell,295,38,CSS,"Madrid, Spain",https://avatars0.githubusercontent.com/u/3949430?v=3&s=64
+37.1764874,-3.5979291,,Point,755,togacharls,295,0,Java and Shell,Granada,https://avatars0.githubusercontent.com/u/7345133?v=3&s=64
 41.6562873,-0.8765379,,Point,756,MiguelAguilera,295,5,JavaScript,"Zaragoza, Spain",https://avatars3.githubusercontent.com/u/5880901?v=3&s=64
-41.4433668,-0.8846827,,Point,757,Jorjatorz,295,0,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/3790678?v=3&s=64
+40.4166909,-3.7003454,,Point,757,Jorjatorz,295,0,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/3790678?v=3&s=64
 41.387917,2.1699187,,Point,758,pearpages,295,7,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/3802915?v=3&s=64
-36.957424,-2.5700746,,Point,759,MiguelAngelLV,294,13,Java,Almería,https://avatars3.githubusercontent.com/u/638110?v=3&s=64
+36.8401638,-2.4679217,,Point,759,MiguelAngelLV,294,13,Java,Almería,https://avatars3.githubusercontent.com/u/638110?v=3&s=64
 41.387917,2.1699187,,Point,760,bejar,293,1,Python,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/6221479?v=3&s=64
-41.4433668,-0.8846827,,Point,761,olgaberrios,293,1,Ruby,Madrid,https://avatars1.githubusercontent.com/u/12841242?v=3&s=64
-41.4433668,-0.8846827,,Point,762,oscarperpinan,293,130,R,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1321370?v=3&s=64
+40.4166909,-3.7003454,,Point,761,olgaberrios,293,1,Ruby,Madrid,https://avatars1.githubusercontent.com/u/12841242?v=3&s=64
+40.4166909,-3.7003454,,Point,762,oscarperpinan,293,130,R,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1321370?v=3&s=64
 41.387917,2.1699187,,Point,763,Gawyn,292,37,Ruby,Barcelona,https://avatars1.githubusercontent.com/u/279106?v=3&s=64
-41.387917,2.1699187,,Point,764,mtbtiago,292,0,JavaScript,Menorca and Barcelona,https://avatars0.githubusercontent.com/u/10105692?v=3&s=64
-39.5760721,-4.9624159,,Point,765,felgari,292,1,Python,"Seville, Spain",https://avatars0.githubusercontent.com/u/2650006?v=3&s=64
 40.3491158,-3.8288109,,Point,767,skgsergio,291,17,Python,"Alcorcón, Madrid, Spain",https://avatars2.githubusercontent.com/u/186349?v=3&s=64
-40.223488,-1.9795743,,Point,768,jbgutierrez,291,74,Ruby,"A Coruña, Galicia, España",https://avatars3.githubusercontent.com/u/24221?v=3&s=64
 41.387917,2.1699187,,Point,769,dmitry-zaets,291,38,JavaScript,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/2580555?v=3&s=64
 41.387917,2.1699187,,Point,770,jlcanovas,291,1,CSS,Barcelona,https://avatars3.githubusercontent.com/u/1996760?v=3&s=64
 41.387917,2.1699187,,Point,771,SirArslaan,290,3,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/7632185?v=3&s=64
 42.2313564,-8.7124471,,Point,772,fasouto,290,328,Python,"Vigo, Spain",https://avatars0.githubusercontent.com/u/194200?v=3&s=64
-37.4850307,-2.2950183,,Point,773,jonabasque,289,3,JavaScript,Vitoria-Gasteiz (Basque Country),https://avatars3.githubusercontent.com/u/1707606?v=3&s=64
 41.387917,2.1699187,,Point,775,AbrahamAlcaina,288,4,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/3775437?v=3&s=64
 41.387917,2.1699187,,Point,776,xrubio,288,19,Python,Barcelona,https://avatars1.githubusercontent.com/u/1416266?v=3&s=64
-41.4433668,-0.8846827,,Point,777,yosoyfucho,288,0,Java,Madrid,https://avatars2.githubusercontent.com/u/3619769?v=3&s=64
+40.4166909,-3.7003454,,Point,777,yosoyfucho,288,0,Java,Madrid,https://avatars2.githubusercontent.com/u/3619769?v=3&s=64
 41.6562873,-0.8765379,,Point,779,eduardofilo,287,0,JavaScript,Zaragoza,https://avatars2.githubusercontent.com/u/2923728?v=3&s=64
 36.7196484,-4.4200163,,Point,780,EduardOckerse,287,0,Java,Málaga (Spain),https://avatars3.githubusercontent.com/u/2906560?v=3&s=64
 41.387917,2.1699187,,Point,782,jamaga,287,1,Ruby,barcelona,https://avatars3.githubusercontent.com/u/5446136?v=3&s=64
-41.4433668,-0.8846827,,Point,783,josestrk,287,12,JavaScript,"Madrid, Las Rozas",https://avatars1.githubusercontent.com/u/6792739?v=3&s=64
+40.4166909,-3.7003454,,Point,783,josestrk,287,12,JavaScript,"Madrid, Las Rozas",https://avatars1.githubusercontent.com/u/6792739?v=3&s=64
 41.387917,2.1699187,,Point,784,nahuelsotelo,287,3,JavaScript,Barcelona,https://avatars3.githubusercontent.com/u/1176755?v=3&s=64
-41.4433668,-0.8846827,,Point,785,luisbosque,287,23,Ruby,Madrid,https://avatars3.githubusercontent.com/u/93268?v=3&s=64
-37.3892038,-5.9081615,,Point,787,recena,286,0,Java,"Sevilla, España",https://avatars2.githubusercontent.com/u/1021745?v=3&s=64
-39.5760721,-4.9624159,,Point,788,goinnn,286,306,Python,"Seville, Spain",https://avatars2.githubusercontent.com/u/1101467?v=3&s=64
-37.3892038,-5.9081615,,Point,789,juanluisrp,286,11,JavaScript,Sevilla,https://avatars1.githubusercontent.com/u/826920?v=3&s=64
-41.4433668,-0.8846827,,Point,792,beschmi,285,1,Haskell,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1465443?v=3&s=64
-41.4433668,-0.8846827,,Point,795,danimtb,284,2,C++,"Madrid, Spain",https://avatars3.githubusercontent.com/u/10808592?v=3&s=64
-41.4433668,-0.8846827,,Point,797,balrog-kun,284,80,Python,Madrid,https://avatars2.githubusercontent.com/u/387877?v=3&s=64
-41.4433668,-0.8846827,,Point,798,Alotor,284,22,Shell,Madrid,https://avatars3.githubusercontent.com/u/3418223?v=3&s=64
+40.4166909,-3.7003454,,Point,785,luisbosque,287,23,Ruby,Madrid,https://avatars3.githubusercontent.com/u/93268?v=3&s=64
+37.38264,-5.9962951,,Point,787,recena,286,0,Java,"Sevilla, España",https://avatars2.githubusercontent.com/u/1021745?v=3&s=64
+37.38264,-5.9962951,,Point,789,juanluisrp,286,11,JavaScript,Sevilla,https://avatars1.githubusercontent.com/u/826920?v=3&s=64
+40.4166909,-3.7003454,,Point,792,beschmi,285,1,Haskell,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1465443?v=3&s=64
+40.4166909,-3.7003454,,Point,795,danimtb,284,2,C++,"Madrid, Spain",https://avatars3.githubusercontent.com/u/10808592?v=3&s=64
+40.4166909,-3.7003454,,Point,797,balrog-kun,284,80,Python,Madrid,https://avatars2.githubusercontent.com/u/387877?v=3&s=64
+40.4166909,-3.7003454,,Point,798,Alotor,284,22,Shell,Madrid,https://avatars3.githubusercontent.com/u/3418223?v=3&s=64
 42.3400086,-7.8646408,,Point,800,agonbar,283,0,JavaScript,"Ourense, Spain",https://avatars2.githubusercontent.com/u/1553211?v=3&s=64
-41.4433668,-0.8846827,,Point,802,nilp0inter,283,53,Python,Madrid,https://avatars2.githubusercontent.com/u/122646?v=3&s=400
+40.4166909,-3.7003454,,Point,802,nilp0inter,283,53,Python,Madrid,https://avatars2.githubusercontent.com/u/122646?v=3&s=400
 41.6562873,-0.8765379,,Point,803,guillermocalvo,283,90,Makefile,"Zaragoza, Spain",https://avatars3.githubusercontent.com/u/1181789?v=3&s=64
 41.387917,2.1699187,,Point,804,Bestion,281,0,C,Barcelona,https://avatars3.githubusercontent.com/u/6674534?v=3&s=64
-42.2940141,-5.5198607,,Point,806,magomar,281,1,Java,Valencia - España,https://avatars3.githubusercontent.com/u/3788031?v=3&s=64
+39.4702393,-0.3768049,,Point,806,magomar,281,1,Java,Valencia - España,https://avatars3.githubusercontent.com/u/3788031?v=3&s=64
 41.387917,2.1699187,,Point,807,joansola,280,2,Matlab,Barcelona - Catalonia,https://avatars2.githubusercontent.com/u/2467261?v=3&s=64
-37.0025184,-3.9883887,,Point,809,helfio,280,0,Python,"Granada, Spain",https://avatars0.githubusercontent.com/u/9520033?v=3&s=64
-41.4433668,-0.8846827,,Point,810,JulianAlonso,279,11,Objective-C,Madrid,https://avatars1.githubusercontent.com/u/5766613?v=3&s=64
-38.34521,-0.4809945,,Point,811,dviejo,279,6,OpenSCAD,"Alicante, Spain",https://avatars0.githubusercontent.com/u/3328923?v=3&s=64
-42.2940141,-5.5198607,,Point,812,Cubel89,277,0,Java,Valencia - España,https://avatars0.githubusercontent.com/u/6928188?v=3&s=64
+37.1764874,-3.5979291,,Point,809,helfio,280,0,Python,"Granada, Spain",https://avatars0.githubusercontent.com/u/9520033?v=3&s=64
+40.4166909,-3.7003454,,Point,810,JulianAlonso,279,11,Objective-C,Madrid,https://avatars1.githubusercontent.com/u/5766613?v=3&s=64
+39.4702393,-0.3768049,,Point,812,Cubel89,277,0,Java,Valencia - España,https://avatars0.githubusercontent.com/u/6928188?v=3&s=64
 41.387917,2.1699187,,Point,813,doup,277,51,JavaScript,Barcelona (Spain),https://avatars1.githubusercontent.com/u/188612?v=3&s=64
-41.4433668,-0.8846827,,Point,814,alexruperez,277,1082,Objective-C,Madrid,https://avatars2.githubusercontent.com/u/297950?v=3&s=64
-41.4433668,-0.8846827,,Point,815,marcoscv-work,276,25,JavaScript,Madrid (Spain),https://avatars0.githubusercontent.com/u/7963804?v=3&s=64
-37.3892038,-5.9081615,,Point,817,cerberillo,276,26,Objective-C,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/422329?v=3&s=64
+40.4166909,-3.7003454,,Point,814,alexruperez,277,1082,Objective-C,Madrid,https://avatars2.githubusercontent.com/u/297950?v=3&s=64
+40.4166909,-3.7003454,,Point,815,marcoscv-work,276,25,JavaScript,Madrid (Spain),https://avatars0.githubusercontent.com/u/7963804?v=3&s=64
+37.38264,-5.9962951,,Point,817,cerberillo,276,26,Objective-C,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/422329?v=3&s=64
 41.387917,2.1699187,,Point,818,lluia,276,2,JavaScript,"Barcelona, Spain",https://avatars1.githubusercontent.com/u/5938217?v=3&s=64
-41.4433668,-0.8846827,,Point,819,jvrsantacruz,274,37,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1549418?v=3&s=64
-41.4433668,-0.8846827,,Point,820,Serabe,274,119,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/36221?v=3&s=64
-41.4433668,-0.8846827,,Point,821,javivelasco,274,13,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1634922?v=3&s=64
+40.4166909,-3.7003454,,Point,819,jvrsantacruz,274,37,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1549418?v=3&s=64
+40.4166909,-3.7003454,,Point,820,Serabe,274,119,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/36221?v=3&s=64
+40.4166909,-3.7003454,,Point,821,javivelasco,274,13,JavaScript,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1634922?v=3&s=64
 41.387917,2.1699187,,Point,822,glopezdetorre,274,6,PHP,Barcelona,https://avatars1.githubusercontent.com/u/4482916?v=3&s=64
 37.2571526,-6.9495221,,Point,823,MalGanis2,273,0,HTML,"Huelva, Spain",https://avatars1.githubusercontent.com/u/5797868?v=3&s=64
 41.6529434,-4.7283811,,Point,824,plopesc,273,11,PHP,"Valladolid, Spain",https://avatars3.githubusercontent.com/u/161282?v=3&s=64
-37.3892038,-5.9081615,,Point,825,Bigomby,272,1,C++,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/4709092?v=3&s=64
-41.4433668,-0.8846827,,Point,826,isorna,272,5,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/39324?v=3&s=64
+37.38264,-5.9962951,,Point,825,Bigomby,272,1,C++,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/4709092?v=3&s=64
+40.4166909,-3.7003454,,Point,826,isorna,272,5,JavaScript,"Madrid, Spain",https://avatars3.githubusercontent.com/u/39324?v=3&s=64
 39.0327726,-4.1756454,,Point,827,jaoo,271,12,Shell,Piedrabuena. Ciudad Real. Spain,https://avatars0.githubusercontent.com/u/690184?v=3&s=64
 41.387917,2.1699187,,Point,829,fcsonline,270,64,JavaScript,"Barcelona, Spain",https://avatars0.githubusercontent.com/u/135988?v=3&s=64
-41.4433668,-0.8846827,,Point,830,dcordero,270,33,Ruby,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2320840?v=3&s=64
-39.5719201,2.6165625,,Point,831,claunia,269,10,C#,Las Palmas de Gran Canaria,https://avatars3.githubusercontent.com/u/1234569?v=3&s=64
-41.4433668,-0.8846827,,Point,832,k3xr,268,0,Java,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1362945?v=3&s=64
+40.4166909,-3.7003454,,Point,830,dcordero,270,33,Ruby,"Madrid, Spain",https://avatars1.githubusercontent.com/u/2320840?v=3&s=64
+40.4166909,-3.7003454,,Point,832,k3xr,268,0,Java,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1362945?v=3&s=64
 41.387917,2.1699187,,Point,833,javifr,268,0,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/353755?v=3&s=64
 41.387917,2.1699187,,Point,834,villanuevadani,268,0,Java,Barcelona,https://avatars2.githubusercontent.com/u/9211908?v=3&s=64
-41.4433668,-0.8846827,,Point,835,ArtCC,268,0,Objective-C,"Madrid, Spain",https://avatars3.githubusercontent.com/u/10163049?v=3&s=64
-41.4433668,-0.8846827,,Point,836,sfotiadis,267,31,Java,Madrid,https://avatars1.githubusercontent.com/u/2035205?v=3&s=64
+40.4166909,-3.7003454,,Point,835,ArtCC,268,0,Objective-C,"Madrid, Spain",https://avatars3.githubusercontent.com/u/10163049?v=3&s=64
+40.4166909,-3.7003454,,Point,836,sfotiadis,267,31,Java,Madrid,https://avatars1.githubusercontent.com/u/2035205?v=3&s=64
 41.387917,2.1699187,,Point,837,Gan0k,267,4,C++,Barcelona,https://avatars2.githubusercontent.com/u/5843735?v=3&s=64
 41.387917,2.1699187,,Point,838,andresbravog,267,112,Ruby,Barcelona,https://avatars0.githubusercontent.com/u/363321?v=3&s=64
-41.4433668,-0.8846827,,Point,839,wizeman,266,0,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/168610?v=3&s=64
+40.4166909,-3.7003454,,Point,839,wizeman,266,0,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/168610?v=3&s=64
 41.387917,2.1699187,,Point,841,VictorBjelkholm,266,13,JavaScript,"Barcelona, Catalunya",https://avatars0.githubusercontent.com/u/459764?v=3&s=64
 41.387917,2.1699187,,Point,842,mudasobwa,266,61,Ruby,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/1567503?v=3&s=64
-41.4433668,-0.8846827,,Point,844,jfisteus,266,43,Python,"Madrid, Spain",https://avatars3.githubusercontent.com/u/912913?v=3&s=64
+40.4166909,-3.7003454,,Point,844,jfisteus,266,43,Python,"Madrid, Spain",https://avatars3.githubusercontent.com/u/912913?v=3&s=64
 41.387917,2.1699187,,Point,845,aeony,265,2,JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/1328809?v=3&s=64
-41.4433668,-0.8846827,,Point,846,arcadiogarcia,265,20,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/9416356?v=3&s=64
+40.4166909,-3.7003454,,Point,846,arcadiogarcia,265,20,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/9416356?v=3&s=64
 41.6562873,-0.8765379,,Point,847,javierag,265,0,C,"Zaragoza, Spain",https://avatars0.githubusercontent.com/u/2778038?v=3&s=64
 43.4609602,-3.8079336,,Point,848,zhensydow,265,18,Haskell,"Santander, Spain",https://avatars2.githubusercontent.com/u/777247?v=3&s=64
-41.4433668,-0.8846827,,Point,849,zenitraM,264,63,Ruby,Madrid,https://avatars1.githubusercontent.com/u/863975?v=3&s=64
-41.4433668,-0.8846827,,Point,850,jdortiz,264,31,Java,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1663791?v=3&s=64
+40.4166909,-3.7003454,,Point,849,zenitraM,264,63,Ruby,Madrid,https://avatars1.githubusercontent.com/u/863975?v=3&s=64
+40.4166909,-3.7003454,,Point,850,jdortiz,264,31,Java,"Madrid, Spain",https://avatars0.githubusercontent.com/u/1663791?v=3&s=64
 41.6529434,-4.7283811,,Point,851,SergioBertolinSG,264,1,Python,Valladolid,https://avatars1.githubusercontent.com/u/9048796?v=3&s=64
-41.4433668,-0.8846827,,Point,852,tinova,264,1,Shell,Madrid,https://avatars2.githubusercontent.com/u/5102?v=3&s=64
-41.387917,2.1699187,,Point,853,jorix,264,63,JavaScript,"Castelldefels (near Barcelona, Spain)",https://avatars2.githubusercontent.com/u/1099278?v=3&s=64
-41.4433668,-0.8846827,,Point,855,edwise,263,1,Java,Madrid,https://avatars1.githubusercontent.com/u/1696690?v=3&s=64
-41.4433668,-0.8846827,,Point,856,felHR85,263,37,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2222321?v=3&s=64
-41.4433668,-0.8846827,,Point,857,KonradIT,263,641,Python,Madrid,https://avatars2.githubusercontent.com/u/5891284?v=3&s=64
-41.4433668,-0.8846827,,Point,859,yamila-moreno,262,9,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/3340793?v=3&s=64
+40.4166909,-3.7003454,,Point,852,tinova,264,1,Shell,Madrid,https://avatars2.githubusercontent.com/u/5102?v=3&s=64
+40.4166909,-3.7003454,,Point,855,edwise,263,1,Java,Madrid,https://avatars1.githubusercontent.com/u/1696690?v=3&s=64
+40.4166909,-3.7003454,,Point,856,felHR85,263,37,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2222321?v=3&s=64
+40.4166909,-3.7003454,,Point,857,KonradIT,263,641,Python,Madrid,https://avatars2.githubusercontent.com/u/5891284?v=3&s=64
+40.4166909,-3.7003454,,Point,859,yamila-moreno,262,9,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/3340793?v=3&s=64
 41.387917,2.1699187,,Point,860,albertbellonch,261,147,Ruby,Barcelona,https://avatars3.githubusercontent.com/u/289651?v=3&s=64
-38.34521,-0.4809945,,Point,861,Moter8,261,3,Java,"Alicante, Spain",https://avatars0.githubusercontent.com/u/3776997?v=3&s=64
-37.3892038,-5.9081615,,Point,862,drzippie,261,9,PHP,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/239421?v=3&s=64
+37.38264,-5.9962951,,Point,862,drzippie,261,9,PHP,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/239421?v=3&s=64
 41.387917,2.1699187,,Point,864,j-rivero,260,4,C++,Barcelona,https://avatars1.githubusercontent.com/u/2098802?v=3&s=64
-41.4433668,-0.8846827,,Point,865,avara1986,260,6,Python,Madrid,https://avatars1.githubusercontent.com/u/6352942?v=3&s=64
-41.4433668,-0.8846827,,Point,866,amedranogil,260,0,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/6515064?v=3&s=64
-43.4609602,-3.8079336,,Point,867,oaguillon,260,,JavaScript,San Gil Santander Colombia,https://avatars2.githubusercontent.com/u/1925152?v=3&s=400
+40.4166909,-3.7003454,,Point,865,avara1986,260,6,Python,Madrid,https://avatars1.githubusercontent.com/u/6352942?v=3&s=64
+40.4166909,-3.7003454,,Point,866,amedranogil,260,0,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/6515064?v=3&s=64
 41.387917,2.1699187,,Point,868,d2tstudio,260,4,CSS,Barcelona,https://avatars0.githubusercontent.com/u/991100?v=3&s=64
 41.387917,2.1699187,,Point,869,freeart,259,12,JavaScript,"Spain, Barcelona",https://avatars2.githubusercontent.com/u/261560?v=3&s=64
 37.2056774,-3.636805,,Point,870,albatronic,259,1,PHP,Maracena - Granada - Spain,https://avatars3.githubusercontent.com/u/715769?v=3&s=64
 43.4609602,-3.8079336,,Point,871,jbedia,259,0,R,Santander (Spain),https://avatars0.githubusercontent.com/u/5796721?v=3&s=64
-42.2940141,-5.5198607,,Point,872,adgellida,258,1,Shell,"Valencia, Spain",https://avatars1.githubusercontent.com/u/1489725?v=3&s=64
+39.4702393,-0.3768049,,Point,872,adgellida,258,1,Shell,"Valencia, Spain",https://avatars1.githubusercontent.com/u/1489725?v=3&s=64
 41.387917,2.1699187,,Point,875,javilumbrales,258,5,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/2026597?v=3&s=64
 43.2569629,-2.9234409,,Point,877,haas85,256,20,JavaScript,Bilbao,https://avatars3.githubusercontent.com/u/1210169?v=3&s=64
-41.4433668,-0.8846827,,Point,878,ajnavarro,256,0,CSS,Madrid,https://avatars0.githubusercontent.com/u/1196465?v=3&s=64
+40.4166909,-3.7003454,,Point,878,ajnavarro,256,0,CSS,Madrid,https://avatars0.githubusercontent.com/u/1196465?v=3&s=64
 41.387917,2.1699187,,Point,879,undeadpixel,256,2,Ruby,Barcelona,https://avatars3.githubusercontent.com/u/568654?v=3&s=64
 41.387917,2.1699187,,Point,880,jasonlint,256,0,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/4974122?v=3&s=64
-40.4166909,-3.7003454,,Point,881,borjaburgos,255,6,Shell,"New York, NY & Madrid, Spain",https://avatars0.githubusercontent.com/u/3640206?v=3&s=64
-41.4433668,-0.8846827,,Point,882,beeva-nievesabalos,255,1,JavaScript,"Madrid, España",https://avatars3.githubusercontent.com/u/7253138?v=3&s=64
+40.4166909,-3.7003454,,Point,882,beeva-nievesabalos,255,1,JavaScript,"Madrid, España",https://avatars3.githubusercontent.com/u/7253138?v=3&s=64
 41.387917,2.1699187,,Point,883,cumus,255,0,C++ and C,"Barcelona, Espanya",https://avatars3.githubusercontent.com/u/9050447?v=3&s=64
-37.0025184,-3.9883887,,Point,884,jesusgn90,254,4,CSS,Granada,https://avatars3.githubusercontent.com/u/8860227?v=3&s=64
-40.9607395,-5.7465977,,Point,885,hectoruch,254,7,HTML,Salamanca,https://avatars2.githubusercontent.com/u/8074563?v=3&s=64
+37.1764874,-3.5979291,,Point,884,jesusgn90,254,4,CSS,Granada,https://avatars3.githubusercontent.com/u/8860227?v=3&s=64
+40.9649681,-5.6630253,,Point,885,hectoruch,254,7,HTML,Salamanca,https://avatars2.githubusercontent.com/u/8074563?v=3&s=64
 41.387917,2.1699187,,Point,886,existeundelta,254,0,R and JavaScript,Barcelona,https://avatars1.githubusercontent.com/u/10629543?v=3&s=64
-37.675267,-1.6975995,,Point,888,voylinux,253,10,JavaScript,Mallorca (Spain),https://avatars1.githubusercontent.com/u/1538304?v=3&s=64
-37.3892038,-5.9081615,,Point,889,Nesta,253,28,JavaScript,Sevilla,https://avatars2.githubusercontent.com/u/180671?v=3&s=64
+37.38264,-5.9962951,,Point,889,Nesta,253,28,JavaScript,Sevilla,https://avatars2.githubusercontent.com/u/180671?v=3&s=64
 36.7196484,-4.4200163,,Point,890,i52gagrj,253,0,CSS,Málaga,https://avatars0.githubusercontent.com/u/1993018?v=3&s=64
-37.0025184,-3.9883887,,Point,891,Amab,252,14,HTML,"Granada, Spain",https://avatars3.githubusercontent.com/u/461393?v=3&s=64
+37.1764874,-3.5979291,,Point,891,Amab,252,14,HTML,"Granada, Spain",https://avatars3.githubusercontent.com/u/461393?v=3&s=64
 37.6153948,-0.7435246,,Point,892,fjbelchi,252,68,Ruby,"Cartagena, Spain",https://avatars3.githubusercontent.com/u/626713?v=3&s=64
-37.1764874,-3.5979291,,Point,893,BraulioVM,252,15,JavaScript,"Málaga & Granada, Spain",https://avatars2.githubusercontent.com/u/715372?v=3&s=64
-41.4433668,-0.8846827,,Point,894,hugo19941994,252,1,C++,"Madrid, Spain",https://avatars2.githubusercontent.com/u/6431131?v=3&s=64
-41.4433668,-0.8846827,,Point,895,ramongilmoreno,252,1,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/6867128?v=3&s=64
-41.4433668,-0.8846827,,Point,896,Souler,251,17,JavaScript,Madrid (Spain),https://avatars0.githubusercontent.com/u/284703?v=3&s=64
-43.3801347,-2.5855932,,Point,897,pnegre,251,84,Python,"Balearic Islands, Spain.",https://avatars2.githubusercontent.com/u/45529?v=3&s=64
+40.4166909,-3.7003454,,Point,894,hugo19941994,252,1,C++,"Madrid, Spain",https://avatars2.githubusercontent.com/u/6431131?v=3&s=64
+40.4166909,-3.7003454,,Point,895,ramongilmoreno,252,1,Shell,"Madrid, Spain",https://avatars1.githubusercontent.com/u/6867128?v=3&s=64
+40.4166909,-3.7003454,,Point,896,Souler,251,17,JavaScript,Madrid (Spain),https://avatars0.githubusercontent.com/u/284703?v=3&s=64
 37.8847267,-4.7791517,,Point,898,loverajoel,251,121,JavaScript,Córdoba,https://avatars0.githubusercontent.com/u/1700100?v=3&s=64
-37.3892038,-5.9081615,,Point,899,Angelmmiguel,251,89,Java,Sevilla,https://avatars0.githubusercontent.com/u/4056725?v=3&s=64
+37.38264,-5.9962951,,Point,899,Angelmmiguel,251,89,Java,Sevilla,https://avatars0.githubusercontent.com/u/4056725?v=3&s=64
 41.6562873,-0.8765379,,Point,900,danilat,250,40,JavaScript,Zaragoza (Spain),https://avatars0.githubusercontent.com/u/22763?v=3&s=64
-42.2940141,-5.5198607,,Point,902,RomanRobotnik,250,8,Python,Valencia (SPAIN),https://avatars0.githubusercontent.com/u/1507621?v=3&s=64
-37.4850307,-2.2950183,,Point,905,Rubentxu,249,21,JavaScript,"Vitoria (Alava, Spain)",https://avatars0.githubusercontent.com/u/604924?v=3&s=64
+39.4702393,-0.3768049,,Point,902,RomanRobotnik,250,8,Python,Valencia (SPAIN),https://avatars0.githubusercontent.com/u/1507621?v=3&s=64
 41.387917,2.1699187,,Point,906,ianharrigan,249,378,Haxe,Barcelona,https://avatars0.githubusercontent.com/u/3024242?v=3&s=64
 41.387917,2.1699187,,Point,907,bernatmv,249,2,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/3183863?v=3&s=64
-41.4433668,-0.8846827,,Point,908,ajgarlag,248,38,PHP,"Madrid, ES",https://avatars0.githubusercontent.com/u/388184?v=3&s=64
+40.4166909,-3.7003454,,Point,908,ajgarlag,248,38,PHP,"Madrid, ES",https://avatars0.githubusercontent.com/u/388184?v=3&s=64
 41.387917,2.1699187,,Point,909,agustibr,247,6,JavaScript,Barcelona,https://avatars2.githubusercontent.com/u/210216?v=3&s=64
-37.0025184,-3.9883887,,Point,910,psicobyte,247,17,Python,"Granada, Spain",https://avatars2.githubusercontent.com/u/1206823?v=3&s=64
+37.1764874,-3.5979291,,Point,910,psicobyte,247,17,Python,"Granada, Spain",https://avatars2.githubusercontent.com/u/1206823?v=3&s=64
 43.3602994,-5.844781,,Point,912,mvidalgarcia,246,0,Python,"Oviedo, Asturias, Spain",https://avatars1.githubusercontent.com/u/8863238?v=3&s=64
 43.2569629,-2.9234409,,Point,915,anderipartek,246,1,CSS,Bilbao,https://avatars2.githubusercontent.com/u/11519980?v=3&s=64
-37.0025184,-3.9883887,,Point,916,themakerbb,246,3,JavaScript,Granada,https://avatars2.githubusercontent.com/u/5804759?v=3&s=64
-41.4433668,-0.8846827,,Point,917,JMPergar,246,515,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2472301?v=3&s=64
-40.223488,-1.9795743,,Point,918,kewelinho,245,1,JavaScript,A coruña,https://avatars1.githubusercontent.com/u/4988013?v=3&s=64
+37.1764874,-3.5979291,,Point,916,themakerbb,246,3,JavaScript,Granada,https://avatars2.githubusercontent.com/u/5804759?v=3&s=64
+40.4166909,-3.7003454,,Point,917,JMPergar,246,515,Java,"Madrid, Spain",https://avatars2.githubusercontent.com/u/2472301?v=3&s=64
 41.387917,2.1699187,,Point,919,rubennorte,245,14,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/117921?v=3&s=64
-41.4433668,-0.8846827,,Point,920,paclema,245,3,Arduino,Madrid,https://avatars2.githubusercontent.com/u/4092862?v=3&s=64
-41.4433668,-0.8846827,,Point,921,regiluze,245,15,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/591348?v=3&s=64
-37.4850307,-2.2950183,,Point,922,Skillath,244,2,C#,"Lasarte-Oria, Gipuzkoa",https://avatars3.githubusercontent.com/u/5716415?v=3&s=64
+40.4166909,-3.7003454,,Point,920,paclema,245,3,Arduino,Madrid,https://avatars2.githubusercontent.com/u/4092862?v=3&s=64
+40.4166909,-3.7003454,,Point,921,regiluze,245,15,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/591348?v=3&s=64
+43.2674545,-2.020169,,Point,922,Skillath,244,2,C#,"Lasarte-Oria, Gipuzkoa",https://avatars3.githubusercontent.com/u/5716415?v=3&s=64
 41.387917,2.1699187,,Point,924,dertasiu,244,30,Shell,"Barcelona, Spain",https://avatars3.githubusercontent.com/u/11269785?v=3&s=64
-36.957424,-2.5700746,,Point,925,frangarcj,244,36,C,Almería,https://avatars1.githubusercontent.com/u/399894?v=3&s=64
+36.8401638,-2.4679217,,Point,925,frangarcj,244,36,C,Almería,https://avatars1.githubusercontent.com/u/399894?v=3&s=64
 42.2313564,-8.7124471,,Point,927,dpino,243,44,JavaScript,Vigo,https://avatars3.githubusercontent.com/u/11567?v=3&s=64
-41.4433668,-0.8846827,,Point,928,tcard,243,100,Go,"Madrid, Spain",https://avatars2.githubusercontent.com/u/727422?v=3&s=64
-41.4433668,-0.8846827,,Point,929,dokkillo,243,1,HTML,Madrid,https://avatars3.githubusercontent.com/u/920841?v=3&s=64
-43.1495502,-2.9250864,,Point,930,memaldi,243,13,Python,Barakaldo,https://avatars1.githubusercontent.com/u/1871269?v=3&s=64
+40.4166909,-3.7003454,,Point,928,tcard,243,100,Go,"Madrid, Spain",https://avatars2.githubusercontent.com/u/727422?v=3&s=64
+40.4166909,-3.7003454,,Point,929,dokkillo,243,1,HTML,Madrid,https://avatars3.githubusercontent.com/u/920841?v=3&s=64
+43.2972222,-2.9916667,,Point,930,memaldi,243,13,Python,Barakaldo,https://avatars1.githubusercontent.com/u/1871269?v=3&s=64
 41.6562873,-0.8765379,,Point,931,papajulio,243,1,JavaScript,Zaragoza,https://avatars0.githubusercontent.com/u/492577?v=3&s=64
-42.2940141,-5.5198607,,Point,933,ecarrillo88,242,0,JavaScript,Valencia (Spain),https://avatars2.githubusercontent.com/u/9354245?v=3&s=64
-39.5760721,-4.9624159,,Point,934,carlosrodlop,242,0,JavaScript,"Seville, Spain.",https://avatars2.githubusercontent.com/u/8872896?v=3&s=64
+39.4702393,-0.3768049,,Point,933,ecarrillo88,242,0,JavaScript,Valencia (Spain),https://avatars2.githubusercontent.com/u/9354245?v=3&s=64
 41.387917,2.1699187,,Point,935,dixso,241,359,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/1495899?v=3&s=64
-41.4433668,-0.8846827,,Point,936,WyrmxD,241,1,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/628610?v=3&s=64
+40.4166909,-3.7003454,,Point,936,WyrmxD,241,1,JavaScript,Madrid,https://avatars3.githubusercontent.com/u/628610?v=3&s=64
 41.387917,2.1699187,,Point,937,broucz,241,151,JavaScript,"Barcelona, Catalonia",https://avatars2.githubusercontent.com/u/1254420?v=3&s=64
-42.2940141,-5.5198607,,Point,938,szamarripa,241,0,,Valencia,https://avatars3.githubusercontent.com/u/6949676?v=3&s=64
+39.4702393,-0.3768049,,Point,938,szamarripa,241,0,,Valencia,https://avatars3.githubusercontent.com/u/6949676?v=3&s=64
 41.387917,2.1699187,,Point,939,gerardcl,240,5,CSS,Barcelona,https://avatars2.githubusercontent.com/u/1785235?v=3&s=64
 41.387917,2.1699187,,Point,940,ezorita,240,19,C,Barcelona,https://avatars3.githubusercontent.com/u/3889419?v=3&s=64
-41.387917,2.1699187,,Point,942,txels,239,230,Python,Reykjavik & Barcelona,https://avatars1.githubusercontent.com/u/874958?v=3&s=64
-37.3892038,-5.9081615,,Point,943,JesusTinoco,239,0,Java,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/2388836?v=3&s=64
-41.4433668,-0.8846827,,Point,947,roclas,239,12,Shell,madrid,https://avatars2.githubusercontent.com/u/1390424?v=3&s=64
-41.4433668,-0.8846827,,Point,948,jfontan,239,22,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1829?v=3&s=64
-41.4433668,-0.8846827,,Point,949,jjmleiro,239,0,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/9530128?v=3&s=64
-41.4433668,-0.8846827,,Point,950,UlisesGascon,239,7,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/5110813?v=3&s=64
-36.957424,-2.5700746,,Point,951,jghinestrosa,238,2,JavaScript,"Almería, Spain",https://avatars3.githubusercontent.com/u/7010036?v=3&s=64
-37.0025184,-3.9883887,,Point,952,enpi,238,2,Java,Granada,https://avatars0.githubusercontent.com/u/8874584?v=3&s=64
-41.4433668,-0.8846827,,Point,953,pabloparejo,238,0,Objective-C,"Madrid, Spain",https://avatars0.githubusercontent.com/u/5649510?v=3&s=64
-41.4433668,-0.8846827,,Point,954,carlosescri,238,7,Python,Madrid (Spain),https://avatars2.githubusercontent.com/u/482075?v=3&s=64
-41.4433668,-0.8846827,,Point,957,rolfbjarne,238,39,C#,"Madrid, Spain",https://avatars0.githubusercontent.com/u/249268?v=3&s=64
-41.4433668,-0.8846827,,Point,958,jfernandezpe,237,0,Java,"Madrid, España",https://avatars1.githubusercontent.com/u/12046620?v=3&s=64
+37.38264,-5.9962951,,Point,943,JesusTinoco,239,0,Java,"Sevilla, Spain",https://avatars1.githubusercontent.com/u/2388836?v=3&s=64
+40.4166909,-3.7003454,,Point,947,roclas,239,12,Shell,madrid,https://avatars2.githubusercontent.com/u/1390424?v=3&s=64
+40.4166909,-3.7003454,,Point,948,jfontan,239,22,Ruby,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1829?v=3&s=64
+40.4166909,-3.7003454,,Point,949,jjmleiro,239,0,JavaScript,Madrid,https://avatars2.githubusercontent.com/u/9530128?v=3&s=64
+40.4166909,-3.7003454,,Point,950,UlisesGascon,239,7,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/5110813?v=3&s=64
+36.8401638,-2.4679217,,Point,951,jghinestrosa,238,2,JavaScript,"Almería, Spain",https://avatars3.githubusercontent.com/u/7010036?v=3&s=64
+37.1764874,-3.5979291,,Point,952,enpi,238,2,Java,Granada,https://avatars0.githubusercontent.com/u/8874584?v=3&s=64
+40.4166909,-3.7003454,,Point,953,pabloparejo,238,0,Objective-C,"Madrid, Spain",https://avatars0.githubusercontent.com/u/5649510?v=3&s=64
+40.4166909,-3.7003454,,Point,954,carlosescri,238,7,Python,Madrid (Spain),https://avatars2.githubusercontent.com/u/482075?v=3&s=64
+40.4166909,-3.7003454,,Point,957,rolfbjarne,238,39,C#,"Madrid, Spain",https://avatars0.githubusercontent.com/u/249268?v=3&s=64
+40.4166909,-3.7003454,,Point,958,jfernandezpe,237,0,Java,"Madrid, España",https://avatars1.githubusercontent.com/u/12046620?v=3&s=64
 39.5105098,-0.4149856,,Point,960,carlosvergara,237,0,Ruby,"Burjassot, Valencia, Spain",https://avatars3.githubusercontent.com/u/9960421?v=3&s=64
-41.4433668,-0.8846827,,Point,961,amardomingo,237,5,Python,Madrid,https://avatars3.githubusercontent.com/u/464230?v=3&s=64
-40.223488,-1.9795743,,Point,962,karlosgliberal,237,40,JavaScript,pamplona/iruña,https://avatars3.githubusercontent.com/u/200922?v=3&s=64
-42.2940141,-5.5198607,,Point,963,daormar,237,10,C,Valencia (Spain),https://avatars0.githubusercontent.com/u/5929960?v=3&s=64
-41.4433668,-0.8846827,,Point,964,vitojph,236,6,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1150989?v=3&s=64
-41.4433668,-0.8846827,,Point,965,johnnycakes79,236,5,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1543976?v=3&s=64
+40.4166909,-3.7003454,,Point,961,amardomingo,237,5,Python,Madrid,https://avatars3.githubusercontent.com/u/464230?v=3&s=64
+42.8179879,-1.6441835,,Point,962,karlosgliberal,237,40,JavaScript,pamplona/iruña,https://avatars3.githubusercontent.com/u/200922?v=3&s=64
+39.4702393,-0.3768049,,Point,963,daormar,237,10,C,Valencia (Spain),https://avatars0.githubusercontent.com/u/5929960?v=3&s=64
+40.4166909,-3.7003454,,Point,964,vitojph,236,6,Python,"Madrid, Spain",https://avatars1.githubusercontent.com/u/1150989?v=3&s=64
+40.4166909,-3.7003454,,Point,965,johnnycakes79,236,5,Python,"Madrid, Spain",https://avatars2.githubusercontent.com/u/1543976?v=3&s=64
 41.387917,2.1699187,,Point,967,nixelsolutions,236,24,Shell,Barcelona,https://avatars2.githubusercontent.com/u/1949094?v=3&s=64
 41.387917,2.1699187,,Point,968,andresgutgon,236,30,JavaScript,Barcelona,https://avatars0.githubusercontent.com/u/49499?v=3&s=64
-41.4433668,-0.8846827,,Point,970,jmarranz,236,87,Java,Madrid,https://avatars0.githubusercontent.com/u/2886492?v=3&s=64
+40.4166909,-3.7003454,,Point,970,jmarranz,236,87,Java,Madrid,https://avatars0.githubusercontent.com/u/2886492?v=3&s=64
 41.387917,2.1699187,,Point,971,tranchis,235,52,Clojure,Barcelona,https://avatars0.githubusercontent.com/u/160790?v=3&s=64
-37.0025184,-3.9883887,,Point,972,mresti,235,2,Java,"Granada, Spain",https://avatars2.githubusercontent.com/u/1193771?v=3&s=64
+37.1764874,-3.5979291,,Point,972,mresti,235,2,Java,"Granada, Spain",https://avatars2.githubusercontent.com/u/1193771?v=3&s=64
 41.387917,2.1699187,,Point,973,gdfm,234,7,Java,Barcelona,https://avatars0.githubusercontent.com/u/703859?v=3&s=64
-37.0025184,-3.9883887,,Point,974,aDaneInSpain,234,0,JavaScript,"Granada, Spain",https://avatars2.githubusercontent.com/u/4998032?v=3&s=64
+37.1764874,-3.5979291,,Point,974,aDaneInSpain,234,0,JavaScript,"Granada, Spain",https://avatars2.githubusercontent.com/u/4998032?v=3&s=64
 41.387917,2.1699187,,Point,975,simo163,234,2,JavaScript,Barcelona,https://avatars3.githubusercontent.com/u/3654076?v=3&s=64
 41.387917,2.1699187,,Point,976,tokland,234,275,Ruby,Barcelona,https://avatars0.githubusercontent.com/u/24643?v=3&s=64
-40.9607395,-5.7465977,,Point,977,juan-cb,233,6,Python,Salamanca (Spain),https://avatars0.githubusercontent.com/u/2938045?v=3&s=64
+40.9649681,-5.6630253,,Point,977,juan-cb,233,6,Python,Salamanca (Spain),https://avatars0.githubusercontent.com/u/2938045?v=3&s=64
 41.387917,2.1699187,,Point,978,codecoding,233,90,C#,Barcelona,https://avatars1.githubusercontent.com/u/696981?v=3&s=64
 41.387917,2.1699187,,Point,979,ulisescontreras,233,3,CSS,"Barcelona, Spain",https://avatars2.githubusercontent.com/u/7679792?v=3&s=64
 41.387917,2.1699187,,Point,980,Samitier,233,2,C++,Barcelona,https://avatars1.githubusercontent.com/u/4160121?v=3&s=64
 36.7408046,-6.4358696,,Point,981,nerviozzo,233,0,HTML,Chipiona,https://avatars3.githubusercontent.com/u/10176967?v=3&s=64
-41.4433668,-0.8846827,,Point,982,ilopmar,233,108,Groovy,"Madrid, Spain",https://avatars2.githubusercontent.com/u/559192?v=3&s=64
+40.4166909,-3.7003454,,Point,982,ilopmar,233,108,Groovy,"Madrid, Spain",https://avatars2.githubusercontent.com/u/559192?v=3&s=64
 41.387917,2.1699187,,Point,985,mcornella,232,2,Shell,Barcelona,https://avatars0.githubusercontent.com/u/1441704?v=3&s=64
 43.2569629,-2.9234409,,Point,986,rsleno,232,0,Python,"Bilbao, Spain",https://avatars1.githubusercontent.com/u/7251655?v=3&s=64
-41.4433668,-0.8846827,,Point,987,son-link,231,37,Python,"Madrid, España (Spain)",https://avatars0.githubusercontent.com/u/208409?v=3&s=64
-42.2674977,2.9608395,,Point,988,templix,230,1,Shell,"Figueres(Catalunya,Spain)",https://avatars0.githubusercontent.com/u/2451476?v=3&s=64
-37.3892038,-5.9081615,,Point,989,brovador,230,31,Objective-C,Sevilla,https://avatars0.githubusercontent.com/u/588744?v=3&s=64
-39.5719201,2.6165625,,Point,990,Suui,230,3,C++,"Las Palmas de GC, Spain",https://avatars0.githubusercontent.com/u/7011096?v=3&s=64
-41.4433668,-0.8846827,,Point,991,MookieFumi,229,9,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/4056557?v=3&s=64
+40.4166909,-3.7003454,,Point,987,son-link,231,37,Python,"Madrid, España (Spain)",https://avatars0.githubusercontent.com/u/208409?v=3&s=64
+37.38264,-5.9962951,,Point,989,brovador,230,31,Objective-C,Sevilla,https://avatars0.githubusercontent.com/u/588744?v=3&s=64
+40.4166909,-3.7003454,,Point,991,MookieFumi,229,9,JavaScript,Madrid,https://avatars1.githubusercontent.com/u/4056557?v=3&s=64
 42.2313564,-8.7124471,,Point,992,adoankim,229,5,JavaScript,Vigo,https://avatars2.githubusercontent.com/u/1521546?v=3&s=64
-41.4433668,-0.8846827,,Point,993,NITEMAN,229,26,Puppet,Madrid,https://avatars1.githubusercontent.com/u/721986?v=3&s=64
+40.4166909,-3.7003454,,Point,993,NITEMAN,229,26,Puppet,Madrid,https://avatars1.githubusercontent.com/u/721986?v=3&s=64
 37.2831754,-5.9222424,,Point,994,jesusba,229,0,Python,"Dos Hermanas, Sevilla",https://avatars3.githubusercontent.com/u/3417285?v=3&s=64
 43.2569629,-2.9234409,,Point,995,Josebaseba,229,32,JavaScript,Bilbao,https://avatars0.githubusercontent.com/u/1160665?v=3&s=64
 41.1186629,1.24533,,Point,996,katesheleh,228,0,JavaScript,"Tarragona, Spain",https://avatars0.githubusercontent.com/u/11166226?v=3&s=64
-42.2940141,-5.5198607,,Point,998,marsanla,228,61,JavaScript,Valencia,https://avatars2.githubusercontent.com/u/1122550?v=3&s=64
-41.5532128,0.7055162,,Point,999,jvilaplana,228,5,JavaScript,Lleida,https://avatars0.githubusercontent.com/u/732164?v=3&s=64
+39.4702393,-0.3768049,,Point,998,marsanla,228,61,JavaScript,Valencia,https://avatars2.githubusercontent.com/u/1122550?v=3&s=64
+41.6141518,0.6257825,,Point,999,jvilaplana,228,5,JavaScript,Lleida,https://avatars0.githubusercontent.com/u/732164?v=3&s=64
 41.6562873,-0.8765379,,Point,1000,jact,228,4,PHP,"Zaragoza, Spain",https://avatars1.githubusercontent.com/u/251908?v=3&s=64
