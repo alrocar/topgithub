@@ -71,6 +71,8 @@ topgithub.prototype.request = function(url) {
                 'type': 'FeatureCollection',
                 'features': features
             };
+
+            console.log(notfound);
             
             var output = 'top_github_ES.geojson';
 
@@ -83,6 +85,7 @@ topgithub.prototype.request = function(url) {
     });
 };
 
+var notfound = 0;
 topgithub.prototype.getLonLat = function(city) {
     var cityParts = city.split(',');
     if (cityParts.length == 1) {
@@ -106,9 +109,7 @@ topgithub.prototype.getLonLat = function(city) {
 
         if (!cities[c]) {
             for (var j = 0; j < citiesObj.length; j++) {
-                if (citiesObj[j].municipio.toLowerCase() == c
-                    || citiesObj[j].municipio.toLowerCase().indexOf(c) != -1
-                    || c.indexOf(citiesObj[j].municipio.toLowerCase()) != -1) {
+                if (citiesObj[j].municipio.toLowerCase() == c) {
                     coord = [citiesObj[j].longitud, citiesObj[j].latitud];
                     cities[c] = coord;
                     found = true;
@@ -122,6 +123,7 @@ topgithub.prototype.getLonLat = function(city) {
     }
 
     if (!found) {
+        notfound++;
         // console.log(city);
     }
     return coord;

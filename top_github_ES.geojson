@@ -6,25 +6,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6441835",
-                    "42.8179879"
-                ]
-            },
-            "properties": {
-                "position": "1",
-                "username": "quickapps",
-                "commits": "26305",
-                "stars": "139",
-                "languages": "PHP",
-                "city": "Pamplona, Navarra - Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/1129842?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "2.1699187",
                     "41.387917"
                 ]
@@ -44,8 +25,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -63,8 +44,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -101,8 +82,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -177,8 +158,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -196,8 +177,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -215,8 +196,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -234,8 +215,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -272,8 +253,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -291,27 +272,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.2950183",
-                    "37.4850307"
-                ]
-            },
-            "properties": {
-                "position": "19",
-                "username": "javiereguiluz",
-                "commits": "2372",
-                "stars": "1566",
-                "languages": "PHP",
-                "city": "Vitoria-Gasteiz (Spain)",
-                "avatar": "https://avatars0.githubusercontent.com/u/73419?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -329,27 +291,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6441835",
-                    "42.8179879"
-                ]
-            },
-            "properties": {
-                "position": "21",
-                "username": "jotegui",
-                "commits": "2348",
-                "stars": "7",
-                "languages": "Python",
-                "city": "Pamplona, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/642210?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -386,8 +329,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -424,8 +367,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -443,8 +386,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -462,8 +405,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -500,8 +443,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -519,8 +462,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -538,8 +481,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.140374",
-                    "37.8833504"
+                    "-1.366216",
+                    "38.1398141"
                 ]
             },
             "properties": {
@@ -576,8 +519,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -595,8 +538,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -607,44 +550,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid",
                 "avatar": "https://avatars3.githubusercontent.com/u/203395?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.6441835",
-                    "42.8179879"
-                ]
-            },
-            "properties": {
-                "position": "38",
-                "username": "aitoroses",
-                "commits": "1844",
-                "stars": "19",
-                "languages": "JavaScript",
-                "city": "Pamplona, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1699368?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9844474",
-                    "43.3208116"
-                ]
-            },
-            "properties": {
-                "position": "39",
-                "username": "ojoven",
-                "commits": "1844",
-                "stars": "12",
-                "languages": "PHP",
-                "city": "Donostia - San Sebastián",
-                "avatar": "https://avatars2.githubusercontent.com/u/772734?v=3&s=64"
             }
         },
         {
@@ -671,8 +576,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -747,8 +652,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -785,8 +690,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -804,8 +709,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -823,27 +728,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.3865961",
-                    "39.5452354"
-                ]
-            },
-            "properties": {
-                "position": "53",
-                "username": "pakozm",
-                "commits": "1559",
-                "stars": "140",
-                "languages": "Lua",
-                "city": "Alfara del Patriarca (Valencia), Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/2655921?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -880,8 +766,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -899,8 +785,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -937,8 +823,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -956,8 +842,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -975,8 +861,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -994,8 +880,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1013,8 +899,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1032,8 +918,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1089,8 +975,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -1108,8 +994,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1165,8 +1051,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1184,8 +1070,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1203,8 +1089,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1279,27 +1165,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.366216",
-                    "38.1398141"
-                ]
-            },
-            "properties": {
-                "position": "82",
-                "username": "elenatorro",
-                "commits": "1279",
-                "stars": "28",
-                "languages": "JavaScript",
-                "city": "Alicante & Murcia (Spain)",
-                "avatar": "https://avatars3.githubusercontent.com/u/3824953?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1393,27 +1260,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-15.4300065",
-                    "28.1248227"
-                ]
-            },
-            "properties": {
-                "position": "88",
-                "username": "ancorgs",
-                "commits": "1247",
-                "stars": "0",
-                "languages": "Ruby",
-                "city": "Gran Canaria",
-                "avatar": "https://avatars0.githubusercontent.com/u/3638289?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -1450,8 +1298,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -1488,8 +1336,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1500,25 +1348,6 @@
                 "languages": "Lua",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/63131?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-16.3147761",
-                    "28.4881163"
-                ]
-            },
-            "properties": {
-                "position": "95",
-                "username": "crguezl",
-                "commits": "1195",
-                "stars": "46",
-                "languages": "Ruby",
-                "city": "La Laguna. Tenerife",
-                "avatar": "https://avatars2.githubusercontent.com/u/1142554?v=3&s=64"
             }
         },
         {
@@ -1550,25 +1379,6 @@
                 ]
             },
             "properties": {
-                "position": "97",
-                "username": "blaiprat",
-                "commits": "1187",
-                "stars": "79",
-                "languages": "JavaScript",
-                "city": "London & Barcelona",
-                "avatar": "https://avatars2.githubusercontent.com/u/723386?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
                 "position": "99",
                 "username": "areski",
                 "commits": "1183",
@@ -1583,8 +1393,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1602,27 +1412,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-8.5463034",
-                    "42.8804471"
-                ]
-            },
-            "properties": {
-                "position": "101",
-                "username": "fdansv",
-                "commits": "1177",
-                "stars": "19",
-                "languages": "Java",
-                "city": "Madrid / Santiago de Compostela",
-                "avatar": "https://avatars3.githubusercontent.com/u/3707222?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1633,25 +1424,6 @@
                 "languages": "Ruby",
                 "city": "Madrid",
                 "avatar": "https://avatars3.githubusercontent.com/u/1685489?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-2.9234409",
-                    "43.2569629"
-                ]
-            },
-            "properties": {
-                "position": "103",
-                "username": "soyjavi",
-                "commits": "1134",
-                "stars": "897",
-                "languages": "CoffeeScript",
-                "city": "Bilbao ✈︎ Chiang Mai ✈︎ London",
-                "avatar": "https://avatars0.githubusercontent.com/u/559654?v=3&s=64"
             }
         },
         {
@@ -1671,44 +1443,6 @@
                 "languages": "PHP",
                 "city": "Barcelona",
                 "avatar": "https://avatars1.githubusercontent.com/u/241725?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-16.2548558",
-                    "28.46981"
-                ]
-            },
-            "properties": {
-                "position": "106",
-                "username": "Madh93",
-                "commits": "1123",
-                "stars": "5",
-                "languages": "C++",
-                "city": "Tenerife, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5855179?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-16.2548558",
-                    "28.46981"
-                ]
-            },
-            "properties": {
-                "position": "107",
-                "username": "Rayco",
-                "commits": "1122",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Canary Islands, Tenerife, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/249454?v=3&s=64"
             }
         },
         {
@@ -1754,8 +1488,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1849,27 +1583,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.4809945",
-                    "38.34521"
-                ]
-            },
-            "properties": {
-                "position": "116",
-                "username": "joakin",
-                "commits": "1083",
-                "stars": "75",
-                "languages": "JavaScript",
-                "city": "Alicante, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/657839?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -1887,8 +1602,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -1968,25 +1683,6 @@
                 ]
             },
             "properties": {
-                "position": "122",
-                "username": "MaximeHeckel",
-                "commits": "1060",
-                "stars": "51",
-                "languages": "JavaScript",
-                "city": "Strasbourg, France / Madrid, Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/2974412?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
-                ]
-            },
-            "properties": {
                 "position": "123",
                 "username": "jcaden",
                 "commits": "1058",
@@ -2001,8 +1697,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2039,8 +1735,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2058,8 +1754,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2077,8 +1773,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2115,8 +1811,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -2210,27 +1906,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "139",
-                "username": "danigb",
-                "commits": "971",
-                "stars": "81",
-                "languages": "JavaScript",
-                "city": "seville, spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/7457?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -2267,8 +1944,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.5700746",
-                    "36.957424"
+                    "-2.4679217",
+                    "36.8401638"
                 ]
             },
             "properties": {
@@ -2324,8 +2001,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2343,8 +2020,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2476,27 +2153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6441835",
-                    "42.8179879"
-                ]
-            },
-            "properties": {
-                "position": "156",
-                "username": "amatriain",
-                "commits": "922",
-                "stars": "56",
-                "languages": "Ruby",
-                "city": "Pamplona",
-                "avatar": "https://avatars3.githubusercontent.com/u/1439986?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2514,8 +2172,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -2533,27 +2191,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6975995",
-                    "37.675267"
-                ]
-            },
-            "properties": {
-                "position": "159",
-                "username": "e0ipso",
-                "commits": "910",
-                "stars": "100",
-                "languages": "PHP",
-                "city": "Ca'n Picafort, Mallorca, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/1140906?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -2571,8 +2210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2590,8 +2229,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2609,8 +2248,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2621,25 +2260,6 @@
                 "languages": "C++",
                 "city": "Madrid",
                 "avatar": "https://avatars3.githubusercontent.com/u/409013?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.7003454",
-                    "40.4166909"
-                ]
-            },
-            "properties": {
-                "position": "164",
-                "username": "ibc",
-                "commits": "895",
-                "stars": "147",
-                "languages": "JavaScript",
-                "city": "Bilbao & Madrid",
-                "avatar": "https://avatars3.githubusercontent.com/u/16191?v=3&s=64"
             }
         },
         {
@@ -2666,8 +2286,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2742,8 +2362,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2761,8 +2381,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2780,8 +2400,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2799,8 +2419,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2818,8 +2438,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2837,8 +2457,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2856,27 +2476,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.4200163",
-                    "36.7196484"
-                ]
-            },
-            "properties": {
-                "position": "177",
-                "username": "andresgnlez",
-                "commits": "858",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Madrid / Málaga",
-                "avatar": "https://avatars3.githubusercontent.com/u/999124?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -2932,27 +2533,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.4809945",
-                    "38.34521"
-                ]
-            },
-            "properties": {
-                "position": "185",
-                "username": "lronaldo",
-                "commits": "839",
-                "stars": "25",
-                "languages": "Makefile",
-                "city": "Alicante",
-                "avatar": "https://avatars2.githubusercontent.com/u/1193368?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -2970,27 +2552,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "0.3371799",
-                    "42.5816617"
-                ]
-            },
-            "properties": {
-                "position": "187",
-                "username": "tombatossals",
-                "commits": "833",
-                "stars": "184",
-                "languages": "JavaScript",
-                "city": "Castelló de la Plana",
-                "avatar": "https://avatars1.githubusercontent.com/u/124169?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3008,8 +2571,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3027,8 +2590,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3046,8 +2609,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3065,8 +2628,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3084,8 +2647,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -3103,8 +2666,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -3115,25 +2678,6 @@
                 "languages": "PHP",
                 "city": "Granada, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/3321099?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.7003454",
-                    "40.4166909"
-                ]
-            },
-            "properties": {
-                "position": "197",
-                "username": "camposer",
-                "commits": "788",
-                "stars": "17",
-                "languages": "Java",
-                "city": "Madrid/España",
-                "avatar": "https://avatars3.githubusercontent.com/u/313803?v=3&s=64"
             }
         },
         {
@@ -3160,27 +2704,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "201",
-                "username": "msune",
-                "commits": "775",
-                "stars": "5",
-                "languages": "Shell",
-                "city": "Barcelona / US",
-                "avatar": "https://avatars2.githubusercontent.com/u/1881210?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3198,8 +2723,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3274,8 +2799,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.1664119",
-                    "36.7419619"
+                    "-3.7122577",
+                    "40.5990717"
                 ]
             },
             "properties": {
@@ -3331,8 +2856,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3350,8 +2875,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3369,8 +2894,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7646191",
-                    "37.7616494"
+                    "-3.7895177",
+                    "37.7657389"
                 ]
             },
             "properties": {
@@ -3381,25 +2906,6 @@
                 "languages": "R",
                 "city": "Jaén, Granada, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/8365501?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.8692269",
-                    "43.5101236"
-                ]
-            },
-            "properties": {
-                "position": "215",
-                "username": "davidmogar",
-                "commits": "753",
-                "stars": "29",
-                "languages": "CSS",
-                "city": "Asturias, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1498203?v=3&s=64"
             }
         },
         {
@@ -3502,8 +3008,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3521,8 +3027,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -3540,8 +3046,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3559,8 +3065,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3578,8 +3084,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3597,8 +3103,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3654,8 +3160,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3673,8 +3179,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3692,8 +3198,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3749,8 +3255,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3768,8 +3274,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3787,27 +3293,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "246",
-                "username": "ruben1",
-                "commits": "673",
-                "stars": "23",
-                "languages": "JavaScript",
-                "city": "Barcelona ☼",
-                "avatar": "https://avatars0.githubusercontent.com/u/4315770?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3844,8 +3331,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -3863,8 +3350,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3901,8 +3388,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3920,8 +3407,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -3958,27 +3445,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.8241568",
-                    "37.6549298"
-                ]
-            },
-            "properties": {
-                "position": "256",
-                "username": "alexsavio",
-                "commits": "661",
-                "stars": "7",
-                "languages": "Python",
-                "city": "San Sebastián, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2472076?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -3996,8 +3464,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -4053,8 +3521,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4072,8 +3540,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.7465977",
-                    "40.9607395"
+                    "-5.6630253",
+                    "40.9649681"
                 ]
             },
             "properties": {
@@ -4091,8 +3559,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4110,8 +3578,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "0.7055162",
-                    "41.5532128"
+                    "0.6257825",
+                    "41.6141518"
                 ]
             },
             "properties": {
@@ -4129,8 +3597,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4167,8 +3635,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4186,8 +3654,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4198,25 +3666,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/1312023?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9795743",
-                    "40.223488"
-                ]
-            },
-            "properties": {
-                "position": "270",
-                "username": "ctemescw",
-                "commits": "629",
-                "stars": "8",
-                "languages": "OpenSCAD",
-                "city": "A Coruña, Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/7196387?v=3&s=64"
             }
         },
         {
@@ -4243,8 +3692,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.9819105",
-                    "38.6724072"
+                    "-3.7589882",
+                    "40.326422"
                 ]
             },
             "properties": {
@@ -4281,8 +3730,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4300,8 +3749,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -4319,8 +3768,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4357,27 +3806,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.9844474",
-                    "43.3208116"
-                ]
-            },
-            "properties": {
-                "position": "278",
-                "username": "rmhdev",
-                "commits": "623",
-                "stars": "41",
-                "languages": "PHP",
-                "city": "Donostia",
-                "avatar": "https://avatars3.githubusercontent.com/u/593433?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -4395,46 +3825,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "280",
-                "username": "javiersantos",
-                "commits": "620",
-                "stars": "182",
-                "languages": "Java",
-                "city": "Seville, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2229658?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.8692269",
-                    "43.5101236"
-                ]
-            },
-            "properties": {
-                "position": "281",
-                "username": "bigardone",
-                "commits": "618",
-                "stars": "87",
-                "languages": "JavaScript",
-                "city": "Asturias, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1090272?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4452,8 +3844,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4471,8 +3863,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4509,8 +3901,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.6210019",
-                    "37.8800901"
+                    "-3.6358445",
+                    "38.0936199"
                 ]
             },
             "properties": {
@@ -4547,8 +3939,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4559,25 +3951,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/905006?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.8692269",
-                    "43.5101236"
-                ]
-            },
-            "properties": {
-                "position": "289",
-                "username": "brenes",
-                "commits": "601",
-                "stars": "55",
-                "languages": "Ruby",
-                "city": "Asturias",
-                "avatar": "https://avatars2.githubusercontent.com/u/246018?v=3&s=64"
             }
         },
         {
@@ -4604,8 +3977,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4623,8 +3996,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4661,8 +4034,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4699,25 +4072,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-16.2548558",
-                    "28.46981"
-                ]
-            },
-            "properties": {
-                "position": "300",
-                "username": "Nazariglez",
-                "commits": "589",
-                "stars": "21",
-                "languages": "JavaScript",
-                "city": "Tenerife, Canary Islands",
-                "avatar": "https://avatars3.githubusercontent.com/u/1929191?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-6.2926569",
                     "36.5296879"
                 ]
@@ -4730,25 +4084,6 @@
                 "languages": "Swift",
                 "city": "Cádiz, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/2835739?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "2.6165625",
-                    "39.5719201"
-                ]
-            },
-            "properties": {
-                "position": "302",
-                "username": "gallir",
-                "commits": "587",
-                "stars": "161",
-                "languages": "Shell",
-                "city": "Palma de Mallorca, Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/140303?v=3&s=64"
             }
         },
         {
@@ -4775,46 +4110,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7326773",
-                    "40.3049763"
-                ]
-            },
-            "properties": {
-                "position": "304",
-                "username": "Diseinuak",
-                "commits": "583",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "Getafe - Madrid, España",
-                "avatar": "https://avatars0.githubusercontent.com/u/7121606?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "305",
-                "username": "Deathsbreed",
-                "commits": "582",
-                "stars": "3",
-                "languages": "Java",
-                "city": "Seville, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/6626993?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4870,8 +4167,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4889,8 +4186,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -4927,8 +4224,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -5003,25 +4300,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "317",
-                "username": "unamaria",
-                "commits": "568",
-                "stars": "0",
-                "languages": "HTML",
-                "city": "Austin / Barcelona",
-                "avatar": "https://avatars1.githubusercontent.com/u/8292440?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-5.6619264",
                     "43.5452608"
                 ]
@@ -5060,8 +4338,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5098,8 +4376,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5117,8 +4395,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5136,8 +4414,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5148,25 +4426,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/667284?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.8692269",
-                    "43.5101236"
-                ]
-            },
-            "properties": {
-                "position": "325",
-                "username": "labra",
-                "commits": "555",
-                "stars": "30",
-                "languages": "Scala",
-                "city": "Asturias",
-                "avatar": "https://avatars1.githubusercontent.com/u/308369?v=3&s=64"
             }
         },
         {
@@ -5193,8 +4452,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5231,8 +4490,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -5250,8 +4509,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5269,8 +4528,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5326,8 +4585,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -5345,8 +4604,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5364,8 +4623,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5383,8 +4642,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -5402,8 +4661,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5459,8 +4718,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5478,8 +4737,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5059771",
-                    "43.3581578"
+                    "-2.5646665",
+                    "42.4307377"
                 ]
             },
             "properties": {
@@ -5573,8 +4832,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -5592,8 +4851,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -5611,8 +4870,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -5649,8 +4908,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5687,25 +4946,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7003454",
-                    "40.4166909"
-                ]
-            },
-            "properties": {
-                "position": "361",
-                "username": "danielo515",
-                "commits": "514",
-                "stars": "14",
-                "languages": "JavaScript",
-                "city": "Madrid Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2270425?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-4.7283811",
                     "41.6529434"
                 ]
@@ -5718,25 +4958,6 @@
                 "languages": "Java",
                 "city": "Valladolid , Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/741240?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-2.4679217",
-                    "36.8401638"
-                ]
-            },
-            "properties": {
-                "position": "363",
-                "username": "germaaan",
-                "commits": "513",
-                "stars": "7",
-                "languages": "CSS",
-                "city": "Granada / Almería (Andalucía), Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5518719?v=3&s=64"
             }
         },
         {
@@ -5763,8 +4984,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5775,25 +4996,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid (Spain)",
                 "avatar": "https://avatars3.githubusercontent.com/u/43780?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.7003454",
-                    "40.4166909"
-                ]
-            },
-            "properties": {
-                "position": "366",
-                "username": "saleiva",
-                "commits": "511",
-                "stars": "98",
-                "languages": "JavaScript",
-                "city": "Madrid and NYC",
-                "avatar": "https://avatars0.githubusercontent.com/u/132149?v=3&s=64"
             }
         },
         {
@@ -5858,8 +5060,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.140374",
-                    "37.8833504"
+                    "-1.366216",
+                    "38.1398141"
                 ]
             },
             "properties": {
@@ -5896,8 +5098,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -5915,8 +5117,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5934,8 +5136,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -5972,44 +5174,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6975995",
-                    "37.675267"
-                ]
-            },
-            "properties": {
-                "position": "376",
-                "username": "carmichaelalonso",
-                "commits": "503",
-                "stars": "1",
-                "languages": "C#",
-                "city": "Mallorca, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/4891252?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.5059771",
-                    "43.3581578"
-                ]
-            },
-            "properties": {
-                "position": "377",
-                "username": "jgoizueta",
-                "commits": "502",
-                "stars": "78",
-                "languages": "Ruby",
-                "city": "Tudela (Navarra) - SPAIN",
-                "avatar": "https://avatars3.githubusercontent.com/u/5909?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-5.844781",
                     "43.3602994"
                 ]
@@ -6029,8 +5193,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.4067647",
-                    "40.2969929"
+                    "-2.1340053",
+                    "40.0718353"
                 ]
             },
             "properties": {
@@ -6086,8 +5250,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6105,8 +5269,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -6124,8 +5288,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6143,8 +5307,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -6162,8 +5326,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -6181,8 +5345,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6200,8 +5364,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -6238,25 +5402,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "391",
-                "username": "pitbulk",
-                "commits": "493",
-                "stars": "35",
-                "languages": "PHP",
-                "city": "Seville",
-                "avatar": "https://avatars1.githubusercontent.com/u/600897?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-3.8079336",
                     "43.4609602"
                 ]
@@ -6276,8 +5421,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -6314,8 +5459,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -6352,8 +5497,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7646191",
-                    "37.7616494"
+                    "-3.7895177",
+                    "37.7657389"
                 ]
             },
             "properties": {
@@ -6409,8 +5554,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6421,25 +5566,6 @@
                 "languages": "Python",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/2630720?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9844474",
-                    "43.3208116"
-                ]
-            },
-            "properties": {
-                "position": "407",
-                "username": "ragerri",
-                "commits": "482",
-                "stars": "2",
-                "languages": "Java",
-                "city": "Donostia-San Sebastian",
-                "avatar": "https://avatars3.githubusercontent.com/u/419327?v=3&s=64"
             }
         },
         {
@@ -6466,25 +5592,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.2950183",
-                    "37.4850307"
-                ]
-            },
-            "properties": {
-                "position": "409",
-                "username": "Achifaifa",
-                "commits": "480",
-                "stars": "8",
-                "languages": "Python",
-                "city": "Vitoria, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/5968349?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-4.7791517",
                     "37.8847267"
                 ]
@@ -6504,8 +5611,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6523,8 +5630,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6599,8 +5706,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -6637,8 +5744,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6656,8 +5763,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6675,8 +5782,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6713,8 +5820,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6751,8 +5858,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6770,8 +5877,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6782,25 +5889,6 @@
                 "languages": "C++",
                 "city": "Madrid",
                 "avatar": "https://avatars1.githubusercontent.com/u/3091487?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.4809945",
-                    "38.34521"
-                ]
-            },
-            "properties": {
-                "position": "429",
-                "username": "SametSisartenep",
-                "commits": "466",
-                "stars": "10",
-                "languages": "JavaScript",
-                "city": "Alicante, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/6894991?v=3&s=64"
             }
         },
         {
@@ -6846,8 +5934,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6903,8 +5991,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6922,8 +6010,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -6941,8 +6029,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6960,8 +6048,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -6979,8 +6067,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -6998,8 +6086,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7017,8 +6105,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -7036,8 +6124,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7055,8 +6143,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7074,8 +6162,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -7093,8 +6181,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7131,8 +6219,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -7150,8 +6238,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7162,44 +6250,6 @@
                 "languages": "C#",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/3109851?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.4809945",
-                    "38.34521"
-                ]
-            },
-            "properties": {
-                "position": "454",
-                "username": "wigsyboy",
-                "commits": "447",
-                "stars": "0",
-                "languages": "Java",
-                "city": "Alicante, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/5941574?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "3.1143682",
-                    "42.3146032"
-                ]
-            },
-            "properties": {
-                "position": "455",
-                "username": "caiomsouza",
-                "commits": "445",
-                "stars": "1",
-                "languages": "Python",
-                "city": "Madrid / São Paulo",
-                "avatar": "https://avatars2.githubusercontent.com/u/494303?v=3&s=64"
             }
         },
         {
@@ -7245,8 +6295,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7264,8 +6314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7302,27 +6352,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-16.2548558",
-                    "28.46981"
-                ]
-            },
-            "properties": {
-                "position": "463",
-                "username": "axelhzf",
-                "commits": "437",
-                "stars": "58",
-                "languages": "JavaScript",
-                "city": "Tenerife, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/175627?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -7340,8 +6371,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7359,8 +6390,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -7378,8 +6409,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7397,8 +6428,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -7435,8 +6466,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -7568,25 +6599,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7003454",
-                    "40.4166909"
-                ]
-            },
-            "properties": {
-                "position": "479",
-                "username": "cblanco",
-                "commits": "428",
-                "stars": "0",
-                "languages": "",
-                "city": "UPM madrid",
-                "avatar": "https://avatars2.githubusercontent.com/u/3510628?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "2.1699187",
                     "41.387917"
                 ]
@@ -7606,8 +6618,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7625,8 +6637,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -7644,8 +6656,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.140374",
-                    "37.8833504"
+                    "-1.366216",
+                    "38.1398141"
                 ]
             },
             "properties": {
@@ -7656,25 +6668,6 @@
                 "languages": "JavaScript",
                 "city": "Murcia, España",
                 "avatar": "https://avatars3.githubusercontent.com/u/1055699?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.5979291",
-                    "37.1764874"
-                ]
-            },
-            "properties": {
-                "position": "484",
-                "username": "pacastillo",
-                "commits": "425",
-                "stars": "4",
-                "languages": "Java",
-                "city": "Granada (Andalucía, Spain)",
-                "avatar": "https://avatars3.githubusercontent.com/u/2456?v=3&s=64"
             }
         },
         {
@@ -7701,8 +6694,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -7777,8 +6770,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7815,8 +6808,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -7834,8 +6827,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7853,27 +6846,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "495",
-                "username": "griba2001",
-                "commits": "416",
-                "stars": "1",
-                "languages": "Haskell",
-                "city": "Tiana (near Barcelona) Catalonia - Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/3755863?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7910,8 +6884,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -7967,8 +6941,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7646191",
-                    "37.7616494"
+                    "-3.7895177",
+                    "37.7657389"
                 ]
             },
             "properties": {
@@ -7986,8 +6960,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -8138,8 +7112,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.7646191",
-                    "37.7616494"
+                    "-3.7895177",
+                    "37.7657389"
                 ]
             },
             "properties": {
@@ -8157,8 +7131,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -8214,8 +7188,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8252,8 +7226,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8290,8 +7264,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8328,65 +7302,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.4200163",
-                    "36.7196484"
-                ]
-            },
-            "properties": {
-                "position": "523",
-                "username": "ban007",
-                "commits": "397",
-                "stars": "0",
-                "languages": "PHP",
-                "city": "Málaga/España",
-                "avatar": "https://avatars2.githubusercontent.com/u/3278508?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8765379",
-                    "41.6562873"
-                ]
-            },
-            "properties": {
-                "position": "524",
-                "username": "nestorsalceda",
-                "commits": "397",
-                "stars": "112",
-                "languages": "Ruby",
-                "city": "Zaragoza / Madrid",
-                "avatar": "https://avatars2.githubusercontent.com/u/310141?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-3.7003454",
                     "40.4166909"
-                ]
-            },
-            "properties": {
-                "position": "525",
-                "username": "cristianprofile",
-                "commits": "397",
-                "stars": "3",
-                "languages": "Java",
-                "city": "Madrid/ Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/7360956?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
                 ]
             },
             "properties": {
@@ -8404,8 +7321,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8423,8 +7340,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8461,8 +7378,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.8520904",
-                    "39.754686"
+                    "-4.0244759",
+                    "39.8567775"
                 ]
             },
             "properties": {
@@ -8480,8 +7397,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -8499,8 +7416,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8518,8 +7435,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8537,8 +7454,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8556,8 +7473,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -8575,8 +7492,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8587,25 +7504,6 @@
                 "languages": "Groovy",
                 "city": "Madrid",
                 "avatar": "https://avatars1.githubusercontent.com/u/1414131?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.6975995",
-                    "37.675267"
-                ]
-            },
-            "properties": {
-                "position": "540",
-                "username": "tonydspaniard",
-                "commits": "390",
-                "stars": "288",
-                "languages": "PHP",
-                "city": "Mallorca, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/566016?v=3&s=64"
             }
         },
         {
@@ -8689,8 +7587,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8765,8 +7663,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -8822,27 +7720,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "557",
-                "username": "fjcarreterox",
-                "commits": "382",
-                "stars": "0",
-                "languages": "PHP",
-                "city": "Seville, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/1847146?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8898,8 +7777,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8917,8 +7796,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8936,27 +7815,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "563",
-                "username": "pabarcgar",
-                "commits": "378",
-                "stars": "1",
-                "languages": "Java",
-                "city": "Seville, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/2338089?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -8974,8 +7834,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -8993,8 +7853,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9031,8 +7891,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -9088,8 +7948,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9145,8 +8005,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -9202,8 +8062,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -9221,8 +8081,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.0472188",
-                    "40.6818526"
+                    "-3.1664931",
+                    "40.629816"
                 ]
             },
             "properties": {
@@ -9240,8 +8100,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "0.7055162",
-                    "41.5532128"
+                    "0.6257825",
+                    "41.6141518"
                 ]
             },
             "properties": {
@@ -9259,8 +8119,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9297,8 +8157,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9335,8 +8195,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.140374",
-                    "37.8833504"
+                    "-1.366216",
+                    "38.1398141"
                 ]
             },
             "properties": {
@@ -9373,8 +8233,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -9392,8 +8252,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9449,8 +8309,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.140374",
-                    "37.8833504"
+                    "-1.366216",
+                    "38.1398141"
                 ]
             },
             "properties": {
@@ -9499,25 +8359,6 @@
                 "languages": "Java",
                 "city": "Barcelona",
                 "avatar": "https://avatars2.githubusercontent.com/u/456499?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9795743",
-                    "40.223488"
-                ]
-            },
-            "properties": {
-                "position": "602",
-                "username": "jesusprubio",
-                "commits": "359",
-                "stars": "139",
-                "languages": "JavaScript",
-                "city": "A Coruña",
-                "avatar": "https://avatars2.githubusercontent.com/u/2753855?v=3&s=64"
             }
         },
         {
@@ -9582,8 +8423,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -9601,8 +8442,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9658,8 +8499,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9355971",
-                    "39.1312824"
+                    "-3.8003288",
+                    "40.283873"
                 ]
             },
             "properties": {
@@ -9677,8 +8518,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9696,8 +8537,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9734,8 +8575,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9772,8 +8613,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -9791,8 +8632,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9829,8 +8670,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9905,8 +8746,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -9924,27 +8765,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.6165625",
-                    "39.5719201"
-                ]
-            },
-            "properties": {
-                "position": "629",
-                "username": "FdezI",
-                "commits": "345",
-                "stars": "0",
-                "languages": "CSS",
-                "city": "Lanzarote, Las Palmas (España)",
-                "avatar": "https://avatars3.githubusercontent.com/u/5569540?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -9955,25 +8777,6 @@
                 "languages": "PHP",
                 "city": "Granada",
                 "avatar": "https://avatars1.githubusercontent.com/u/11256974?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9844474",
-                    "43.3208116"
-                ]
-            },
-            "properties": {
-                "position": "631",
-                "username": "daviddesancho",
-                "commits": "345",
-                "stars": "0",
-                "languages": "Python",
-                "city": "Donostia - San Sebastián",
-                "avatar": "https://avatars1.githubusercontent.com/u/1177446?v=3&s=64"
             }
         },
         {
@@ -10057,8 +8860,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -10114,8 +8917,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10133,8 +8936,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10190,8 +8993,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10209,8 +9012,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10247,25 +9050,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-6.1371725",
-                    "36.6865618"
-                ]
-            },
-            "properties": {
-                "position": "647",
-                "username": "mgidney",
-                "commits": "335",
-                "stars": "1",
-                "languages": "Python",
-                "city": "Jerez",
-                "avatar": "https://avatars2.githubusercontent.com/u/193646?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "2.1699187",
                     "41.387917"
                 ]
@@ -10285,8 +9069,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.5836511",
-                    "37.2492033"
+                    "-4.5311748",
+                    "42.0124584"
                 ]
             },
             "properties": {
@@ -10297,25 +9081,6 @@
                 "languages": "Java",
                 "city": "Palencia, Spain",
                 "avatar": "https://avatars1.githubusercontent.com/u/5640366?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9795743",
-                    "40.223488"
-                ]
-            },
-            "properties": {
-                "position": "650",
-                "username": "inercia",
-                "commits": "334",
-                "stars": "20",
-                "languages": "Python",
-                "city": "A Coruña, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/1841612?v=3&s=64"
             }
         },
         {
@@ -10342,8 +9107,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.7501452",
-                    "42.2792952"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -10380,8 +9145,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10399,46 +9164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.3768049",
-                    "39.4702393"
-                ]
-            },
-            "properties": {
-                "position": "655",
-                "username": "gponsu",
-                "commits": "331",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Valencia / Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/1218494?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-16.2548558",
-                    "28.46981"
-                ]
-            },
-            "properties": {
-                "position": "656",
-                "username": "Al3XKOoL",
-                "commits": "331",
-                "stars": "5",
-                "languages": "Makefile",
-                "city": "Tenerife. Canary islands. Spain",
-                "avatar": "https://avatars3.githubusercontent.com/u/6851981?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10494,27 +9221,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.5855932",
-                    "43.3801347"
-                ]
-            },
-            "properties": {
-                "position": "660",
-                "username": "xmaeztu",
-                "commits": "330",
-                "stars": "1",
-                "languages": "Ruby",
-                "city": "Iruñea, Nafarroa",
-                "avatar": "https://avatars3.githubusercontent.com/u/703490?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -10532,8 +9240,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.7465977",
-                    "40.9607395"
+                    "-5.6630253",
+                    "40.9649681"
                 ]
             },
             "properties": {
@@ -10570,8 +9278,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -10589,8 +9297,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -10627,8 +9335,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -10684,8 +9392,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10722,8 +9430,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -10734,25 +9442,6 @@
                 "languages": "CSS",
                 "city": "Sevilla, Andalucía, España",
                 "avatar": "https://avatars3.githubusercontent.com/u/10972531?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "0.710633",
-                    "42.8100446"
-                ]
-            },
-            "properties": {
-                "position": "676",
-                "username": "ojgarciab",
-                "commits": "324",
-                "stars": "1",
-                "languages": "Java",
-                "city": "Mostoles (Madrid - Spain)",
-                "avatar": "https://avatars2.githubusercontent.com/u/4188035?v=3&s=64"
             }
         },
         {
@@ -10798,8 +9487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10874,8 +9563,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10912,8 +9601,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -10931,8 +9620,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -10988,8 +9677,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11007,8 +9696,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11064,25 +9753,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.3768049",
-                    "39.4702393"
-                ]
-            },
-            "properties": {
-                "position": "698",
-                "username": "jlaso",
-                "commits": "314",
-                "stars": "51",
-                "languages": "PHP",
-                "city": "46010 Valencia (Spain)",
-                "avatar": "https://avatars1.githubusercontent.com/u/1332197?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "2.1699187",
                     "41.387917"
                 ]
@@ -11102,8 +9772,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11121,8 +9791,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11159,8 +9829,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11197,8 +9867,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11209,25 +9879,6 @@
                 "languages": "CSS",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars0.githubusercontent.com/u/6791788?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "2.6165625",
-                    "39.5719201"
-                ]
-            },
-            "properties": {
-                "position": "706",
-                "username": "fernandoPalaciosGit",
-                "commits": "311",
-                "stars": "6",
-                "languages": "JavaScript",
-                "city": "Palma de Mallorca",
-                "avatar": "https://avatars0.githubusercontent.com/u/4712282?v=3&s=64"
             }
         },
         {
@@ -11247,25 +9898,6 @@
                 "languages": "Python",
                 "city": "Valladolid, Spain",
                 "avatar": "https://avatars3.githubusercontent.com/u/10577978?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "2.6165625",
-                    "39.5719201"
-                ]
-            },
-            "properties": {
-                "position": "708",
-                "username": "marcin-wosinek",
-                "commits": "310",
-                "stars": "5",
-                "languages": "JavaScript",
-                "city": "Las Palmas de GC, Spain",
-                "avatar": "https://avatars1.githubusercontent.com/u/1024920?v=3&s=64"
             }
         },
         {
@@ -11311,8 +9943,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11368,8 +10000,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -11387,8 +10019,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -11406,8 +10038,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11425,8 +10057,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11444,8 +10076,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11482,8 +10114,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11501,8 +10133,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11539,8 +10171,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11558,8 +10190,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11577,8 +10209,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11615,8 +10247,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11634,8 +10266,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -11710,8 +10342,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -11729,8 +10361,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -11767,8 +10399,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -11786,8 +10418,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11805,8 +10437,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11824,8 +10456,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11862,8 +10494,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11881,8 +10513,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -11900,8 +10532,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11919,8 +10551,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11957,8 +10589,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -11976,8 +10608,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -12014,8 +10646,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12052,8 +10684,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.5700746",
-                    "36.957424"
+                    "-2.4679217",
+                    "36.8401638"
                 ]
             },
             "properties": {
@@ -12090,8 +10722,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12109,8 +10741,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12147,44 +10779,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "764",
-                "username": "mtbtiago",
-                "commits": "292",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Menorca and Barcelona",
-                "avatar": "https://avatars0.githubusercontent.com/u/10105692?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "765",
-                "username": "felgari",
-                "commits": "292",
-                "stars": "1",
-                "languages": "Python",
-                "city": "Seville, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/2650006?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "-3.8288109",
                     "40.3491158"
                 ]
@@ -12197,25 +10791,6 @@
                 "languages": "Python",
                 "city": "Alcorcón, Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/186349?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9795743",
-                    "40.223488"
-                ]
-            },
-            "properties": {
-                "position": "768",
-                "username": "jbgutierrez",
-                "commits": "291",
-                "stars": "74",
-                "languages": "Ruby",
-                "city": "A Coruña, Galicia, España",
-                "avatar": "https://avatars3.githubusercontent.com/u/24221?v=3&s=64"
             }
         },
         {
@@ -12299,25 +10874,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.2950183",
-                    "37.4850307"
-                ]
-            },
-            "properties": {
-                "position": "773",
-                "username": "jonabasque",
-                "commits": "289",
-                "stars": "3",
-                "languages": "JavaScript",
-                "city": "Vitoria-Gasteiz (Basque Country)",
-                "avatar": "https://avatars3.githubusercontent.com/u/1707606?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
                     "2.1699187",
                     "41.387917"
                 ]
@@ -12356,8 +10912,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12432,8 +10988,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12470,8 +11026,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12489,8 +11045,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -12508,27 +11064,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "788",
-                "username": "goinnn",
-                "commits": "286",
-                "stars": "306",
-                "languages": "Python",
-                "city": "Seville, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/1101467?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -12546,8 +11083,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12565,8 +11102,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12584,8 +11121,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12603,8 +11140,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12641,8 +11178,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12698,8 +11235,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -12736,8 +11273,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -12755,8 +11292,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12774,27 +11311,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.4809945",
-                    "38.34521"
-                ]
-            },
-            "properties": {
-                "position": "811",
-                "username": "dviejo",
-                "commits": "279",
-                "stars": "6",
-                "languages": "OpenSCAD",
-                "city": "Alicante, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/3328923?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -12831,8 +11349,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12850,8 +11368,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12869,8 +11387,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -12907,8 +11425,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12926,8 +11444,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -12945,8 +11463,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13021,8 +11539,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -13040,8 +11558,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13097,8 +11615,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13116,27 +11634,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.6165625",
-                    "39.5719201"
-                ]
-            },
-            "properties": {
-                "position": "831",
-                "username": "claunia",
-                "commits": "269",
-                "stars": "10",
-                "languages": "C#",
-                "city": "Las Palmas de Gran Canaria",
-                "avatar": "https://avatars3.githubusercontent.com/u/1234569?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13192,8 +11691,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13211,8 +11710,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13268,8 +11767,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13325,8 +11824,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13363,8 +11862,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13420,8 +11919,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13439,8 +11938,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13477,8 +11976,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13496,27 +11995,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "853",
-                "username": "jorix",
-                "commits": "264",
-                "stars": "63",
-                "languages": "JavaScript",
-                "city": "Castelldefels (near Barcelona, Spain)",
-                "avatar": "https://avatars2.githubusercontent.com/u/1099278?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13534,8 +12014,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13553,8 +12033,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13572,8 +12052,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13610,27 +12090,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.4809945",
-                    "38.34521"
-                ]
-            },
-            "properties": {
-                "position": "861",
-                "username": "Moter8",
-                "commits": "261",
-                "stars": "3",
-                "languages": "Java",
-                "city": "Alicante, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/3776997?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -13667,8 +12128,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13686,8 +12147,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13698,25 +12159,6 @@
                 "languages": "Java",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/6515064?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-3.8079336",
-                    "43.4609602"
-                ]
-            },
-            "properties": {
-                "position": "867",
-                "username": "oaguillon",
-                "commits": "260",
-                "stars": "",
-                "languages": "JavaScript",
-                "city": "San Gil Santander Colombia",
-                "avatar": "https://avatars2.githubusercontent.com/u/1925152?v=3&s=400"
             }
         },
         {
@@ -13800,8 +12242,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -13857,8 +12299,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -13919,25 +12361,6 @@
                 ]
             },
             "properties": {
-                "position": "881",
-                "username": "borjaburgos",
-                "commits": "255",
-                "stars": "6",
-                "languages": "Shell",
-                "city": "New York, NY & Madrid, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/3640206?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
-                ]
-            },
-            "properties": {
                 "position": "882",
                 "username": "beeva-nievesabalos",
                 "commits": "255",
@@ -13971,8 +12394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -13990,8 +12413,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.7465977",
-                    "40.9607395"
+                    "-5.6630253",
+                    "40.9649681"
                 ]
             },
             "properties": {
@@ -14028,27 +12451,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.6975995",
-                    "37.675267"
-                ]
-            },
-            "properties": {
-                "position": "888",
-                "username": "voylinux",
-                "commits": "253",
-                "stars": "10",
-                "languages": "JavaScript",
-                "city": "Mallorca (Spain)",
-                "avatar": "https://avatars1.githubusercontent.com/u/1538304?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -14085,8 +12489,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -14123,27 +12527,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.5979291",
-                    "37.1764874"
-                ]
-            },
-            "properties": {
-                "position": "893",
-                "username": "BraulioVM",
-                "commits": "252",
-                "stars": "15",
-                "languages": "JavaScript",
-                "city": "Málaga & Granada, Spain",
-                "avatar": "https://avatars2.githubusercontent.com/u/715372?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14161,8 +12546,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14180,8 +12565,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14192,25 +12577,6 @@
                 "languages": "JavaScript",
                 "city": "Madrid (Spain)",
                 "avatar": "https://avatars0.githubusercontent.com/u/284703?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-2.5855932",
-                    "43.3801347"
-                ]
-            },
-            "properties": {
-                "position": "897",
-                "username": "pnegre",
-                "commits": "251",
-                "stars": "84",
-                "languages": "Python",
-                "city": "Balearic Islands, Spain.",
-                "avatar": "https://avatars2.githubusercontent.com/u/45529?v=3&s=64"
             }
         },
         {
@@ -14237,8 +12603,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -14275,8 +12641,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -14287,25 +12653,6 @@
                 "languages": "Python",
                 "city": "Valencia (SPAIN)",
                 "avatar": "https://avatars0.githubusercontent.com/u/1507621?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-2.2950183",
-                    "37.4850307"
-                ]
-            },
-            "properties": {
-                "position": "905",
-                "username": "Rubentxu",
-                "commits": "249",
-                "stars": "21",
-                "languages": "JavaScript",
-                "city": "Vitoria (Alava, Spain)",
-                "avatar": "https://avatars0.githubusercontent.com/u/604924?v=3&s=64"
             }
         },
         {
@@ -14351,8 +12698,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14389,8 +12736,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -14446,8 +12793,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -14465,8 +12812,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14477,25 +12824,6 @@
                 "languages": "Java",
                 "city": "Madrid, Spain",
                 "avatar": "https://avatars2.githubusercontent.com/u/2472301?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-1.9795743",
-                    "40.223488"
-                ]
-            },
-            "properties": {
-                "position": "918",
-                "username": "kewelinho",
-                "commits": "245",
-                "stars": "1",
-                "languages": "JavaScript",
-                "city": "A coruña",
-                "avatar": "https://avatars1.githubusercontent.com/u/4988013?v=3&s=64"
             }
         },
         {
@@ -14522,8 +12850,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14541,8 +12869,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14560,8 +12888,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.2950183",
-                    "37.4850307"
+                    "-2.020169",
+                    "43.2674545"
                 ]
             },
             "properties": {
@@ -14598,8 +12926,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.5700746",
-                    "36.957424"
+                    "-2.4679217",
+                    "36.8401638"
                 ]
             },
             "properties": {
@@ -14636,8 +12964,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14655,8 +12983,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14674,8 +13002,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.9250864",
-                    "43.1495502"
+                    "-2.9916667",
+                    "43.2972222"
                 ]
             },
             "properties": {
@@ -14712,8 +13040,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -14724,25 +13052,6 @@
                 "languages": "JavaScript",
                 "city": "Valencia (Spain)",
                 "avatar": "https://avatars2.githubusercontent.com/u/9354245?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-4.9624159",
-                    "39.5760721"
-                ]
-            },
-            "properties": {
-                "position": "934",
-                "username": "carlosrodlop",
-                "commits": "242",
-                "stars": "0",
-                "languages": "JavaScript",
-                "city": "Seville, Spain.",
-                "avatar": "https://avatars2.githubusercontent.com/u/8872896?v=3&s=64"
             }
         },
         {
@@ -14769,8 +13078,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14807,8 +13116,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -14864,27 +13173,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.1699187",
-                    "41.387917"
-                ]
-            },
-            "properties": {
-                "position": "942",
-                "username": "txels",
-                "commits": "239",
-                "stars": "230",
-                "languages": "Python",
-                "city": "Reykjavik & Barcelona",
-                "avatar": "https://avatars1.githubusercontent.com/u/874958?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -14902,8 +13192,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14921,8 +13211,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14940,8 +13230,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14959,8 +13249,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -14978,8 +13268,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-2.5700746",
-                    "36.957424"
+                    "-2.4679217",
+                    "36.8401638"
                 ]
             },
             "properties": {
@@ -14997,8 +13287,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -15016,8 +13306,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15035,8 +13325,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15054,8 +13344,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15073,8 +13363,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15111,8 +13401,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15130,8 +13420,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-1.9795743",
-                    "40.223488"
+                    "-1.6441835",
+                    "42.8179879"
                 ]
             },
             "properties": {
@@ -15149,8 +13439,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -15168,8 +13458,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15187,8 +13477,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15244,8 +13534,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15282,8 +13572,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -15320,8 +13610,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-3.9883887",
-                    "37.0025184"
+                    "-3.5979291",
+                    "37.1764874"
                 ]
             },
             "properties": {
@@ -15377,8 +13667,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.7465977",
-                    "40.9607395"
+                    "-5.6630253",
+                    "40.9649681"
                 ]
             },
             "properties": {
@@ -15472,8 +13762,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15529,8 +13819,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15548,27 +13838,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.9608395",
-                    "42.2674977"
-                ]
-            },
-            "properties": {
-                "position": "988",
-                "username": "templix",
-                "commits": "230",
-                "stars": "1",
-                "languages": "Shell",
-                "city": "Figueres(Catalunya,Spain)",
-                "avatar": "https://avatars0.githubusercontent.com/u/2451476?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-5.9081615",
-                    "37.3892038"
+                    "-5.9962951",
+                    "37.38264"
                 ]
             },
             "properties": {
@@ -15586,27 +13857,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "2.6165625",
-                    "39.5719201"
-                ]
-            },
-            "properties": {
-                "position": "990",
-                "username": "Suui",
-                "commits": "230",
-                "stars": "3",
-                "languages": "C++",
-                "city": "Las Palmas de GC, Spain",
-                "avatar": "https://avatars0.githubusercontent.com/u/7011096?v=3&s=64"
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15643,8 +13895,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.8846827",
-                    "41.4433668"
+                    "-3.7003454",
+                    "40.4166909"
                 ]
             },
             "properties": {
@@ -15719,8 +13971,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-5.5198607",
-                    "42.2940141"
+                    "-0.3768049",
+                    "39.4702393"
                 ]
             },
             "properties": {
@@ -15738,8 +13990,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "0.7055162",
-                    "41.5532128"
+                    "0.6257825",
+                    "41.6141518"
                 ]
             },
             "properties": {
