@@ -50,7 +50,7 @@
                 };
 
                 $.get('./top_github_ES.geojson', null, function(data) {
-                    var features = data;
+                    var features = data.features;
                     for (var i = 0, l = features.length; i<l; i++) {
                         var feature = features[i];
                         heatmapData.data.push({
