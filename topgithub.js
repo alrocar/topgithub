@@ -92,14 +92,15 @@ topgithub.prototype.getLonLat = function(city) {
             break;
         }
 
-        c = cityParts[i].trim();
+        c = cityParts[i].trim().toLowerCase();
 
         if (!cities[c]) {
             for (var j = 0; j < citiesObj.length; j++) {
-                if (new Levenshtein(citiesObj[j].municipio, c).distance <= 3) {
+                if (new Levenshtein(citiesObj[j].municipio.toLowerCase(), c.toLowerCase()).distance <= 1) {
                     coord = [citiesObj[j].longitud, citiesObj[j].latitud];
                     cities[c] = coord;
                     found = true;
+                    // console.log(citiesObj[j].municipio.toLowerCase() + ' - ' + c.toLowerCase());
                     break;
                 }
             }
